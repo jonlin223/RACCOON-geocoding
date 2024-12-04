@@ -1,0 +1,5 @@
+location,start,end,lat,long,country,geo_id
+Los Angeles,27,38,34.0522,-118.244,us,5368361
+Los Angeles,104,115,34.0522,-118.244,us,5368361
+New York,1776,1784,43.0003,-75.4999,us,5128638
+France,3881,3887,46,2,fr,3017382

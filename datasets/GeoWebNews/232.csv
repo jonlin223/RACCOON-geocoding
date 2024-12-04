@@ -1,0 +1,7 @@
+location,class,start,end,lat,long,country,geo_id
+Washington,Literal,3273,3283,38.89511,-77.03637,us,4140963
+Washington,Literal,674,684,38.89511,-77.03637,us,4140963
+Washington,Literal,2158,2168,38.89511,-77.03637,us,4140963
+OAS,Coercion,2151,2154,38.89261,-77.03998,us,4139915
+Trinidad,Literal,2366,2374,11.0,-61.0,tt,3573591
+T&T,Literal_Modifier,659,662,11.0,-61.0,tt,3573591

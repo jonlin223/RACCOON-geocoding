@@ -1,0 +1,15 @@
+location,start,end,lat,long,country
+United States,40,53,40.0,-100.0,us
+Canada,81,87,60.0,-95.0,ca
+U.S.,194,198,40.0,-100.0,us
+U.S.,282,286,40.0,-100.0,us
+British Columbia,876,892,54.0,-125.0,ca
+Alberta,894,901,55.0,-115.0,ca
+Saskatchewan,903,915,55.0,-106.0,ca
+Manitoba,917,925,55.0,-97.0,ca
+Ontario,931,938,50.0,-85.0,ca
+Calgary,1013,1020,51.05,-114.06,ca
+Alberta,1022,1029,55.0,-115.0,ca
+Toronto,1138,1145,43.7,-79.4,ca
+Ontario,1147,1154,50.0,-85.0,ca
+Calgary,1380,1387,51.05,-114.06,ca

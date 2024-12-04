@@ -1,0 +1,7 @@
+location,class,start,end,lat,long,country,geo_id
+Heathrow,Literal_Modifier,2820,2828,51.47115,-0.45649,gb,2647216
+London,Literal_Modifier,2646,2652,51.50853,-0.12574,gb,2643743
+Kansas City,Literal,1104,1115,39.09973,-94.57857,us,4393217
+Japan,Literal,1086,1091,35.68536,139.75309,jp,1861060
+Air Canada Cargo,Coercion,2692,2708,45.467263,-73.776689,ca,
+Heathrow Animal Reception Center,Coercion,2655,2687,51.455890,-0.455783,gb,

@@ -1,0 +1,27 @@
+location,class,start,end,lat,long,country,geo_id
+Yorkshire,Literal,2910,2919,53.93264,-1.28712,gb,11591951
+Snetterton,Literal,2933,2943,52.47985,0.94448,gb,7301855
+Snetterton,Literal,2128,2138,52.47985,0.94448,gb,7301855
+Norfolk,Literal,2945,2952,52.66667,1.0,gb,2641455
+Hampshire,Literal,2846,2855,51.0,-1.25,gb,2647554
+Cheshire,Literal,2881,2889,53.16352,-2.73595,gb,7290537
+Oulton Park,Literal,2868,2879,53.17883,-2.61702,gb,2640826
+Croft,Literal,2903,2908,54.46581,-1.58167,gb,7292068
+Rockingham,Literal,2968,2978,52.51409,-0.72412,gb,7299049
+Northamptonshire,Literal,2980,2996,52.25,-0.83333,gb,2641429
+Donington Park,Literal,2793,2807,52.82843,-1.37254,gb,6695003
+Thruxton,Literal,2836,2844,51.20871,-1.58426,gb,2635908
+Kent,Literal_Modifier,1981,1985,51.16667,0.66667,gb,3333158
+Leicestershire,Literal,2809,2823,52.66667,-1.0,gb,2644667
+Kent,Literal,2774,2778,51.16667,0.66667,gb,3333158
+Kent,Literal,3111,3115,51.16667,0.66667,gb,3333158
+Brands Hatch,Embedded_Literal,3094,3106,51.36182,0.26299,gb,6618982
+Brands Hatch,Literal,222,234,51.36182,0.26299,gb,6618982
+Brands Hatch,Embedded_Literal,2755,2767,51.36182,0.26299,gb,6618982
+Silverstone,Literal,3046,3057,52.07357,-1.0219,gb,7627299
+Northamptonshire,Literal,3059,3075,52.25,-0.83333,gb,2641429
+Fife,Literal,3023,3027,56.25,-3.16667,gb,2649469
+Knockhill,Literal,3012,3021,56.131414,-3.509247,gb,
+Paddock Hill Bend,Coercion,358,375,51.36182,0.26299,gb,6618982
+British,Embedded_Literal,166,173,54.75844,-2.69531,gb,2635167
+UK,Literal_Modifier,2492,2494,54.75844,-2.69531,gb,2635167

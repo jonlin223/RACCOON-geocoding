@@ -1,0 +1,10 @@
+location,class,start,end,lat,long,country,geo_id
+Hotel Kyjev,Literal,670,681,48.146,17.116,sk,6498635
+Prešov,Literal,325,331,48.99839,21.23393,sk,723819
+Košice,Literal,336,342,48.71395,21.25808,sk,724443
+Bratislava,Literal,479,489,48.14816,17.10674,sk,3060972
+Kamenné Square,Coercion,461,475,48.144997,17.113117,sk,
+Žilina,Literal,310,316,49.22315,18.73941,sk,3056508
+Nitra,Literal,318,323,48.30763,18.08453,sk,3058531
+Slovakia,Literal,264,272,48.66667,19.5,sk,3057568
+Slovakia,Literal,408,416,48.66667,19.5,sk,3057568

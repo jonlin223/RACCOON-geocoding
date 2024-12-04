@@ -1,0 +1,16 @@
+location,class,start,end,lat,long,country,geo_id
+Riverdale,Literal,2156,2165,40.99399,-74.30348,us,5103313
+Riverdale,Literal_Modifier,2195,2204,40.99399,-74.30348,us,5103313
+New York,Literal,2268,2276,40.71427,-74.00597,us,5128581
+Riverdale Lukoil South,Coercion,2540,2562,40.987871,-74.325994,us,
+U.S. Virgin Islands,Literal,2780,2799,18.34829,-64.98348,vi,4796775
+Riverdale Luke Oil,Coercion,1309,1327,40.987871,-74.325994,us,
+Florida,Literal,1920,1927,28.75054,-82.5001,us,4155751
+New York,Literal,2121,2129,40.71427,-74.00597,us,5128581
+Riverdale,Literal,2566,2575,40.99399,-74.30348,us,5103313
+"Washington, D.C.",Literal,2754,2770,38.91706,-77.00025,us,4138106
+Riverdale,Literal_Modifier,714,723,40.99399,-74.30348,us,5103313
+Morris County,Literal_Modifier,502,515,40.86203,-74.54444,us,5101405
+Lukeoil,Coercion,236,243,40.987871,-74.325994,us,
+Morris County,Literal,405,418,40.86203,-74.54444,us,5101405
+Riverdale,Literal,259,268,40.99399,-74.30348,us,5103313

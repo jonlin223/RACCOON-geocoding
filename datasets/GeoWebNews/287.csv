@@ -1,0 +1,9 @@
+location,class,start,end,lat,long,country,geo_id
+European,Literal_Modifier,259,267,48.69096,9.14062,,6255148
+Gothenburg,Literal,456,466,57.70716,11.96679,se,2711537
+Sweden,Literal,311,317,62.0,15.0,se,2661886
+Brasoc,Literal,1524,1530,45.660020,25.600020,ro,
+Sweden,Literal,1635,1641,62.0,15.0,se,2661886
+Hamburg,Literal,1515,1522,53.57532,10.01534,de,2911298
+Mannheim,Literal,1535,1543,49.4891,8.46694,de,2873891
+Copenhagen,Literal,1503,1513,55.67594,12.56553,dk,2618425

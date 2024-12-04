@@ -1,0 +1,25 @@
+location,class,start,end,lat,long,country,geo_id
+Britain,Literal,3143,3150,54.75844,-2.69531,gb,2635167
+Russia,Literal,1074,1080,60.0,100.0,ru,2017370
+Russia,Literal,1553,1559,60.0,100.0,ru,2017370
+United States,Literal,346,359,39.76,-98.5,us,6252001
+Moscow,Literal,616,622,55.75222,37.61556,ru,524901
+Washington,Literal,277,287,38.89511,-77.03637,us,4140963
+Moscow,Literal,3873,3879,55.75222,37.61556,ru,524901
+Moscow,Literal,2648,2654,55.75222,37.61556,ru,524901
+London,Literal,2693,2699,51.50853,-0.12574,gb,2643743
+United Kingdom,Literal,1994,2008,54.75844,-2.69531,gb,2635167
+Russian Embassy,Coercion,434,449,38.92483,-77.07526,us,4140269
+U.S.,Literal_Modifier,457,461,39.76,-98.5,us,6252001
+United Nations,Coercion,781,795,40.74955,-73.96792,us,5141947
+English,Literal_Modifier,2457,2464,52.16045,-0.70312,gb,6269131
+Salisbury,Literal,2473,2482,51.06931,-1.79569,gb,2638664
+Heathrow,Literal_Modifier,2801,2809,51.47115,-0.45649,gb,2647216
+Europe,Literal,3655,3661,48.69096,9.14062,,6255148
+Salisbury,Literal,3928,3937,51.06931,-1.79569,gb,2638664
+British,Literal_Modifier,1297,1304,54.75844,-2.69531,gb,2635167
+Britain,Literal,1462,1469,54.75844,-2.69531,gb,2635167
+Britain,Literal,972,979,54.75844,-2.69531,gb,2635167
+London,Literal,1944,1950,51.50853,-0.12574,gb,2643743
+Britain,Literal,236,243,54.75844,-2.69531,gb,2635167
+LONDON,Mixed,145,151,51.50853,-0.12574,gb,2643743

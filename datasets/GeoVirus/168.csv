@@ -1,0 +1,15 @@
+location,start,end,lat,long,country
+Americas,133,141,26.01,-104.41,mx
+Eastern Mediterranean,143,164,34.88,22.36,
+US,1014,1016,40.0,-100.0,us
+Canada,1021,1027,60.0,-95.0,ca
+Americas,1036,1044,26.01,-104.41,mx
+Eastern Mediterranean,1251,1272,34.88,22.36,
+Middle East,1401,1412,29.0,41.0,sa
+Americas,1520,1528,26.01,-104.41,mx
+Nicaragua,1597,1606,13.09,-86.0,ni
+Suriname,1616,1624,4.0,-56.0,sr
+French Guiana,1629,1642,4.0,-53.0,fr
+Haiti,1656,1661,19.0,-72.41,ht
+Dominican Republic,1670,1688,19.0,-70.66,do
+West Africa,2297,2308,18.31,-4.83,ml

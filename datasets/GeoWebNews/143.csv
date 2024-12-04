@@ -1,0 +1,3 @@
+location,class,start,end,lat,long,country,geo_id
+Holland,Literal,516,523,52.25,5.75,nl,2750405
+Cork,Literal_Modifier,747,751,51.89797,-8.47061,ie,2965140

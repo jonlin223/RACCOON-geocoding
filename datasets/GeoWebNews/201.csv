@@ -1,0 +1,7 @@
+location,class,start,end,lat,long,country,geo_id
+Texas,Mixed,1016,1021,31.25044,-99.25061,us,4736286
+New Mexico,Mixed,1036,1046,34.50034,-106.00085,us,5481136
+Arizona,Mixed,1023,1030,34.5003,-111.50098,us,5551752
+Mexico,Literal,1074,1080,23.0,-102.0,mx,3996063
+Mexico,Literal_Modifier,679,685,23.0,-102.0,mx,3996063
+Mexico,Literal_Modifier,451,457,23.0,-102.0,mx,3996063

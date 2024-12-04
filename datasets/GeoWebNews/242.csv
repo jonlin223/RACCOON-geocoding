@@ -1,0 +1,3 @@
+location,class,start,end,lat,long,country,geo_id
+Wyoming,Literal,361,368,43.00024,-107.5009,us,5843591
+WASHINGTON,Mixed,223,233,38.89511,-77.03637,us,4140963

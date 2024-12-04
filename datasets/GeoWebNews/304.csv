@@ -1,0 +1,6 @@
+location,class,start,end,lat,long,country,geo_id
+Brooklyn,Literal_Modifier,560,568,40.6501,-73.94958,us,5110302
+Barclays Center,Literal,571,586,40.6813,-73.98459,us,9794879
+New York,Literal_Modifier,1055,1063,40.71427,-74.00597,us,5128581
+NEW YORK,Mixed,180,188,40.71427,-74.00597,us,5128581
+Barclays Center,Literal,926,941,40.6813,-73.98459,us,9794879

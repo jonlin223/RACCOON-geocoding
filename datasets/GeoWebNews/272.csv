@@ -1,0 +1,28 @@
+location,class,start,end,lat,long,country,geo_id
+Syria,Literal,1978,1983,35.0,38.0,sy,163843
+Kasserine,Literal_Modifier,1826,1835,35.25,8.78333,tn,2473460
+Iraq,Literal,1962,1966,33.0,44.0,iq,99237
+Tunisia,Literal,1473,1480,34.0,9.0,tn,2464461
+Sirte,Literal,3258,3263,31.20892,16.58866,ly,2210554
+Misrata,Literal,3321,3328,32.37535,15.09254,ly,2214846
+Gabès,Literal,2615,2620,33.88146,10.0982,tn,2468369
+Tunisia,Literal,3550,3557,34.0,9.0,tn,2464461
+Tunisian,Literal_Modifier,3971,3979,34.0,9.0,tn,2464461
+Tunis,Literal,7021,7026,36.81897,10.16579,tn,2464470
+Tunis,Literal,3878,3883,36.81897,10.16579,tn,2464470
+Tunisia,Literal,4698,4705,34.0,9.0,tn,2464461
+North Africa,Mixed,5555,5567,32.95337,9.97559,,7729887
+North Africa,Literal,6869,6881,32.95337,9.97559,,7729887
+Libya,Literal,1968,1973,28.0,17.0,ly,2215636
+Libya,Literal,1762,1767,28.0,17.0,ly,2215636
+Brussels,Literal,1289,1297,50.85045,4.34878,be,2800866
+Libya,Literal,7087,7092,28.0,17.0,ly,2215636
+Libya,Literal,4109,4114,28.0,17.0,ly,2215636
+Libya,Literal,3525,3530,28.0,17.0,ly,2215636
+Libya,Literal,3165,3170,28.0,17.0,ly,2215636
+North Africa,Mixed,6710,6722,32.95337,9.97559,,7729887
+North Africa,Literal,7493,7505,32.95337,9.97559,,7729887
+Tunisia,Literal,466,473,34.0,9.0,tn,2464461
+Tunisia,Literal,6498,6505,34.0,9.0,tn,2464461
+Tunisia,Mixed,6523,6530,34.0,9.0,tn,2464461
+Mount Chaambi,Literal,1811,1824,32.59696,4.87005,dz,2496952

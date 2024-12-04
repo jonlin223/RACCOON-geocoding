@@ -1,0 +1,5 @@
+location,class,start,end,lat,long,country,geo_id
+Anfield,Literal,455,462,53.4308,-2.9611,gb,6288575
+Switzerland,Literal,878,889,47.00016,8.01427,ch,2658434
+UK,Mixed,333,335,54.75844,-2.69531,gb,2635167
+Anfield,Literal,232,239,53.4308,-2.9611,gb,6288575

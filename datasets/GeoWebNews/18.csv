@@ -1,0 +1,7 @@
+location,class,start,end,lat,long,country,geo_id
+LaFayette,Literal,812,821,34.7048,-85.2819,us,4204241
+Chattanooga,Literal,327,338,35.04563,-85.30968,us,4612862
+14th St.,Literal,436,444,35.039660,-85.312640,us,
+Walker County,Literal_Modifier,631,644,34.73566,-85.30098,us,4229163
+Hamilton County,Literal_Modifier,491,506,35.18086,-85.16479,us,4627306
+Ga.,Literal_Modifier,646,649,32.75042,-83.50018,us,4197000

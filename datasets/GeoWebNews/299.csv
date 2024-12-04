@@ -1,0 +1,6 @@
+location,class,start,end,lat,long,country,geo_id
+Mumbai,Literal,1422,1428,19.07283,72.88261,in,1275339
+India,Mixed,452,457,22.0,79.0,in,1269750
+India,Literal,666,671,22.0,79.0,in,1269750
+India,Mixed,1037,1042,22.0,79.0,in,1269750
+India,Literal,1931,1936,22.0,79.0,in,1269750

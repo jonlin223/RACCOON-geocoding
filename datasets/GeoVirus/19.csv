@@ -1,0 +1,12 @@
+location,start,end,lat,long,country
+Virginia,0,8,37.5,-79.0,us
+US,77,79,40.0,-100.0,us
+Pacific,301,308,0.0,-160.0,
+Alaska,333,339,64.0,-150.0,us
+Americas,321,329,19.0,-96.0,mx
+Pacific NorthWest,348,365,45.99,-118.49,us
+Asia,378,382,29.84,89.29,cn
+Atlantic,388,396,0.0,-25.0,
+Europe,436,442,51.0,17.5,pl
+Africa,447,453,7.18,21.09,cf
+North America,552,565,54.77,-105.64,ca

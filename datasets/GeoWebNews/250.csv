@@ -1,0 +1,9 @@
+location,class,start,end,lat,long,country,geo_id
+Salt + Smoke,Coercion,827,839,38.656076,-90.305145,us,
+Missouri,Literal,1131,1139,38.25031,-92.50046,us,4398678
+Lemay,Literal,1124,1129,38.53339,-90.27928,us,4394905
+St. Louis,Literal,397,406,38.62727,-90.19789,us,4407066
+St. Louis Hills,Literal_Modifier,866,881,38.62727,-90.19789,us,4407066
+ST. LOUIS,Mixed,139,148,38.62727,-90.19789,us,4407066
+500 block of Jeffords,Literal,1099,1120,38.532543,-90.286071,us,
+Hampton Avenue,Literal,844,858,38.598927,-90.292476,us,

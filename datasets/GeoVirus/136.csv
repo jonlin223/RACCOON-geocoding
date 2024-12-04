@@ -1,0 +1,35 @@
+location,start,end,lat,long,country
+U.S.,4,8,40.0,-100.0,us
+United States,123,136,40.0,-100.0,us
+California,762,772,37.0,-120.0,us
+Alaska,1238,1244,64.0,-150.0,us
+Alabama,1246,1253,32.7,-86.7,us
+Arizona,1255,1262,34.0,-112.0,us
+Arkansas,1264,1272,34.8,-92.2,us
+California,1274,1284,37.0,-120.0,us
+Colorado,1286,1294,39.0,-105.5,us
+Georgia,1296,1303,33.0,-83.5,us
+Idaho,1305,1310,45.0,-114.0,us
+Illinois,1312,1320,40.0,-89.0,us
+Indiana,1322,1329,40.0,-86.0,us
+Kansas,1331,1337,38.5,-98.0,us
+Kentucky,1339,1347,37.5,-85.0,us
+Louisiana,1349,1358,31.0,-92.0,us
+Michigan,1360,1368,44.0,-85.0,us
+Missouri,1370,1378,38.5,-92.5,us
+Mississippi,1380,1391,33.0,-90.0,us
+Montana,1393,1400,47.0,-110.0,us
+Nebraska,1402,1410,41.5,-100.0,us
+Nevada,1412,1418,39.0,-117.0,us
+New Mexico,1420,1430,34.0,-106.0,us
+North Carolina,1432,1446,35.5,-80.0,us
+Ohio,1448,1452,40.5,-82.5,us
+Oregon,1454,1460,44.0,-120.5,us
+South Carolina,1462,1476,34.0,-81.0,us
+Tennessee,1478,1487,36.0,-86.0,us
+Texas,1489,1494,31.0,-100.0,us
+Utah,1496,1500,39.0,-111.0,us
+Virginia,1502,1510,37.5,-79.0,us
+Washington,1512,1522,47.5,-120.5,us
+West Virginia,1524,1537,39.0,-80.5,us
+Wyoming,1542,1549,43.0,-107.5,us

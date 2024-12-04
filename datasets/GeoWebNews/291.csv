@@ -1,0 +1,7 @@
+location,class,start,end,lat,long,country,geo_id
+South Korea,Literal,1199,1210,36.5,127.75,kr,1835841
+South Korean,Mixed,187,199,36.5,127.75,kr,1835841
+South Korea,Mixed,423,434,36.5,127.75,kr,1835841
+Seoul Central District Court,Coercion,1013,1041,37.496017,127.011316,kr,
+South Korea,Mixed,165,176,36.5,127.75,kr,1835841
+SEOUL,Mixed,158,163,37.566,126.9784,kr,1835848

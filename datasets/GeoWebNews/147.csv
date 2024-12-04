@@ -1,0 +1,7 @@
+location,class,start,end,lat,long,country,geo_id
+Beijing,Literal,471,478,39.9075,116.39723,cn,1816670
+Chinese,Literal_Modifier,511,518,35.0,105.0,cn,1814991
+China,Mixed,2222,2227,35.0,105.0,cn,1814991
+China,Mixed,358,363,35.0,105.0,cn,1814991
+China,Mixed,420,425,35.0,105.0,cn,1814991
+China,Literal,122,127,35.0,105.0,cn,1814991

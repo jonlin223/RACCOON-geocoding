@@ -1,0 +1,36 @@
+location,start,end,lat,long,country
+United States,46,59,40.0,-100.0,us
+United States,195,208,40.0,-100.0,us
+Canada,213,219,60.0,-95.0,ca
+Honduras,340,348,15.0,-86.5,hn
+United States,503,516,40.0,-100.0,us
+United States,582,595,40.0,-100.0,us
+Canada,623,629,60.0,-95.0,ca
+United States,749,762,40.0,-100.0,us
+Arizona,800,807,34.0,-112.0,us
+California,809,819,37.0,-120.0,us
+Colorado,821,829,39.0,-105.5,us
+Georgia,831,838,33.0,-83.5,us
+Illinois,840,848,40.0,-89.0,us
+Missouri,850,858,38.5,-92.5,us
+New Jersey,860,870,40.0,-74.5,us
+New Mexico,872,882,34.0,-106.0,us
+New York,884,892,43.0,-75.0,us
+Ohio,894,898,40.5,-82.5,us
+Oklahoma,900,908,35.5,-98.0,us
+Oregon,910,916,44.0,-120.5,us
+Tennessee,918,927,36.0,-86.0,us
+Utah,929,933,39.0,-111.0,us
+Washington,935,945,47.5,-120.5,us
+Wisconsin,950,959,44.5,-89.5,us
+Canada,974,980,60.0,-95.0,ca
+British Columbia,993,1009,54.0,-125.0,ca
+Alberta,1011,1018,55.0,-115.0,ca
+Manitoba,1020,1028,55.0,-97.0,ca
+Ontario,1030,1037,50.0,-85.0,ca
+New Brunswick,1042,1055,46.0,-66.0,ca
+Honduras,1628,1636,15.0,-86.5,hn
+United States,1650,1663,40.0,-100.0,us
+Honduras,1721,1729,15.0,-86.5,hn
+U.S.,1787,1791,40.0,-100.0,us
+Honduras,1909,1917,15.0,-86.5,hn

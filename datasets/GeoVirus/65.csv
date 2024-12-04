@@ -1,0 +1,12 @@
+location,start,end,lat,long,country
+Alabama,143,150,32.7,-86.7,us
+Ames,378,382,42.03,-93.62,us
+Iowa,384,388,42.0,-93.0,us
+Georgia,577,584,33.0,-83.5,us
+Alabama,945,952,32.7,-86.7,us
+U.S.,1305,1309,40.0,-100.0,us
+Washington,1374,1384,47.5,-120.5,us
+Canada,1405,1411,60.0,-95.0,ca
+Texas,1534,1539,31.0,-100.0,us
+Sweden,1559,1565,63.0,16.0,se
+Canada,1639,1645,60.0,-95.0,ca

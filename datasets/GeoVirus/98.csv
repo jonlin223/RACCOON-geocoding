@@ -1,0 +1,31 @@
+location,start,end,lat,long,country
+Mexico,298,304,23.0,-102.0,mx
+United States,388,401,40.0,-100.0,us
+Canada,403,409,60.0,-95.0,ca
+United Kingdom,415,429,55.0,-3.0,gb
+Spain,431,436,40.0,-4.0,es
+New Zealand,438,449,-42.0,174.0,nz
+Israel,454,460,31.0,35.0,il
+United States,602,615,40.0,-100.0,us
+Texas,685,690,31.0,-100.0,us
+Mexico City,718,729,19.43,-99.13,mx
+United States,799,812,40.0,-100.0,us
+Spain,814,819,40.0,-4.0,es
+Mexico,907,913,23.0,-102.0,mx
+United States,1973,1986,40.0,-100.0,us
+California,2033,2043,37.0,-120.0,us
+Texas,2092,2097,31.0,-100.0,us
+Kansas,2106,2112,38.5,-98.0,us
+Ohio,2130,2134,40.5,-82.5,us
+New York,2136,2144,43.0,-75.0,us
+United States,2309,2322,40.0,-100.0,us
+US,2354,2356,40.0,-100.0,us
+New Zealand,2669,2680,-42.0,174.0,nz
+Mexico,2770,2776,23.0,-102.0,mx
+Israel,2942,2948,31.0,35.0,il
+South Korea,2995,3006,36.0,128.0,kr
+Mexico,3049,3055,23.0,-102.0,mx
+Spain,3063,3068,40.0,-4.0,es
+Mexico,3171,3177,23.0,-102.0,mx
+Mexico City,3310,3321,19.43,-99.13,mx
+Mexico City,3461,3472,19.43,-99.13,mx

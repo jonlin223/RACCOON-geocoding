@@ -1,0 +1,11 @@
+location,class,start,end,lat,long,country,geo_id
+Suwon,Literal,387,392,37.29111,127.00889,kr,1835553
+Incheon,Literal,397,404,37.45646,126.70515,kr,1843564
+Jamsil Stadium,Literal,850,864,37.512307,127.072320,kr,
+Seoul,Literal,356,361,37.566,126.9784,kr,1835848
+Seoul,Literal_Modifier,842,847,37.566,126.9784,kr,1835848
+South Korea,Literal_Modifier,1467,1478,36.5,127.75,kr,1835841
+South Korea,Literal,1124,1135,36.5,127.75,kr,1835841
+South Korea,Literal_Modifier,158,169,36.5,127.75,kr,1835841
+China,Mixed,1292,1297,35.0,105.0,cn,1814991
+China,Mixed,1431,1436,35.0,105.0,cn,1814991

@@ -1,0 +1,11 @@
+location,start,end,lat,long,country
+United States,29,42,40.0,-100,us
+Norway,47,53,61.0,8,no
+Norway,297,303,61.0,8,no
+North Carolina,577,591,35.5,-80,us
+U.S.,1003,1007,40.0,-100,us
+Mexico,1403,1409,23.0,-102,mx
+China,1411,1416,35.0,103,cn
+Japan,1418,1423,35.0,136,jp
+Ukraine,1425,1432,49.0,32,ua
+Brazil,1437,1443,-10.0,-52,br

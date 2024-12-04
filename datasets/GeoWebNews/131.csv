@@ -1,0 +1,8 @@
+location,class,start,end,lat,long,country,geo_id
+No. 2 Detention Centre,Literal,803,825,39.14222,117.17667,cn,1792947
+Tianjin,Literal,973,980,39.33333,117.33333,cn,1792943
+Tianjin,Literal_Modifier,2554,2561,39.33333,117.33333,cn,1792943
+Tianjin,Literal,855,862,39.33333,117.33333,cn,1792943
+Supreme People's Court,Coercion,1681,1703,39.903198,116.404954,cn,
+Beijing,Literal,1707,1714,39.91691,116.39706,cn,2038349
+Beijing,Literal,787,794,39.91691,116.39706,cn,2038349

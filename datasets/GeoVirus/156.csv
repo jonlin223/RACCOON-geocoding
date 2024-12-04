@@ -1,0 +1,20 @@
+location,start,end,lat,long,country
+New South Wales,86,101,-32.16,147.01,au
+Queensland,106,116,-23.0,143.0,au
+Australia,160,169,-25.0,133.0,au
+NSW,293,296,-32.16,147.01,au
+Queensland,301,311,-23.0,143.0,au
+NSW,408,411,-32.16,147.01,au
+Queensland,416,426,-23.0,143.0,au
+NSW,668,671,-32.16,147.01,au
+Queensland,676,686,-23.0,143.0,au
+Randwick,748,756,-33.91,151.23,au
+Sydney,771,777,-33.86,151.2,au
+Randwick,896,904,-33.91,151.23,au
+Sydney,1066,1072,-33.86,151.2,au
+Melbourne,1077,1086,-37.81,144.96,au
+Rosehill,1127,1135,-33.82,151.03,au
+Melbourne,1185,1194,-37.81,144.96,au
+Victoria,1285,1293,-37.0,144.0,au
+NSW,1509,1512,-32.16,147.01,au
+NSW,1611,1614,-32.16,147.01,au

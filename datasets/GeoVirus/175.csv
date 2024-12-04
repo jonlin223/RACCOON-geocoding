@@ -1,0 +1,17 @@
+location,start,end,lat,long,country
+South Asia,54,64,21.28,78.66,in
+Pakistan,230,238,30.0,70.0,pk
+Jammu and Kashmir,522,539,33.45,76.24,in
+Australia,648,657,-25.0,133.0,au
+Pakistan,678,686,30.0,70.0,pk
+Kashmir,700,707,34.5,76.0,in
+Pakistan,1088,1096,30.0,70.0,pk
+Australia,1179,1188,-25.0,133.0,au
+France,1190,1196,47.0,2.0,fr
+Japan,1198,1203,35.0,136.0,jp
+Jordan,1205,1211,31.24,36.51,jo
+China,1213,1218,35.0,103.0,cn
+Russia,1220,1226,60.0,90.0,ru
+Iran,1228,1232,32.0,53.0,ir
+Syria,1234,1239,35.0,38.0,sy
+US,1248,1250,40.0,-100.0,us

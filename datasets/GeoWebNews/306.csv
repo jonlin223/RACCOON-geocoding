@@ -1,0 +1,7 @@
+location,class,start,end,lat,long,country,geo_id
+Princes Theatre,Literal,2093,2108,51.791889,1.153435,gb,
+Las Vegas,Literal,572,581,36.17497,-115.13722,us,5506956
+US,Literal,468,470,39.76,-98.5,us,6252001
+Caesar's Palace,Literal,517,532,36.1143,-115.1731,us,6479910
+Canada,Literal,453,459,60.10867,-113.64258,ca,6251999
+Clacton,Literal,653,660,51.78967,1.15597,gb,2652974

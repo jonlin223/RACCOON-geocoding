@@ -1,0 +1,16 @@
+location,start,end,lat,long,country
+China,0,5,35.0,103.0,cn
+Russia,82,88,60.0,90.0,ru
+Romania,90,97,46.0,25.0,ro
+Macedonia,103,112,41.6,21.7,mk
+China,114,119,35.0,103.0,cn
+China,201,206,35.0,103.0,cn
+Hohhot,272,278,40.81,111.65,cn
+Inner Mongolia,295,309,44.0,113.0,cn
+Russia,367,373,60.0,90.0,ru
+Moscow,469,475,55.75,37.61,ru
+Ural Mountains,556,570,60.0,60.0,ru
+Russia,586,592,60.0,90.0,ru
+Macedonia,622,631,41.6,21.7,mk
+Romania,727,734,46.0,25.0,ro
+Danube Delta,789,801,45.33,29.5,ro

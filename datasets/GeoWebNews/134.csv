@@ -1,0 +1,12 @@
+location,class,start,end,lat,long,country,geo_id
+Eva's Village,Coercion,681,694,40.912253,-74.171892,us,
+Paterson,Literal,698,706,40.91677,-74.17181,us,5102466
+Maywood,Mixed,1621,1628,40.9026,-74.06181,us,5100972
+Paterson,Literal,1360,1368,40.91677,-74.17181,us,5102466
+Seasons restaurant,Coercion,1458,1476,40.996857,-74.060587,us,
+Eva's Village,Coercion,1343,1356,40.912253,-74.171892,us,
+Maywood,Mixed,521,528,40.9026,-74.06181,us,5100972
+Washington Township,Literal,1480,1499,40.98832,-74.06358,us,7259146
+New Jersey,Mixed,2472,2482,40.16706,-74.49987,us,5101760
+N.J.,Mixed,1055,1059,40.16706,-74.49987,us,5101760
+ALLENDALE,Mixed,1044,1053,41.04149,-74.12903,us,5095124

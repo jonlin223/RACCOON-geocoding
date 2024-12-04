@@ -1,0 +1,5 @@
+location,class,start,end,lat,long,country,geo_id
+Airport Courthouse,Coercion,1153,1171,33.928218,-118.371353,us,
+N. Bedford Drive,Literal,1397,1413,34.072903,-118.411910,us,
+Beverly Hills,Literal,476,489,34.07362,-118.40036,us,5328041
+LOS ANGELES,Mixed,204,215,34.05223,-118.24368,us,5368361

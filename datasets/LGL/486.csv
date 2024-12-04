@@ -1,0 +1,11 @@
+location,start,end,lat,long,country,geo_id
+Santa Clara Valley,0,18,37.2488,-121.84,us,5393046
+Santa Clara Valley,230,248,37.2488,-121.84,us,5393046
+Santa Clara County,575,593,37.2333,-121.768,us,5393021
+Los Altos,599,608,37.3852,-122.114,us,5368335
+Gilroy,612,618,37.0058,-121.568,us,5352214
+San Jose,762,770,37.3394,-121.895,us,5392171
+Sunnyvale,803,812,37.3688,-122.036,us,5400075
+Morgan Hill,817,828,37.1305,-121.654,us,5374764
+Santa Clara County,976,994,37.2333,-121.768,us,5393021
+San Jose,1190,1198,37.3394,-121.895,us,5392171

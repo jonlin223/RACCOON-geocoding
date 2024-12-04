@@ -1,0 +1,15 @@
+location,start,end,lat,long,country
+Lyon,136,140,45.76,4.84,fr
+France,156,162,47.0,2.0,fr
+France,164,170,47.0,2.0,fr
+European Union,201,215,51.0,17.5,pl
+Austria,248,255,47.33,13.33,at
+Germany,257,264,51.0,9.0,de
+Slovenia,266,274,46.11,14.81,si
+Greece,286,292,39.0,22.0,gr
+Italy,297,302,43.0,12.0,it
+Croatia,331,338,45.16,15.5,hr
+Denmark,343,350,56.0,10.0,dk
+Europe,503,509,51.0,17.5,pl
+Somme,786,791,49.91,2.5,fr
+France,815,821,47.0,2.0,fr

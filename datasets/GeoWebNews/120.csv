@@ -1,0 +1,12 @@
+location,class,start,end,lat,long,country,geo_id
+Kentucky,Literal,3731,3739,38.20042,-84.87762,us,6254925
+Dubai World Cup,Coercion,426,441,25.0657,55.17128,ae,292223
+Dubai World Cup,Coercion,1734,1749,25.0657,55.17128,ae,292223
+Dubai Turf,Coercion,1512,1522,25.0657,55.17128,ae,292223
+Dubai World Cup,Coercion,709,724,25.0657,55.17128,ae,292223
+Dubai World Cup,Coercion,1377,1392,25.0657,55.17128,ae,292223
+World Cup,Coercion,2580,2589,25.15757,55.30364,ae,8379005
+Helmet,Literal,784,790,37.91702,-77.10596,us,4763613
+Meydan Racecourse,Literal,351,368,25.15757,55.30364,ae,8379005
+Dubai,Literal,161,166,25.0657,55.17128,ae,292223
+Europe,Literal,3707,3713,48.69096,9.14062,,6255148

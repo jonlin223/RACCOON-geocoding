@@ -1,0 +1,4 @@
+location,start,end,lat,long,country,geo_id
+Los Angeles,101,112,34.0522,-118.244,us,5368361
+Los Angeles,406,417,34.0522,-118.244,us,5368361
+Camarillo,967,976,34.2164,-119.038,us,5333180

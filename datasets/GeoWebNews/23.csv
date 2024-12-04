@@ -1,0 +1,7 @@
+location,class,start,end,lat,long,country,geo_id
+Imperial Beach,Literal,888,902,32.58394,-117.11308,us,5359054
+Baja California,Literal,615,630,30.0,-115.0,mx,4017700
+SAN DIEGO,Mixed,348,357,32.71571,-117.16472,us,5391811
+Tijuana,Literal_Modifier,461,468,32.5027,-117.00371,mx,3981609
+Tijuana River,Literal,598,611,32.55668,-117.12865,us,3981608
+TIJUANA,Mixed,338,345,32.5027,-117.00371,mx,3981609

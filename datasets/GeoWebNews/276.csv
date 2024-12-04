@@ -1,0 +1,9 @@
+location,class,start,end,lat,long,country,geo_id
+Finland,Literal,1064,1071,64.0,26.0,fi,660013
+Espoo,Literal,1057,1062,60.2052,24.6522,fi,660158
+Europe,Literal,2809,2815,48.69096,9.14062,,6255148
+Northern Europe,Literal,1208,1223,61.68987,2.90039,,7729883
+Finland,Literal,322,329,64.0,26.0,fi,660013
+Europe,Mixed,459,465,48.69096,9.14062,,6255148
+Europe,Mixed,1745,1751,48.69096,9.14062,,6255148
+European,Mixed,567,575,48.69096,9.14062,,6255148

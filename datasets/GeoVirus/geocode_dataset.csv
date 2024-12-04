@@ -1,0 +1,2168 @@
+location,lat,lon,country,file
+Pandi,14.87,120.95,ph,0
+Central Luzon,15.47,120.75,ph,0
+Bulacan,15.0,121.08,ph,0
+Bulacan,15.0,121.08,ph,1
+Manaoag,16.04,120.48,ph,1
+Pangasinan,15.92,120.33,ph,1
+Palauig,15.43,120.05,ph,1
+Pandi,14.87,120.95,ph,1
+Cabanatuan,15.48,120.97,ph,1
+Nueva Ecija,15.58,121.0,ph,1
+Zaïre,-2.88,23.65,cd,1
+Bundibugyo,0.71,30.06,ug,1
+Côte d'Ivoire,8.0,-5.0,ci,1
+Sudan,15.0,32.0,sd,1
+Balintawak,14.63,121.03,ph,2
+Quezon City,14.63,121.03,ph,2
+Bulacan,15.0,121.08,ph,2
+Pandi,14.87,120.95,ph,2
+Talavera,15.58,120.91,ph,2
+Eastern Visayas,11.24,125.05,ph,2
+Tacloban,11.24,125.0,ph,2
+Babatngon,11.42,124.85,ph,2
+Texas,31.0,-100.0,us,3
+Liberia,6.5,-9.5,lr,3
+US,40.0,-100.0,us,3
+Fort Hood,31.13,-97.78,us,3
+Fort Hood,31.13,-97.78,us,3
+Africa,7.18,21.09,cf,3
+US,40.0,-100.0,us,3
+Washington,38.9,-77.01,us,4
+D.C.,38.9,-77.01,us,4
+Rockville,39.08,-77.14,us,4
+Maryland,39.0,-76.7,us,4
+Nigeria,8.0,10.0,ng,4
+London,51.5,-0.12,gb,5
+Sierra Leone,8.5,-11.5,sl,5
+Glasgow,55.85,-4.25,gb,5
+Krasnodar,45.06,38.96,ru,6
+Russia,60.0,90.0,ru,6
+Temryuk,45.26,37.38,ru,6
+Anapa,44.88,37.31,ru,6
+Krasnodar,45.06,38.96,ru,6
+Taiwan,25.03,121.63,tw,7
+Lujhu,25.03,121.28,tw,7
+Taoyuan,24.98,121.31,tw,7
+Kaohsiung,22.63,120.26,tw,7
+Taiwan,25.03,121.63,tw,7
+Dorset,50.83,-2.33,gb,8
+England,51.5,-0.11,gb,8
+United Kingdom,55.0,-3.0,gb,8
+Queen Anne's County,39.03,-76.08,us,9
+Crawford County,41.68,-80.11,us,9
+Pennsylvania,41.0,-77.5,us,9
+Pennsylvania,41.0,-77.5,us,9
+Asia,29.84,89.29,cn,9
+Europe,51.0,17.5,pl,9
+Africa,7.18,21.09,cf,9
+Queen Anne's County,39.03,-76.08,us,9
+Maryland,39.0,-76.7,us,9
+Pennsylvania,41.0,-77.5,us,9
+Canada,60.0,-95.0,ca,10
+Prince Edward Island,46.25,-63.0,ca,10
+O'Leary,46.7,-64.23,ca,10
+Charlottetown,46.23,-63.12,ca,10
+Prince Edward Island,46.25,-63.0,ca,10
+West Prince,46.36,-63.43,ca,10
+Oskarshamn,57.26,16.45,se,11
+Sweden,63.0,16.0,se,11
+Sweden,63.0,16.0,se,11
+EU,51.0,17.5,pl,11
+Uppsala,59.85,17.64,se,11
+UK,55.0,-3.0,gb,11
+Sweden,63.0,16.0,se,11
+Sweden,63.0,16.0,se,11
+Rügen,54.41,13.4,de,11
+Baltic Sea,58.0,20.0,nan,11
+Egypt,26.0,30.0,eg,12
+Egypt,26.0,30.0,eg,12
+Mediterranean,35.0,18.0,nan,12
+Egypt,26.0,30.0,eg,12
+Cairo,30.04,31.23,eg,12
+Giza,30.01,31.21,eg,12
+Al-Minya,28.11,30.74,eg,12
+United Kingdom,55.0,-3.0,gb,13
+UK,55.0,-3.0,gb,13
+Suffolk,52.16,1.0,gb,13
+Norfolk,52.66,1.0,gb,13
+Weybridge,51.36,-0.45,gb,13
+Tulungagung,-8.06,111.9,id,14
+East Java,-7.26,112.75,id,14
+Hong Kong,22.3,114.2,cn,14
+Indonesia,-5.0,120.0,id,14
+Jakarta,-6.2,106.81,id,15
+Indonesia,-5.0,120.0,id,15
+Fujian,25.9,118.3,cn,15
+China,35.0,103.0,cn,15
+China,35.0,103.0,cn,15
+U.K.,55.0,-3.0,gb,16
+Wales,52.3,-3.6,gb,16
+England,51.5,-0.11,gb,16
+Norfolk,52.66,1.0,gb,17
+England,51.5,-0.11,gb,17
+Netherlands,52.31,5.55,nl,17
+UK,55.0,-3.0,gb,17
+Fife,56.25,-3.2,gb,17
+China,35.0,103.0,cn,18
+Russia,60.0,90.0,ru,18
+Romania,46.0,25.0,ro,18
+Macedonia,41.6,21.7,mk,18
+China,35.0,103.0,cn,18
+China,35.0,103.0,cn,18
+Hohhot,40.81,111.65,cn,18
+Inner Mongolia,44.0,113.0,cn,18
+Russia,60.0,90.0,ru,18
+Moscow,55.75,37.61,ru,18
+Ural Mountains,60.0,60.0,ru,18
+Russia,60.0,90.0,ru,18
+Macedonia,41.6,21.7,mk,18
+Romania,46.0,25.0,ro,18
+Danube Delta,45.33,29.5,ro,18
+Virginia,37.5,-79.0,us,19
+US,40.0,-100.0,us,19
+Pacific,0.0,-160.0,nan,19
+Alaska,64.0,-150.0,us,19
+Americas,19.0,-96.0,mx,19
+Pacific NorthWest,45.99,-118.49,us,19
+Asia,29.84,89.29,cn,19
+Atlantic,0.0,-25.0,nan,19
+Europe,51.0,17.5,pl,19
+Africa,7.18,21.09,cf,19
+North America,54.77,-105.64,ca,19
+Europe,51.0,17.5,pl,20
+Greece,39.0,22.0,gr,20
+Bulgaria,42.75,25.5,bg,20
+Italy,43.0,12.0,it,20
+Austria,47.33,13.33,at,20
+Germany,51.0,9.0,de,20
+Slovenia,46.11,14.81,si,20
+Croatia,45.16,15.5,hr,20
+Denmark,56.0,10.0,dk,20
+Africa,7.18,21.09,cf,20
+Europe,51.0,17.5,pl,20
+Western Europe,50.21,7.42,de,20
+Russia,60.0,90.0,ru,20
+Ukraine,49.0,32.0,ua,20
+Black Sea,44.0,35.0,nan,20
+Egypt,26.0,30.0,eg,21
+Egypt,26.0,30.0,eg,21
+Menoufia,30.52,30.99,eg,21
+Daqahliya,31.05,31.38,eg,21
+Beni Suef,29.06,31.08,eg,21
+Egypt,26.0,30.0,eg,21
+North Korea,40.0,127.0,kp,22
+Pyongyang,39.01,125.73,kp,22
+North Korea,40.0,127.0,kp,22
+India,21.0,78.0,in,23
+Maharashtra,18.97,72.82,in,23
+Mumbai,18.97,72.82,in,23
+Nandurbar,21.37,74.25,in,23
+Dhule,20.89,74.76,in,23
+Iraq,33.0,44.0,iq,24
+United States,40.0,-100.0,us,24
+Cairo,30.04,31.23,eg,24
+UK,55.0,-3.0,gb,24
+Ranya,36.25,44.88,iq,24
+Iraq,33.0,44.0,iq,24
+Turkey,39.0,35.0,tr,24
+Turkey,39.0,35.0,tr,24
+Rotterdam,51.91,4.5,nl,25
+Lelystad,52.5,5.48,nl,25
+Netherlands,52.31,5.55,nl,25
+Poland,52.0,20.0,pl,26
+Toruń,53.03,18.61,pl,26
+Weybridge,51.36,-0.45,gb,26
+England,51.5,-0.11,gb,26
+Poland,52.0,20.0,pl,26
+Pulawy,51.41,21.96,pl,26
+Toruń,53.03,18.61,pl,26
+Lyon,45.76,4.84,fr,27
+France,47.0,2.0,fr,27
+France,47.0,2.0,fr,27
+European Union,51.0,17.5,pl,27
+Austria,47.33,13.33,at,27
+Germany,51.0,9.0,de,27
+Slovenia,46.11,14.81,si,27
+Greece,39.0,22.0,gr,27
+Italy,43.0,12.0,it,27
+Croatia,45.16,15.5,hr,27
+Denmark,56.0,10.0,dk,27
+Europe,51.0,17.5,pl,27
+Somme,49.91,2.5,fr,27
+France,47.0,2.0,fr,27
+United Kingdom,55.0,-3.0,gb,28
+Suffolk,52.16,1.0,gb,28
+England,51.5,-0.11,gb,28
+Cellardyke,56.21,-2.7,gb,28
+Fife,56.25,-3.2,gb,28
+Scotland,56.0,-4.0,gb,28
+Suffolk,52.16,1.0,gb,28
+Sumatra,0.0,102.0,id,29
+Karo,3.1,98.5,id,29
+Medan,3.58,98.66,id,29
+China,35.0,103.0,cn,30
+Anhui,31.83,117.0,cn,30
+Hunan,27.4,111.8,cn,30
+Liaoning,41.1,122.3,cn,30
+China,35.0,103.0,cn,30
+Germany,51.0,9.0,de,31
+France,47.0,2.0,fr,31
+Saxony-Anhalt,51.97,11.47,de,31
+Thuringia,50.86,11.05,de,31
+France,47.0,2.0,fr,31
+Assenoncourt,48.77,6.79,fr,31
+Europe,51.0,17.5,pl,31
+Romania,46.0,25.0,ro,32
+Ciocile,44.81,27.23,ro,32
+Brăila,45.11,27.68,ro,32
+Bumbacari,44.88,27.44,ro,32
+Dudescu,44.88,27.44,ro,32
+Ceamurlia de Jos,44.73,28.71,ro,32
+Maliuc,45.16,29.08,ro,32
+Caraorman,45.1,29.3,ro,32
+Russia,60.0,90.0,ru,32
+Crimea,45.3,34.4,ua,32
+Michigan,44.0,-85.0,us,33
+Lake Erie,42.2,-81.2,us,33
+Mouillee,42.0,-83.19,us,33
+Monroe County,41.92,-83.5,us,33
+Ames,42.03,-93.62,us,33
+Iowa,42.0,-93.0,us,33
+North America,54.77,-105.64,ca,33
+Asia,29.84,89.29,cn,33
+Michigan,44.0,-85.0,us,33
+Dresden,51.03,13.73,de,34
+Germany,51.0,9.0,de,34
+Dresden,51.03,13.73,de,34
+Dogubayazit,39.54,44.08,tr,35
+Dogubayazit,39.54,44.08,tr,35
+Turkey,39.0,35.0,tr,35
+Turkey,39.0,35.0,tr,35
+Rice Lake,40.46,-89.92,us,36
+Fulton County,40.48,-90.21,us,36
+Illinois,40.0,-89.0,us,36
+Asia,29.84,89.29,cn,36
+Europe,51.0,17.5,pl,36
+Africa,7.18,21.09,cf,36
+United States,40.0,-100.0,us,37
+Buffalo,42.9,-78.84,us,37
+New York,43.0,-75.0,us,37
+Buffalo,42.9,-78.84,us,37
+Buffalo,42.9,-78.84,us,37
+Buffalo,42.9,-78.84,us,37
+Mexico,23.0,-102.0,mx,38
+Mexico City,19.43,-99.13,mx,38
+United States,40.0,-100.0,us,38
+Mexico,23.0,-102.0,mx,38
+Mexico,23.0,-102.0,mx,38
+New Zealand,-42.0,174.0,nz,38
+Mexico,23.0,-102.0,mx,38
+England,51.5,-0.11,gb,39
+West Midlands,52.47,-2.29,gb,39
+Gaza Strip,31.41,34.33,ps,40
+Israel,31.0,35.0,il,40
+Gaza,31.41,34.33,ps,40
+Egypt,26.0,30.0,eg,40
+Gaza,31.41,34.33,ps,40
+Gaza,31.41,34.33,ps,40
+West Bank,32.0,35.38,ps,40
+Kenya,1.0,38.0,ke,41
+Africa,7.18,21.09,cf,41
+Kenya,1.0,38.0,ke,41
+Nyanza,-0.5,34.66,ke,41
+Kisumu,-0.1,34.75,ke,41
+India,21.0,78.0,in,41
+Nairobi,-1.2,36.81,ke,41
+Kenya,1.0,38.0,ke,41
+Britain,55.0,-3.0,gb,41
+London,51.5,-0.12,gb,41
+Kenya,1.0,38.0,ke,41
+Kogelo,-0.01,34.34,ke,41
+Nyanza,-0.5,34.66,ke,41
+US,40.0,-100.0,us,41
+United States,40.0,-100,us,42
+Norway,61.0,8,no,42
+Norway,61.0,8,no,42
+North Carolina,35.5,-80,us,42
+U.S.,40.0,-100,us,42
+Mexico,23.0,-102,mx,42
+China,35.0,103,cn,42
+Japan,35.0,136,jp,42
+Ukraine,49.0,32,ua,42
+Brazil,-10.0,-52,br,42
+Mecca,21.41,39.81,sa,43
+India,21.0,78.0,in,43
+Sudan,15.0,32.0,sd,43
+Morocco,32.0,-6.0,ma,43
+Nigeria,8.0,10.0,ng,43
+Mecca,21.41,39.81,sa,43
+Medina,24.46,39.6,sa,43
+Mecca,21.41,39.81,sa,43
+Egypt,26.0,30.0,eg,43
+Cairo,30.04,31.23,eg,43
+Africa,7.18,21.09,cf,43
+Middle East,29.0,41.0,sa,43
+Saudi Arabia,24.0,45.0,sa,43
+Iran,32.0,53.0,ir,43
+Buckinghamshire,51.83,-0.83,gb,44
+England,51.5,-0.11,gb,44
+Milton Keynes,52.04,-0.76,gb,44
+Philippines,13,122,ph,45
+Philippines,13,122,ph,45
+United States,40,-100,us,45
+Philippines,13,122,ph,45
+US,40,-100,us,46
+New York,43,-75,us,46
+New York,43,-75,us,46
+New York,43,-75,us,46
+Fiji,-18.0,179.0,fj,47
+Suva,-18.14,178.44,fj,47
+Nadi,-17.8,177.41,fj,47
+Suva,-18.14,178.44,fj,47
+Fiji,-18.0,179.0,fj,47
+UK,55.0,-3.0,gb,48
+Glasgow,55.85,-4.25,gb,48
+Scotland,56.0,-4.0,gb,48
+Paisley,55.84,-4.42,gb,48
+Paisley,55.84,-4.42,gb,48
+UK,55.0,-3.0,gb,48
+Argentina,-34.0,-64.0,ar,49
+Buenos Aires,-34.6,-58.38,ar,49
+Argentina,-34.0,-64.0,ar,49
+Chile,-30.0,-71.0,cl,49
+Argentina,-34.0,-64.0,ar,49
+South America,-14.6,-57.65,br,49
+Argentina,-34.0,-64.0,ar,49
+Kisumu,-0.1,34.75,ke,50
+Nairobi,-1.28,36.81,ke,50
+United Kingdom,55.0,-3.0,gb,50
+East Africa,-0.52,36.51,ke,50
+Nottingham,52.95,-1.13,gb,50
+Kenya,1.0,38.0,ke,50
+Garissa,-0.45,39.65,ke,50
+Kenya,1.0,38.0,ke,50
+UK,55.0,-3.0,gb,50
+Kenya,1.0,38.0,ke,50
+Africa,7.18,21.09,cf,51
+Zimbabwe,-20.0,30.0,zw,51
+Angola,-12.5,18.5,ao,51
+Chad,15.0,19.0,td,51
+Democratic Republic of the Congo,-2.88,23.65,cd,51
+Eritrea,15.0,39.0,er,52
+Ethiopia,8.0,38.0,et,52
+Sudan,15.0,32.0,sd,52
+Africa,7.18,21.09,cf,52
+Egypt,26,30,eg,53
+Niger,16,8,ne,53
+Egypt,26,30,eg,53
+United States,40,-100,us,53
+Nigeria,8,10,ng,53
+Asia,29.84,89.29,cn,54
+U.S.,40.0,-100.0,us,54
+Afghanistan,33.0,65.0,af,54
+India,21.0,78.0,in,54
+Pakistan,30.0,70.0,pk,54
+Asia,29.84,89.29,cn,54
+Peru,-10,-76,pe,55
+Peru,-10,-76,pe,55
+Peru,-10,-76,pe,55
+Peru,-10,-76,pe,55
+South Africa,-30.0,25.0,za,56
+KwaZulu-Natal,-29.0,31.0,za,56
+Johannesburg,-26.2,28.04,za,56
+KwaZulu-Natal,-29.0,31.0,za,56
+Mozambique,-18.25,35.0,mz,56
+Botswana,-24.65,25.9,bw,56
+United States,40.0,-100.0,us,56
+Dallas,32.77,-96.79,us,57
+Texas,31.0,-100.0,us,57
+United States,40.0,-100.0,us,57
+Dallas County,32.77,-96.78,us,57
+Libya,27.0,17.0,ly,58
+Sofia,42.7,23.33,bg,58
+Bulgaria,42.75,25.5,bg,58
+Bulgaria,42.75,25.5,bg,58
+Benghazi,32.11,20.06,ly,58
+Libya,27.0,17.0,ly,58
+Libya,27.0,17.0,ly,58
+Libya,27.0,17.0,ly,58
+Libya,27.0,17.0,ly,58
+Qatar,25.5,51.25,qa,58
+Benghazi,32.11,20.06,ly,58
+Libya,27.0,17.0,ly,58
+Libya,27.0,17.0,ly,58
+Libya,27.0,17.0,ly,58
+France,47.0,2.0,fr,58
+France,47.0,2.0,fr,58
+Libya,27.0,17.0,ly,58
+Libya,27.0,17.0,ly,58
+Tripoli,32.88,13.19,ly,58
+Europe,51.0,17.5,pl,58
+Paris,48.85,2.35,fr,58
+Bulgaria,42.75,25.5,bg,58
+Paris,48.85,2.35,fr,59
+France,47.0,2.0,fr,59
+Cameroon,6.0,12.0,cm,59
+France,47.0,2.0,fr,59
+Athens,37.98,23.72,gr,60
+Greece,39.0,22.0,gr,60
+Athens,37.98,23.72,gr,60
+Athens,37.98,23.72,gr,60
+Hollywood,34.1,-118.33,us,60
+Athens,37.98,23.72,gr,60
+Toronto,43.7,-79.4,ca,60
+Canada,60.0,-95.0,ca,60
+Europe,51.0,17.5,pl,60
+Alberta,55,-115,ca,61
+United States,40,-100,us,61
+Canada,60,-95,ca,61
+Ames,42.03,-93.62,us,62
+Iowa,42.0,-93.0,us,62
+U.S.,40.0,-100.0,us,62
+United Kingdom,55.0,-3.0,gb,62
+U.S.,40.0,-100.0,us,62
+UK,55.0,-3.0,gb,62
+U.S.,40.0,-100.0,us,62
+U.S.,40.0,-100.0,us,62
+Canada,60.0,-95.0,ca,62
+Washington,47.5,-120.5,us,62
+Sweden,63.0,16.0,se,62
+Canada,60.0,-95.0,ca,62
+Canada,60.0,-95.0,ca,63
+British Columbia,54.0,-125.0,ca,63
+Canada,60.0,-95.0,ca,63
+Fraser Valley,49.1,-122.29,ca,63
+Vancouver,49.25,-123.1,ca,63
+British Columbia,54.0,-125.0,ca,63
+Canada,60.0,-95.0,ca,63
+United States,40.0,-100.0,us,63
+Canada,60.0,-95.0,ca,63
+U.S.,40.0,-100.0,us,63
+Canada,60.0,-95.0,ca,63
+Alberta,55.0,-115.0,ca,63
+United Kingdom,55.0,-3.0,gb,63
+Britain,55.0,-3.0,gb,64
+Britain,55.0,-3.0,gb,64
+Little Rock,34.73,-92.33,us,64
+Arkansas,34.8,-92.2,us,64
+Britain,55.0,-3.0,gb,64
+American South,34.0,-90.0,us,64
+US,40.0,-100.0,us,64
+U.S.,40.0,-100.0,us,64
+Britain,55.0,-3.0,gb,64
+Spain,40.0,-4.0,es,64
+Italy,43.0,12.0,it,64
+Israel,31.0,35.0,il,64
+Alabama,32.7,-86.7,us,65
+Ames,42.03,-93.62,us,65
+Iowa,42.0,-93.0,us,65
+Georgia,33.0,-83.5,us,65
+Alabama,32.7,-86.7,us,65
+U.S.,40.0,-100.0,us,65
+Washington,47.5,-120.5,us,65
+Canada,60.0,-95.0,ca,65
+Texas,31.0,-100.0,us,65
+Sweden,63.0,16.0,se,65
+Canada,60.0,-95.0,ca,65
+United States,40.0,-100.0,us,66
+Seoul,37.56,126.96,kr,66
+U.S.,40.0,-100.0,us,66
+California,37.0,-120.0,us,67
+California,37.0,-120.0,us,67
+California,37.0,-120.0,us,67
+Ames,42.03,-93.62,us,67
+Iowa,42.0,-93.0,us,67
+United States,40.0,-100.0,us,67
+Washington,47.5,-120.5,us,67
+Canada,60.0,-95.0,ca,67
+Alberta,55.0,-115.0,ca,68
+Canada,60.0,-95.0,ca,68
+Winnipeg,49.89,-97.13,ca,68
+Alberta,55.0,-115.0,ca,68
+Canada,60.0,-95.0,ca,68
+United States,40.0,-100.0,us,68
+Washington,47.5,-120.5,us,68
+Canada,60.0,-95.0,ca,68
+Alberta,55.0,-115.0,ca,68
+Texas,31.0,-100.0,us,68
+England,51.5,-0.11,gb,68
+East Providence,41.81,-71.37,us,69
+Barrington,41.74,-71.31,us,69
+Rhode Island,41.7,-71.5,us,69
+Rhode Island,41.7,-71.5,us,69
+Massachusetts,42.3,-71.8,us,69
+Hammond,41.61,-87.49,us,70
+Indiana,40.0,-86.0,us,70
+Hammond,41.61,-87.49,us,70
+Vermont,44.0,-72.7,us,71
+Brattleboro,42.85,-72.58,us,71
+Vermont,44.0,-72.7,us,71
+US,40.0,-100.0,us,72
+Texas,31.0,-100.0,us,72
+Longview,32.5,-94.75,us,72
+Tyler,32.35,-95.3,us,72
+Fairfield,31.72,-96.15,us,72
+Texas,31.0,-100.0,us,72
+Malakoff,32.17,-96.01,us,72
+Dallas,32.77,-96.79,us,72
+Austin,30.26,-97.73,us,72
+Tyler,32.35,-95.3,us,72
+Texas,31.0,-100.0,us,72
+Dallas,32.77,-96.79,us,72
+Texas,31.0,-100.0,us,73
+United States,40.0,-100.0,us,73
+Dallas County,32.77,-96.78,us,73
+North Dallas,32.77,-96.79,us,73
+Malakoff,32.17,-96.01,us,73
+Dallas,32.77,-96.79,us,73
+Abilene,32.45,-99.75,us,73
+Dallas County,32.77,-96.78,us,73
+Dallas,32.77,-96.79,us,73
+Houston,29.76,-95.38,us,73
+New Jersey,40.0,-74.5,us,73
+Lubbock,33.56,-101.88,us,73
+Austin,30.26,-97.73,us,73
+U.S.,40.0,-100.0,us,73
+Texas,31.0,-100.0,us,73
+California,37.0,-120.0,us,73
+U.S.,40.0,-100.0,us,73
+US,40.0,-100.0,us,74
+Dugway Proving Ground,40.18,-113.21,us,74
+Utah,39.0,-111.0,us,74
+Dugway,40.18,-113.21,us,74
+Germany,51.0,9.0,de,74
+US,40.0,-100.0,us,74
+U.S.,40.0,-100.0,us,74
+U.S.,40.0,-100.0,us,74
+Fort Detrick,39.43,-77.42,us,74
+Dugway,40.18,-113.21,us,74
+Midland,43.61,-84.24,us,75
+Michigan,44.0,-85.0,us,75
+USA,40.0,-100.0,us,75
+Lansing,42.73,-84.54,us,75
+Frederick,39.41,-77.41,us,76
+Maryland,39.0,-76.7,us,76
+Fort Detrick,39.43,-77.42,us,76
+Maryland,39.0,-76.7,us,76
+Washington DC,38.9,-77.01,us,76
+New York City,40.71,-74.0,us,76
+Florida,28.1,-81.6,us,76
+Frederick County,39.47,-77.4,us,76
+Buffalo,42.9,-78.84,us,77
+New York,43.0,-75.0,us,77
+Buffalo,42.9,-78.84,us,77
+California,37.0,-120.0,us,78
+United States,40.0,-100.0,us,78
+Tustin,33.73,-117.81,us,78
+Glendale,34.14,-118.25,us,78
+Hollywood,34.1,-118.33,us,78
+Los Angeles,34.05,-118.25,us,78
+San Fernando Valley,34.23,-118.46,us,78
+Santa Monica,34.02,-118.48,us,78
+California,37.0,-120.0,us,78
+London,51.5,-0.12,gb,79
+Liverpool,53.4,-3.0,gb,79
+UK,55.0,-3.0,gb,79
+UK,55.0,-3.0,gb,79
+Port-au-Prince,18.53,-72.33,ht,80
+Artibonite,19.45,-72.68,ht,80
+Saint-Marc,19.11,-72.7,ht,80
+US,40.0,-100.0,us,80
+Artibonite,19.45,-72.68,ht,80
+Haiti,19.0,-72.41,ht,81
+Central Plateau,19.16,-72.0,ht,81
+Artibonite,19.45,-72.68,ht,81
+Port-Au-Prince,18.53,-72.33,ht,81
+St. Nicolas,19.8,-73.38,ht,81
+St. Marc,19.11,-72.7,ht,81
+Angola,-12.5,18.5,ao,82
+Luanda,-8.83,13.23,ao,82
+Angola,-12.5,18.5,ao,82
+Angola,-12.5,18.5,ao,82
+Kenya,1.0,38.0,ke,83
+Nairobi,-1.28,36.81,ke,83
+Mukuru kwa Njenga,-1.3,36.88,ke,83
+Nairobi,-1.28,36.81,ke,83
+Mukuru,-1.3,36.88,ke,83
+Nairobi,-1.28,36.81,ke,83
+Mashonaland West,-17,29.5,zw,84
+Midlands,-19,30.0,zw,84
+Mashonaland West,-17,29.5,zw,84
+Manicaland,-19,32.5,zw,84
+Midlands,-19,30.0,zw,84
+Masvingo,-21,31.0,zw,84
+Zimbabwe,-20,30.0,zw,84
+Zimbabwe,-20,30.0,zw,84
+Kenya,1.0,38.0,ke,85
+Nyanza Province,-0.5,34.66,ke,85
+Nyanza,-0.5,34.66,ke,85
+Rift Valley,0.5,36.0,ke,85
+North Eastern,1.0,40.25,ke,85
+Western,0.5,34.58,ke,85
+Nyanza Province,-0.5,34.66,ke,85
+North Eastern Province,1.0,40.25,ke,85
+Rift Valley Province,0.5,36.0,ke,85
+Nyanza,-0.5,34.66,ke,85
+Suba,-0.33,34.2,ke,85
+Migori,-0.66,34.83,ke,85
+Homa Bay,-0.68,34.45,ke,85
+Rongo,-0.75,34.58,ke,85
+Siaya,0.06,34.28,ke,85
+Kisumu,-0.25,34.91,ke,85
+Bondo,-0.09,34.27,ke,85
+Nyando,-0.28,35.11,ke,85
+Kisii,-0.66,34.75,ke,85
+Wajir,1.74,40.06,ke,85
+Mandera,3.41,40.66,ke,85
+Naivasha,-0.72,36.42,ke,85
+Nakuru,-0.5,36.0,ke,85
+Bunyala,0.1,33.97,ke,85
+Kenya,1.0,38.0,ke,85
+Nairobi,-1.28,36.81,ke,85
+Zimbabwe,-20.0,30.0,zw,86
+Zimbabwe,-20.0,30.0,zw,86
+Harare,-17.86,31.02,zw,86
+Beitbridge,-22.21,30.0,zw,86
+South Africa,-30.0,25.0,za,86
+Zimbabwe,-20.0,30.0,zw,86
+United Kingdom,55.0,-3.0,gb,86
+West Africa,18.31,-4.83,ml,87
+Burkina Faso,13.0,-2.0,bf,87
+Cote d'Ivoire,8.0,-5.0,ci,87
+Guinea,11.0,-10.0,gn,87
+Guinea-Bissau,12.0,-15.0,gw,87
+Liberia,6.5,-9.5,lr,87
+Mauritania,20.0,-12.0,mr,87
+Mali,17.0,-4.0,ml,87
+Niger,16.0,8.0,ne,87
+Senegal,14.0,-14.0,sn,87
+Central Africa,-2.02,24.69,cd,87
+Nigeria,8.0,10.0,ng,87
+Cameroon,6.0,12.0,cm,87
+Chad,15.0,19.0,td,87
+South Sudan,8.0,30.0,ss,88
+Juba,4.85,31.6,ss,88
+Pibor,6.8,33.13,ss,88
+South Sudan,8.0,30.0,ss,88
+South Sudan,8.0,30.0,ss,88
+South Sudan,8.0,30.0,ss,88
+South Sudan,8.0,30.0,ss,88
+Nepal,28.16,84.25,np,89
+Bariyarpur,26.98,85.05,np,89
+India,21.0,78.0,in,89
+Burkina Faso,13.0,-2.0,bf,90
+Ouagadougou,12.35,-1.53,bf,90
+Ouagadougou,12.35,-1.53,bf,90
+Ouagadougou,12.35,-1.53,bf,90
+Benin,6.46,2.6,bj,90
+Ghana,7.81,-1.05,gh,90
+Guinea,11.0,-10.0,gn,90
+Niger,16.0,8.0,ne,90
+Senegal,14.0,-14.0,sn,90
+Java,-7.49,110.0,id,91
+Java,-7.49,110.0,id,91
+Pangandaran,-7.72,108.49,id,91
+Indonesia,-5.0,120.0,id,91
+Pangandaran,-7.72,108.49,id,91
+US,40.0,-100.0,us,91
+United Kingdom,55,-3,gb,92
+UK,55,-3,gb,92
+UK,55,-3,gb,92
+Canada,60,-95,ca,92
+Australia,-25,133,au,92
+U.S.,40,-100,us,92
+United States,40.0,-100.0,us,93
+Arkansas,34.8,-92.2,us,93
+Colorado,39.0,-105.5,us,93
+Delaware,39.0,-75.5,us,93
+Idaho,45.0,-114.0,us,93
+Maine,45.5,-69.0,us,93
+Montana,47.0,-110.0,us,93
+New Hampshire,44.0,-71.5,us,93
+North Carolina,35.5,-80.0,us,93
+Rhode Island,41.7,-71.5,us,93
+Vermont,44.0,-72.7,us,93
+Virginia,37.5,-79.0,us,93
+West Virginia,39.0,-80.5,us,93
+Alabama,32.7,-86.7,us,93
+US,40.0,-100.0,us,93
+US,40.0,-100.0,us,93
+United States,40.0,-100.0,us,94
+Boston,42.35,-71.06,us,94
+Texas,31.0,-100.0,us,94
+United States,40.0,-100.0,us,94
+United States,40.0,-100.0,us,94
+New York,43.0,-75.0,us,94
+Beijing,39.91,116.38,cn,95
+People's Republic of China,35.0,103.0,cn,95
+Asia,29.84,89.29,cn,95
+Hong Kong,22.3,114.2,cn,95
+China,35.0,103.0,cn,95
+China,35.0,103.0,cn,95
+Asia,29.84,89.29,cn,95
+Russia,60.0,90.0,ru,95
+Vietnam,16.16,107.83,vn,95
+People's Republic of China,35.0,103.0,cn,95
+Australia,-25.0,133.0,au,96
+Sydney,-33.86,151.2,au,96
+New South Wales,-32.16,147.01,au,96
+NSW,-32.16,147.01,au,96
+Eastern Creek,-33.79,150.86,au,96
+Eastern Creek,-33.79,150.86,au,96
+New South Wales,-32.16,147.01,au,96
+Spotswood,-37.83,144.88,au,96
+Victoria,-37.0,144.0,au,96
+Australia,-25.0,133.0,au,96
+NSW,-32.16,147.01,au,96
+Australia,-25.0,133.0,au,96
+New Zealand,-42.0,174.0,nz,96
+New Zealand,-42.0,174.0,nz,96
+Australia,-25.0,133.0,au,97
+New South Wales,-32.16,147.01,au,97
+NSW,-32.16,147.01,au,97
+Eastern Creek,-33.79,150.86,au,97
+Centennial Park,-33.9,151.23,au,97
+Sydney,-33.86,151.2,au,97
+Cattai,-33.55,150.91,au,97
+Wilberforce,-33.55,150.84,au,97
+Sydney,-33.86,151.2,au,97
+Moonbi,-31.01,151.06,au,97
+Parkes,-33.13,148.16,au,97
+Berry,-34.77,150.69,au,97
+Wyong,-33.28,151.41,au,97
+NSW,-32.16,147.01,au,97
+Warwick,-28.21,152.01,au,97
+Queensland,-23.0,143.0,au,97
+NSW,-32.16,147.01,au,97
+Brisbane,-27.46,153.03,au,97
+Victoria,-37.0,144.0,au,97
+Randwick,-33.91,151.23,au,97
+Sydney,-33.86,151.2,au,97
+Maitland,-32.71,151.55,au,97
+Centennial Park,-33.9,151.23,au,97
+NSW,-32.16,147.01,au,97
+Maitland,-32.71,151.55,au,97
+Maitland,-32.71,151.55,au,97
+Mexico,23.0,-102.0,mx,98
+United States,40.0,-100.0,us,98
+Canada,60.0,-95.0,ca,98
+United Kingdom,55.0,-3.0,gb,98
+Spain,40.0,-4.0,es,98
+New Zealand,-42.0,174.0,nz,98
+Israel,31.0,35.0,il,98
+United States,40.0,-100.0,us,98
+Texas,31.0,-100.0,us,98
+Mexico City,19.43,-99.13,mx,98
+United States,40.0,-100.0,us,98
+Spain,40.0,-4.0,es,98
+Mexico,23.0,-102.0,mx,98
+United States,40.0,-100.0,us,98
+California,37.0,-120.0,us,98
+Texas,31.0,-100.0,us,98
+Kansas,38.5,-98.0,us,98
+Ohio,40.5,-82.5,us,98
+New York,43.0,-75.0,us,98
+United States,40.0,-100.0,us,98
+US,40.0,-100.0,us,98
+New Zealand,-42.0,174.0,nz,98
+Mexico,23.0,-102.0,mx,98
+Israel,31.0,35.0,il,98
+South Korea,36.0,128.0,kr,98
+Mexico,23.0,-102.0,mx,98
+Spain,40.0,-4.0,es,98
+Mexico,23.0,-102.0,mx,98
+Mexico City,19.43,-99.13,mx,98
+Mexico City,19.43,-99.13,mx,98
+Kitaakita,40.22,140.37,jp,99
+Akita Prefecture,39.71,140.1,jp,99
+Japan,35.0,136.0,jp,99
+United States,40.0,-100.0,us,100
+Canada,60.0,-95.0,ca,100
+Europe,51.0,17.5,pl,100
+U.S.,40.0,-100.0,us,100
+Norway,61.0,8.0,no,100
+Japan,35.0,136.0,jp,100
+Hong Kong,22.3,114.2,cn,100
+Japan,35.0,136.0,jp,100
+U.S.,40.0,-100.0,us,101
+United States,40.0,-100.0,us,101
+United States,40.0,-100.0,us,101
+New York City,40.71,-74.0,us,101
+Queens,40.75,-73.86,us,101
+New York,40.71,-74.0,us,101
+Ohio,40.5,-82.5,us,101
+California,37.0,-120.0,us,101
+Kansas,38.5,-98.0,us,101
+Texas,31.0,-100.0,us,101
+U.S.,40.0,-100.0,us,101
+U.S.,40.0,-100.0,us,101
+Sukoharjo,-7.68,110.83,id,102
+Central Java,-7.5,110.0,id,102
+Indonesia,-5.0,120.0,id,102
+West Java,-6.75,107.5,id,102
+Yogyakarta,-7.8,110.36,id,102
+Indonesia,-5.0,120.0,id,102
+Indonesia,-5.0,120.0,id,102
+Vietnam,16.16,107.83,vn,102
+Indonesia,-5.0,120.0,id,102
+Indonesia,-5.0,120.0,id,102
+Indonesia,-5.0,120.0,id,102
+China,35.0,103.0,cn,103
+Jiangsu,32.9,119.8,cn,103
+China,35.0,103.0,cn,103
+China,35.0,103.0,cn,103
+Khartoum,15.5,32.56,sd,104
+Al Jazirah,14.5,33.5,sd,104
+Sudan,15.0,32.0,sd,104
+Europe,51.0,17.5,pl,104
+Africa,7.18,21.09,cf,104
+Egypt,26.0,30.0,eg,104
+Asia,29.84,89.29,cn,104
+Middle East,33.13,35.85,sy,104
+Kabanjahe,3.1,98.5,id,105
+Sumatra,0.0,102.0,id,105
+Indonesia,-5.0,120.0,id,105
+Kabanjahe,3.1,98.5,id,105
+Indonesia,-5.0,120.0,id,105
+Atlanta,33.75,-84.39,us,105
+Georgia,33.0,-83.5,us,105
+Atlanta,33.75,-84.39,us,105
+U.S.,40.0,-100.0,us,105
+Rome,41.9,12.5,it,106
+Vatican,41.9,12.45,it,106
+Vatican,41.9,12.45,it,106
+St. Peter's Square,41.9,12.45,it,106
+Vatican,41.9,12.45,it,106
+Hong Kong,22.3,114.2,cn,107
+Hong Kong,22.3,114.2,cn,107
+Hong Kong,22.3,114.2,cn,107
+China,35.0,103.0,cn,107
+Hong Kong,22.3,114.2,cn,107
+China,35.0,103.0,cn,107
+Hong Kong,22.3,114.2,cn,107
+Asia,29.84,89.29,cn,107
+Hong Kong,22.3,114.2,cn,107
+Vietnam,16.16,107.83,vn,107
+Indonesia,-5.0,120.0,id,107
+Laos,18.0,105.0,la,107
+Cambodia,13.0,105.0,kh,107
+Thailand,15.4,101.3,th,107
+Hong Kong,22.3,114.2,cn,107
+Hong Kong,22.3,114.2,cn,107
+Turkey,39.0,35.0,tr,108
+Van,38.49,43.38,tr,108
+Turkey,39.0,35.0,tr,108
+Dogu Beyazit,39.54,44.08,tr,108
+Turkey,39.0,35.0,tr,108
+Van,38.49,43.38,tr,108
+Britain,55.0,-3.0,gb,108
+Europe,51.0,17.5,pl,108
+Asia,29.84,89.29,cn,109
+Cambodia,13.0,105.0,kh,109
+Laos,18.0,105.0,la,109
+Burma,22.0,96.0,mm,109
+Thailand,15.4,101.3,th,109
+Vietnam,16.16,107.83,vn,109
+Turkey,39.0,35.0,tr,110
+Armenia,40.0,45.0,am,110
+Azerbaijan,40.3,47.7,az,110
+Georgia,42.0,43.5,ge,110
+Iraq,33.0,44.0,iq,110
+Iran,32.0,53.0,ir,110
+Syria,35.0,38.0,sy,110
+Turkey,39.0,35.0,tr,110
+Turkey,39.0,35.0,tr,110
+Rogaland,59.0,6.0,no,111
+Vestfold,59.26,10.41,no,111
+Buskerud,60.5,9.5,no,111
+Telemark,59.33,8.5,no,111
+Østfold,59.33,11.33,no,111
+Akershus,60.0,11.0,no,111
+Oslo,59.95,10.75,no,111
+Hedmark,60.83,11.66,no,111
+Oppland,61.11,10.46,no,111
+Vest-Agder,58.58,7.58,no,111
+Aust-Agder,58.56,8.56,no,111
+Russia,60.0,90.0,ru,111
+Poland,52.0,20.0,pl,112
+Orneta,54.11,20.13,pl,112
+Bieżuń,52.95,19.88,pl,112
+Poland,52.0,20.0,pl,112
+Poland,52.0,20.0,pl,112
+Atlanta,33.75,-84.39,us,113
+Georgia,33.0,-83.5,us,113
+Wichita,37.68,-97.33,us,113
+Kansas,38.5,-98.0,us,113
+Wichita,37.68,-97.33,us,113
+China,35.0,103.0,cn,114
+Beijing,39.91,116.38,cn,114
+China,35.0,103.0,cn,114
+Hebei,39.3,116.7,cn,114
+Hubei,31.2,112.3,cn,114
+People's Republic of China,35.0,103.0,cn,114
+China,35.0,103.0,cn,114
+Anhui,31.83,117.0,cn,114
+Fuyang,32.9,115.81,cn,114
+Anhui,31.83,117.0,cn,114
+Beijing,39.91,116.38,cn,114
+Guangdong,23.4,113.5,cn,114
+Guangxi,23.6,108.3,cn,114
+Hainan,19.2,109.7,cn,114
+Hunan,27.4,111.8,cn,114
+Zhejiang,29.2,120.5,cn,114
+Hubei,31.2,112.3,cn,114
+China,35.0,103.0,cn,114
+China,35.0,103.0,cn,114
+Beijing,39.91,116.38,cn,114
+China,35.0,103.0,cn,114
+China,35.0,103.0,cn,114
+China,35.0,103.0,cn,114
+Warab,8.0,28.85,ss,115
+Sudan,15.0,32.0,sd,115
+Sudan,15.0,32.0,sd,115
+Darfur,13.0,25.0,sd,115
+Sudan,15.0,32.0,sd,115
+Sudan,15.0,32.0,sd,115
+Darfur,13.0,25.0,sd,115
+Abu Shok,13.95,31.08,sd,115
+Al-Fashir,13.63,25.35,sd,115
+Darfur,13.0,25.0,sd,115
+Malakal,9.55,31.65,ss,115
+Sudan,15.0,32.0,sd,115
+Darfur,13.0,25.0,sd,115
+Malakal,9.55,31.65,ss,115
+Darfur,13.0,25.0,sd,115
+Malakal,9.55,31.65,ss,115
+Darfur,13.0,25.0,sd,115
+Malakal,9.55,31.65,ss,115
+Sudan,15.0,32.0,sd,115
+Khartoum,15.5,32.56,sd,115
+Darfur,13.0,25.0,sd,115
+Malakal,9.55,31.65,ss,115
+Sudan,15.0,32.0,sd,115
+Darfur,13.0,25.0,sd,115
+Malakal,9.55,31.65,ss,115
+Darfur,13.0,25.0,sd,115
+Malakal,9.55,31.65,ss,115
+Darfur,13.0,25.0,sd,115
+Malakal,9.55,31.65,ss,115
+Khartoum,15.5,32.56,sd,115
+Darfur,13.0,25.0,sd,115
+Nyala,12.05,24.88,sd,115
+South Darfur,11.51,25.03,sd,115
+Al-Fashir,13.63,25.35,sd,115
+Sudan,15.0,32.0,sd,115
+Abu Shok,13.95,31.08,sd,115
+Al-Fashir,13.63,25.35,sd,115
+Asia,29.84,89.29,cn,116
+Africa,7.18,21.09,cf,116
+Europe,51.0,17.5,pl,116
+United States,40.0,-100.0,us,116
+Asia,29.84,89.29,cn,116
+Pailin,12.85,102.6,kh,116
+Cambodia,13.0,105.0,kh,116
+Pailin,12.85,102.6,kh,116
+Cambodia,13.0,105.0,kh,116
+Attapeu,14.8,106.83,la,116
+Laos,18.0,105.0,la,116
+Binh Phuoc,11.75,106.91,vn,116
+Vietnam,16.16,107.83,vn,116
+Myanmar,22.0,96.0,mm,116
+Pingilikani,-3.78,39.78,ke,116
+Kenya,1.0,38.0,ke,116
+Kinshasa,-4.32,15.32,cd,116
+DR Congo,-2.88,23.65,cd,116
+UK,55.0,-3.0,gb,116
+Dar es Salaam,-6.8,39.28,tz,117
+Tanzania,-6.3,34.85,tz,117
+Africa,7.18,21.09,cf,117
+Africa,7.18,21.09,cf,117
+US,40.0,-100.0,us,117
+US,40.0,-100.0,us,117
+Africa,7.18,21.09,cf,117
+Zanzibar,-6.13,39.31,tz,117
+Africa,7.18,21.09,cf,117
+Asia,29.84,89.29,cn,118
+India,21.0,78.0,in,118
+Nepal,28.16,84.25,np,118
+Bangladesh,23.8,90.3,bd,118
+Bihar,25.37,85.13,in,118
+Uttar Pradesh,26.85,80.91,in,118
+Bihar,25.37,85.13,in,118
+India,21.0,78.0,in,118
+Gondra,26.63,80.91,in,118
+Uttar Pradesh,26.85,80.91,in,118
+Indore,22.71,75.84,in,118
+Democratic Republic of the Congo,-2.88,23.65,cd,119
+Ituri,1.83,29.5,cd,119
+Orientale,2.5,27.0,cd,119
+Congo,-2.88,23.65,cd,119
+Kinshasa,-4.32,15.32,cd,119
+Kenya,1.0,38.0,ke,120
+Nairobi,-1.28,36.81,ke,120
+Kibera,-1.31,36.78,ke,120
+Zamfara,12.16,6.25,ng,121
+Nigeria,8.0,10.0,ng,121
+Zamfara,12.16,6.25,ng,121
+Nigeria,8.0,10.0,ng,121
+US,40.0,-100.0,us,121
+United States,40.0,-100.0,us,122
+Hanoi,21.02,105.85,vn,122
+Vietnam,16.16,107.83,vn,122
+US,40.0,-100.0,us,122
+Da Nang International Airport,16.04,108.19,vn,122
+US,40.0,-100.0,us,122
+Da Nang,16.06,108.23,vn,122
+US,40.0,-100.0,us,122
+Vietnam,16.16,107.83,vn,122
+Vietnam,16.16,107.83,vn,122
+Africa,7.18,21.09,cf,123
+Chad,15.0,19.0,td,123
+Chad,15.0,19.0,td,123
+Sudan,15.0,32.0,sd,123
+Darfur,13.0,25.0,sd,123
+Sudan,15.0,32.0,sd,123
+Chad,15.0,19.0,td,123
+Chad,15.0,19.0,td,123
+Sudan,15.0,32.0,sd,123
+Goz Beida,12.22,21.41,td,123
+Goz Beida,12.22,21.41,td,123
+Chad,15.0,19.0,td,123
+Goz Beida,12.22,21.41,td,123
+Chad,15.0,19.0,td,123
+Chad,15.0,19.0,td,123
+Chad,15.0,19.0,td,123
+Kenya,1.0,38.0,ke,124
+Isiolo,0.35,37.58,ke,124
+Isiolo,0.35,37.58,ke,124
+Kisima,0.95,36.8,ke,124
+Kenya,1.0,38.0,ke,124
+Pokot,1.75,35.25,ke,124
+Samburu,1.16,36.66,ke,124
+Atlanta,33.75,-84.39,us,125
+New Jersey,40.0,-74.5,us,125
+New York,43.0,-75.0,us,125
+Algeria,28.0,2.0,dz,126
+England,51.5,-0.11,gb,126
+London,51.5,-0.12,gb,126
+Algiers,36.75,3.05,dz,126
+Bab el-Oued,36.79,3.04,dz,126
+Algeria,28.0,2.0,dz,126
+Algeria,28.0,2.0,dz,126
+France,47.0,2.0,fr,126
+California,37,-120,us,127
+California,37,-120,us,127
+United States,40,-100,us,127
+California,37,-120,us,127
+Greenlane,-36.89,174.79,nz,128
+Auckland,-36.84,174.74,nz,128
+New Zealand,-42.0,174.0,nz,128
+Auckland,-36.84,174.74,nz,128
+Greenlane,-36.89,174.79,nz,128
+Auckland,-36.84,174.74,nz,128
+Auckland,-36.84,174.74,nz,128
+Afghanistan,33,65,af,129
+Iraq,33,44,iq,129
+U.S.,40,-100,us,129
+Indiana,40.0,-86.0,us,130
+Indiana,40.0,-86.0,us,130
+Austin,38.74,-85.8,us,130
+Scott County,38.69,-85.74,us,130
+Indiana,40.0,-86.0,us,130
+Scott County,38.69,-85.74,us,130
+Indiana,40.0,-86.0,us,130
+Scott County,38.69,-85.74,us,130
+Evansville,37.97,-87.55,us,130
+Scott County,38.69,-85.74,us,130
+Louisville,38.22,-85.74,us,130
+Kentucky,37.5,-85.0,us,130
+Austin,38.74,-85.8,us,130
+Kentucky,37.5,-85.0,us,130
+United States,40.0,-100.0,us,130
+Nashville,36.16,-86.78,us,130
+Tennessee,36.0,-86.0,us,130
+Evansville,37.97,-87.55,us,130
+Marion,40.58,-83.12,us,131
+Ohio,40.5,-82.5,us,131
+United States,40.0,-100.0,us,131
+Canada,60.0,-95.0,ca,131
+New Jersey,40.0,-74.5,us,131
+Brooklyn,40.69,-73.99,us,131
+New York,40.71,-74.0,us,131
+Brooklyn,40.69,-73.99,us,131
+London,51.5,-0.12,gb,132
+England,51.5,-0.11,gb,132
+United Kingdom,55.0,-3.0,gb,132
+Westminster,51.49,-0.13,gb,132
+UK,55.0,-3.0,gb,132
+United States,40,-100.0,us,133
+Colorado,39,-105.5,us,133
+California,37,-120.0,us,133
+Minnesota,46,-94.0,us,133
+Iowa,42,-93.0,us,133
+United States,40,-100,us,134
+United States,40,-100,us,134
+Canada,60,-95,ca,134
+Texas,31,-100,us,134
+New Mexico,34,-106,us,134
+Illinois,40,-89,us,134
+U.S.,40,-100,us,134
+Texas,31,-100,us,134
+U.S.,40.0,-100.0,us,135
+Minnesota,46.0,-94.0,us,135
+Solon,41.38,-81.45,us,135
+Minnesota,46.0,-94.0,us,135
+Minnesota,46.0,-94.0,us,135
+Lynchburg,37.4,-79.17,us,135
+Texas,31.0,-100.0,us,135
+Georgia,33.0,-83.5,us,135
+U.S.,40.0,-100.0,us,136
+United States,40.0,-100.0,us,136
+California,37.0,-120.0,us,136
+Alaska,64.0,-150.0,us,136
+Alabama,32.7,-86.7,us,136
+Arizona,34.0,-112.0,us,136
+Arkansas,34.8,-92.2,us,136
+California,37.0,-120.0,us,136
+Colorado,39.0,-105.5,us,136
+Georgia,33.0,-83.5,us,136
+Idaho,45.0,-114.0,us,136
+Illinois,40.0,-89.0,us,136
+Indiana,40.0,-86.0,us,136
+Kansas,38.5,-98.0,us,136
+Kentucky,37.5,-85.0,us,136
+Louisiana,31.0,-92.0,us,136
+Michigan,44.0,-85.0,us,136
+Missouri,38.5,-92.5,us,136
+Mississippi,33.0,-90.0,us,136
+Montana,47.0,-110.0,us,136
+Nebraska,41.5,-100.0,us,136
+Nevada,39.0,-117.0,us,136
+New Mexico,34.0,-106.0,us,136
+North Carolina,35.5,-80.0,us,136
+Ohio,40.5,-82.5,us,136
+Oregon,44.0,-120.5,us,136
+South Carolina,34.0,-81.0,us,136
+Tennessee,36.0,-86.0,us,136
+Texas,31.0,-100.0,us,136
+Utah,39.0,-111.0,us,136
+Virginia,37.5,-79.0,us,136
+Washington,47.5,-120.5,us,136
+West Virginia,39.0,-80.5,us,136
+Wyoming,43.0,-107.5,us,136
+United States,40.0,-100.0,us,137
+United States,40.0,-100.0,us,137
+Canada,60.0,-95.0,ca,137
+Honduras,15.0,-86.5,hn,137
+United States,40.0,-100.0,us,137
+United States,40.0,-100.0,us,137
+Canada,60.0,-95.0,ca,137
+United States,40.0,-100.0,us,137
+Arizona,34.0,-112.0,us,137
+California,37.0,-120.0,us,137
+Colorado,39.0,-105.5,us,137
+Georgia,33.0,-83.5,us,137
+Illinois,40.0,-89.0,us,137
+Missouri,38.5,-92.5,us,137
+New Jersey,40.0,-74.5,us,137
+New Mexico,34.0,-106.0,us,137
+New York,43.0,-75.0,us,137
+Ohio,40.5,-82.5,us,137
+Oklahoma,35.5,-98.0,us,137
+Oregon,44.0,-120.5,us,137
+Tennessee,36.0,-86.0,us,137
+Utah,39.0,-111.0,us,137
+Washington,47.5,-120.5,us,137
+Wisconsin,44.5,-89.5,us,137
+Canada,60.0,-95.0,ca,137
+British Columbia,54.0,-125.0,ca,137
+Alberta,55.0,-115.0,ca,137
+Manitoba,55.0,-97.0,ca,137
+Ontario,50.0,-85.0,ca,137
+New Brunswick,46.0,-66.0,ca,137
+Honduras,15.0,-86.5,hn,137
+United States,40.0,-100.0,us,137
+Honduras,15.0,-86.5,hn,137
+U.S.,40.0,-100.0,us,137
+Honduras,15.0,-86.5,hn,137
+California,37,-120,us,138
+United States,40,-100,us,138
+Canada,60,-95,ca,138
+Canada,60,-95,ca,138
+United States,40.0,-100.0,us,139
+Blakely,31.37,-84.93,us,139
+Georgia,33.0,-83.5,us,139
+U.S.,40.0,-100.0,us,139
+U.S.,40.0,-100.0,us,139
+Georgia,33.0,-83.5,us,139
+United States,40.0,-100.0,us,139
+USA,40.0,-100.0,us,139
+Roanoke,37.26,-79.93,us,139
+Virginia,37.5,-79.0,us,139
+Weiswampach,50.13,6.06,lu,140
+Luxembourg,49.75,6.16,lu,140
+Belgium,50.83,4.0,be,140
+Luxembourg,49.75,6.16,lu,140
+Vilvoorde,50.93,4.41,be,140
+Belgium,50.83,4.0,be,140
+Luxembourg,49.75,6.16,lu,140
+Weiswampach,50.13,6.06,lu,140
+Belgium,50.83,4.0,be,140
+Luxembourg,49.75,6.16,lu,140
+Belgium,50.83,4.0,be,140
+Netherlands,52.31,5.55,nl,140
+Belgium,50.83,4.0,be,140
+Luxembourg,49.75,6.16,lu,140
+New Zealand,-42.0,174.0,nz,140
+Delmas,-26.15,28.68,za,141
+South Africa,-30.0,25.0,za,141
+Delmas,-26.15,28.68,za,141
+Johannesburg,-26.2,28.04,za,141
+Auckland,-36.84,174.74,nz,142
+New Zealand,-42.0,174.0,nz,142
+Islington Bay,-36.78333,174.9,nz,142
+Rangitoto,-36.78,174.86,nz,142
+Motutapu,-36.75,174.91,nz,142
+Wisconsin,44.5,-89.5,us,143
+Michigan,44.0,-85.0,us,143
+Oregon,44.0,-120.5,us,143
+New Mexico,34.0,-106.0,us,143
+New York,43.0,-75.0,us,143
+Indiana,40.0,-86.0,us,143
+Ohio,40.5,-82.5,us,143
+Wisconsin,44.5,-89.5,us,143
+Idaho,45.0,-114.0,us,143
+Connecticut,41.6,-72.7,us,143
+Kentucky,37.5,-85.0,us,143
+Utah,39.0,-111.0,us,143
+Washington,47.5,-120.5,us,143
+Pennsylvania,41.0,-77.5,us,143
+California,37.0,-120.0,us,143
+U.S.,40.0,-100.0,us,143
+Wisconsin,44.5,-89.5,us,143
+Wisconsin,44.5,-89.5,us,143
+California,37.0,-120.0,us,143
+San Juan Bautista,36.84,-121.53,us,143
+California,37.0,-120.0,us,143
+United States,40.0,-100.0,us,144
+Canada,60.0,-95.0,ca,144
+Salinas Valley,36.2,-121.12,us,144
+California,37.0,-120.0,us,144
+Salinas Valley,36.2,-121.12,us,144
+California,37.0,-120.0,us,144
+U.S.,40.0,-100.0,us,145
+New York City,40.71,-74.0,us,145
+Long Island,40.8,-73.3,us,145
+New York,43.0,-75.0,us,145
+Pennsylvania,41.0,-77.5,us,145
+New Jersey,40.0,-74.5,us,145
+Canada,60.0,-95.0,ca,145
+Canada,60.0,-95.0,ca,145
+Canada,60.0,-95.0,ca,145
+U.S.,40.0,-100.0,us,145
+Canada,60.0,-95.0,ca,145
+Canada,60.0,-95.0,ca,145
+Canada,60.0,-95.0,ca,145
+U.S.,40.0,-100.0,us,145
+U.S.,40.0,-100.0,us,145
+Pennsylvania,41.0,-77.5,us,145
+Irvine,33.66,-117.82,us,145
+California,37.0,-120.0,us,145
+New York,43.0,-75.0,us,145
+USA,40.0,-100.0,us,145
+Canada,60.0,-95.0,ca,145
+Texas,31.0,-100.0,us,145
+Irwindale,34.11,-117.96,us,145
+Oxnard,34.19,-119.18,us,145
+California,37.0,-120.0,us,145
+Port-au-Prince,18.53,-72.33,ht,146
+Dominican Republic,19.0,-70.66,do,146
+Jamaica,18.0,-77.0,jm,146
+Dominican Republic,19.0,-70.66,do,146
+Jamaica,18.0,-77.0,jm,146
+Dominican Republic,19.0,-70.66,do,146
+Haiti,19.0,-72.41,ht,146
+India,21.0,78.0,in,147
+Uttar Pradesh,26.85,80.91,in,147
+Nepal,28.16,84.25,np,147
+Surrey,51.25,-0.41,gb,148
+UK,55.0,-3.0,gb,148
+Pirbright,51.28,-0.63,gb,148
+Pirbright,51.28,-0.63,gb,148
+Pirbright,51.28,-0.63,gb,148
+Republic of Congo,-1.44,15.55,cg,149
+Cuvette-Ouest,-0.86,14.81,cg,149
+Gabon,-1.0,12.0,ga,149
+Congo,-1.44,15.55,cg,149
+Etoumbi,0.01,14.9,cg,149
+Mbomo,0.41861,14.70278,cg,149
+Uganda,1.0,32.0,ug,149
+Zaire,-2.88,23.65,cd,149
+Congo,-1.44,15.55,cg,149
+Toronto,43.7,-79.4,ca,150
+Canada,60.0,-95.0,ca,150
+Ontario,50.0,-85.0,ca,150
+Ontario,50.0,-85.0,ca,150
+Ontario,50.0,-85.0,ca,150
+Buffalo,42.9,-78.84,us,150
+New York,43.0,-75.0,us,150
+United States,40.0,-100.0,us,150
+Ontario,50.0,-85.0,ca,150
+Democratic Republic of the Congo,-2.88,23.65,cd,151
+DRC,-2.88,23.65,cd,151
+Kasai Occidental,-5.9,22.45,cd,151
+DRC,-2.88,23.65,cd,151
+Kampungu,-5.21,21.42,cd,151
+Kaluamba,-9.24,25.09,cd,151
+Mombo,-5.16,21.35,cd,151
+DRC,-2.88,23.65,cd,151
+Philippines,13.0,122.0,ph,152
+Manila,14.58,121.0,ph,152
+U.S.,40.0,-100.0,us,152
+Manila,14.58,121.0,ph,152
+Pandi,14.87,120.95,ph,152
+Bulacan,15.0,121.08,ph,152
+Talavera,15.58,120.91,ph,152
+Manaoag,16.04,120.48,ph,152
+Pangasinan,15.92,120.33,ph,152
+Pandi,14.87,120.95,ph,152
+Bulacan,15.0,121.08,ph,152
+NY,43.0,-75.0,us,152
+Plum Island,41.18,-72.19,us,152
+Nueva Ecija,15.58,121.0,ph,152
+Bulacan,15.0,121.08,ph,152
+North America,54.77,-105.64,ca,152
+Europe,51.0,17.5,pl,152
+United States,40.0,-100.0,us,152
+Luzon,16.0,121.0,ph,152
+Philippines,13.0,122.0,ph,152
+United States,40.0,-100.0,us,152
+Democratic Republic of Congo,-2.88,23.65,cd,152
+DRC,-2.88,23.65,cd,152
+Western Kasai,-5.9,22.45,cd,152
+Philippines,13.0,122.0,ph,152
+Philippines,13.0,122.0,ph,152
+Reston,38.95,-77.34,us,152
+Virginia,37.5,-79.0,us,152
+U.S.,40.0,-100.0,us,152
+Italy,43.0,12.0,it,152
+Rome,41.9,12.5,it,152
+Laguna,14.17,121.33,ph,152
+US,40.0,-100.0,us,152
+Philippines,13.0,122.0,ph,152
+South Cotabato,6.17,125.0,ph,152
+US,40.0,-100.0,us,152
+Singapore,1.3,103.8,sg,152
+Santa Maria,6.55,125.46,ph,152
+Davao del Sur,6.33,125.5,ph,152
+Mindanao,8.0,125.0,ph,152
+Pongpong,6.49,125.46,ph,152
+Mumbai,18.97,72.82,in,153
+India,21.0,78.0,in,153
+Gujarat,23.21,72.68,in,153
+Valsad,20.61,72.92,in,153
+Maharashtra,18.97,72.82,in,153
+Greater Mumbai,18.97,72.82,in,153
+Mahim Bay,19.03,72.82,in,153
+Singapore,1.3,103.8,sg,154
+Hong Kong,22.3,114.2,cn,154
+Guildford,51.23,-0.57,gb,155
+Surrey,51.25,-0.41,gb,155
+UK,55.0,-3.0,gb,155
+Pirbright,51.28,-0.63,gb,155
+Surrey,51.25,-0.41,gb,155
+UK,55.0,-3.0,gb,155
+New South Wales,-32.16,147.01,au,156
+Queensland,-23.0,143.0,au,156
+Australia,-25.0,133.0,au,156
+NSW,-32.16,147.01,au,156
+Queensland,-23.0,143.0,au,156
+NSW,-32.16,147.01,au,156
+Queensland,-23.0,143.0,au,156
+NSW,-32.16,147.01,au,156
+Queensland,-23.0,143.0,au,156
+Randwick,-33.91,151.23,au,156
+Sydney,-33.86,151.2,au,156
+Randwick,-33.91,151.23,au,156
+Sydney,-33.86,151.2,au,156
+Melbourne,-37.81,144.96,au,156
+Rosehill,-33.82,151.03,au,156
+Melbourne,-37.81,144.96,au,156
+Victoria,-37.0,144.0,au,156
+NSW,-32.16,147.01,au,156
+NSW,-32.16,147.01,au,156
+UK,55.0,-3.0,gb,157
+Ipswich,52.05,1.15,gb,157
+Suffolk,52.16,1.0,gb,157
+Africa,7.18,21.09,cf,157
+France,47.0,2.0,fr,157
+Germany,51.0,9.0,de,157
+UK,55.0,-3.0,gb,157
+UK,55.0,-3.0,gb,157
+France,47.0,2.0,fr,157
+Germany,51.0,9.0,de,157
+UK,55.0,-3.0,gb,157
+Angola,-12.5,18.5,ao,158
+Cacuaco,-8.77,13.37,ao,158
+Angola,-12.5,18.5,ao,158
+Luanda,-8.83,13.23,ao,158
+London,51.5,-0.12,gb,158
+Munich,48.13,11.56,de,158
+Angola,-12.5,18.5,ao,158
+Zimbabwe,-20.0,30.0,zw,159
+Zimbabwe,-20.0,30.0,zw,159
+Zimbabwe,-20.0,30.0,zw,159
+Zimbabwe,-20.0,30.0,zw,159
+Harare,-17.86,31.02,zw,159
+Mabvuku,-17.82,31.19,zw,159
+Harare,-17.86,31.02,zw,159
+Botswana,-24.65,25.9,bw,159
+Mozambique,-18.25,35.0,mz,159
+Zimbabwe,-20.0,30.0,zw,159
+South Africa,-30.0,25.0,za,159
+Zimbabwe,-20.0,30.0,zw,159
+Zimbabwe,-20.0,30.0,zw,159
+Limburg,51.21,5.93,nl,160
+Netherlands,52.31,5.55,nl,160
+Mediterranean,35.0,18.0,nan,160
+Surrey,51.25,-0.41,gb,161
+UK,55.0,-3.0,gb,161
+Wanborough,51.23,-0.66,gb,161
+UK,55.0,-3.0,gb,161
+Dorset,50.79,-2.41,gb,161
+London,51.5,-0.12,gb,161
+Italy,43.0,12.0,it,161
+UK,55.0,-3.0,gb,161
+France,47.0,2.0,fr,161
+United States,40.0,-100.0,us,162
+Canada,60.0,-95.0,ca,162
+U.S.,40.0,-100.0,us,162
+U.S.,40.0,-100.0,us,162
+British Columbia,54.0,-125.0,ca,162
+Alberta,55.0,-115.0,ca,162
+Saskatchewan,55.0,-106.0,ca,162
+Manitoba,55.0,-97.0,ca,162
+Ontario,50.0,-85.0,ca,162
+Calgary,51.05,-114.06,ca,162
+Alberta,55.0,-115.0,ca,162
+Toronto,43.7,-79.4,ca,162
+Ontario,50.0,-85.0,ca,162
+Calgary,51.05,-114.06,ca,162
+Asia,29.84,89.29,cn,163
+Indonesia,-5.0,120.0,id,163
+Indonesia,-5.0,120.0,id,163
+Aceh,5.55,95.31,id,163
+Sri Lanka,7.0,81.0,lk,163
+India,21.0,78.0,in,163
+Malaysia,2.5,112.5,my,163
+Myanmar,22.0,96.0,mm,163
+Bangladesh,23.8,90.3,bd,163
+Maldives,3.2,73.22,mv,163
+Somalia,10.0,49.0,so,163
+Tanzania,-6.3,34.85,tz,163
+Kenya,1.0,38.0,ke,163
+Sweden,63.0,16.0,se,163
+Angola,-12.5,18.5,ao,164
+Angola,-12.5,18.5,ao,164
+Zaire,-2.88,23.65,cd,164
+Uige,-7.61,15.05,ao,164
+Uige,-7.61,15.05,ao,164
+Angola,-12.5,18.5,ao,164
+Democratic Republic of Congo,-2.88,23.65,cd,164
+Mozambique,-18.25,35.0,mz,164
+Angola,-12.5,18.5,ao,164
+Angola,-12.5,18.5,ao,164
+Angola,-12.5,18.5,ao,164
+Luanda,-8.83,13.23,ao,164
+Angola,-12.5,18.5,ao,164
+Garut,-7.21,107.9,id,165
+West Java,-6.75,107.5,id,165
+Indonesia,-5.0,120.0,id,165
+Indonesia,-5.0,120.0,id,165
+Zimbabwe,-20.0,30.0,zw,166
+Africa,7.18,21.09,cf,166
+Zimbabwe,-20.0,30.0,zw,166
+Zambia,-15.0,30.0,zm,166
+Malawi,-13.5,34.0,mw,166
+Mozambique,-18.25,35.0,mz,166
+South Africa,-30.0,25.0,za,166
+Zimbabwe,-20.0,30.0,zw,166
+Randwick,-33.91,151.23,au,167
+Sydney,-33.86,151.2,au,167
+Randwick,-33.91,151.23,au,167
+Randwick,-33.91,151.23,au,167
+NSW,-32.16,147.01,au,167
+NSW,-32.16,147.01,au,167
+Queensland,-23.0,143.0,au,167
+NSW,-32.16,147.01,au,167
+NSW,-32.16,147.01,au,167
+Queensland,-23.0,143.0,au,167
+Sydney,-33.86,151.2,au,167
+Melbourne,-37.81,144.96,au,167
+Sydney,-33.86,151.2,au,167
+Melbourne,-37.81,144.96,au,167
+Americas,26.01,-104.41,mx,168
+Eastern Mediterranean,34.88,22.36,nan,168
+US,40.0,-100.0,us,168
+Canada,60.0,-95.0,ca,168
+Americas,26.01,-104.41,mx,168
+Eastern Mediterranean,34.88,22.36,nan,168
+Middle East,29.0,41.0,sa,168
+Americas,26.01,-104.41,mx,168
+Nicaragua,13.09,-86.0,ni,168
+Suriname,4.0,-56.0,sr,168
+French Guiana,4.0,-53.0,fr,168
+Haiti,19.0,-72.41,ht,168
+Dominican Republic,19.0,-70.66,do,168
+West Africa,18.31,-4.83,ml,168
+Burkina Faso,13.0,-2.0,bf,169
+Cameroon,6.0,12.0,cm,169
+Chad,15.0,19.0,td,169
+Guinea,11.0,-10.0,gn,169
+Liberia,6.5,-9.5,lr,169
+Mali,17.0,-4.0,ml,169
+Mauritania,20.0,-12.0,mr,169
+Senegal,14.0,-14.0,sn,169
+Sierra Leone,8.5,-11.5,sl,169
+Benin,6.46,2.6,bj,169
+Cape Verde,15.11,-23.61,cv,169
+Central African Republic,7.0,21.0,cf,169
+Côte d'Ivoire,8.0,-5.0,ci,169
+Gambia,13.46,-16.6,gm,169
+Ghana,7.81,-1.05,gh,169
+Guinea-Bissau,12.0,-15.0,gw,169
+Niger,16.0,8.0,ne,169
+Nigeria,8.0,10.0,ng,169
+Togo,6.11,1.21,tg,169
+North America,54.77,-105.64,ca,170
+Pennsylvania,41.0,-77.5,us,170
+United States,40.0,-100.0,us,170
+U.S.,40.0,-100.0,us,170
+Canada,60.0,-95.0,ca,170
+Georgia,33.0,-83.5,us,170
+Oklahoma,35.5,-98.0,us,170
+Pennsylvania,41.0,-77.5,us,170
+Wisconsin,44.5,-89.5,us,170
+California,37.0,-120.0,us,170
+California,37.0,-120.0,us,170
+U.S.,40.0,-100.0,us,170
+U.S.,40.0,-100.0,us,170
+United States,40,-100,us,171
+Canada,60,-95,ca,171
+Britain,55,-3,gb,171
+United States,40,-100,us,171
+Canada,60,-95,ca,171
+Sweden,63.0,16.0,se,172
+Västerås,59.61,16.55,se,172
+Stockholm,59.32,18.06,se,172
+United Kingdom,55.0,-3.0,gb,172
+Sweden,63.0,16.0,se,172
+Sweden,63.0,16.0,se,172
+UK,55.0,-3.0,gb,172
+Sweden,63.0,16.0,se,172
+New Zealand,-42.0,174.0,nz,173
+Waiheke Island,-36.8,175.1,nz,173
+New Zealand,-42.0,174.0,nz,173
+United Kingdom,55.0,-3.0,gb,173
+Germany,51.0,9.0,de,174
+Northern Europe,61.68,2.9,nan,174
+Belgium,50.83,4.0,be,174
+France,47.0,2.0,fr,174
+Netherlands,52.31,5.55,nl,174
+Luxembourg,49.75,6.16,lu,174
+United Kingdom,55.0,-3.0,gb,174
+Northern Europe,61.68,2.9,nan,174
+UK,55.0,-3.0,gb,174
+South Asia,21.28,78.66,in,175
+Pakistan,30.0,70.0,pk,175
+Jammu and Kashmir,33.45,76.24,in,175
+Australia,-25.0,133.0,au,175
+Pakistan,30.0,70.0,pk,175
+Kashmir,34.5,76.0,in,175
+Pakistan,30.0,70.0,pk,175
+Australia,-25.0,133.0,au,175
+France,47.0,2.0,fr,175
+Japan,35.0,136.0,jp,175
+Jordan,31.24,36.51,jo,175
+China,35.0,103.0,cn,175
+Russia,60.0,90.0,ru,175
+Iran,32.0,53.0,ir,175
+Syria,35.0,38.0,sy,175
+US,40.0,-100.0,us,175
+Mexico,23,-102,mx,176
+United States,40,-100,us,176
+China,35,103,cn,176
+Japan,35,136,jp,176
+United Kingdom,55,-3,gb,176
+UK,55,-3,gb,176
+Ceres,37.6,-120.95,us,177
+California,37.0,-120.0,us,177
+United States,40.0,-100.0,us,177
+United States,40.0,-100.0,us,177
+Mississauga,43.6,-79.65,ca,177
+Ontario,50.0,-85.0,ca,177
+Canada,60.0,-95.0,ca,177
+China,35.0,103.0,cn,177
+Georgia,33.0,-83.5,us,178
+Glasgow,55.85,-4.25,gb,178
+South Sudan,8.0,30.0,ss,178
+Angola,-12.5,18.5,ao,178
+Democratic Republic of Congo,-2.88,23.65,cd,178
+Uganda,1.0,32.0,ug,178
+Kenya,1.0,38.0,ke,179
+Kenya,1.0,38.0,ke,179
+Kenya,1.0,38.0,ke,179
+Dadaab,0.05,40.31,ke,179
+Kenya,1.0,38.0,ke,179
+Indian Ocean,-20.0,80.0,nan,179
+Kenya,1.0,38.0,ke,179
+Dadaab,0.05,40.31,ke,179
+Pacific,0.0,-160.0,nan,179
+California,37.0,-120.0,us,180
+Santa Ana,33.74,-117.88,us,180
+California,37.0,-120.0,us,180
+Santa Ana,33.74,-117.88,us,180
+Santa Ana,33.74,-117.88,us,180
+Santa Ana,33.74,-117.88,us,180
+Santa Ana,33.74,-117.88,us,180
+Orange County,33.67,-117.78,us,180
+Santa Ana,33.74,-117.88,us,180
+Santa Ana,33.74,-117.88,us,180
+Santa Ana,33.74,-117.88,us,180
+Santa Ana,33.74,-117.88,us,180
+Santa Ana,33.74,-117.88,us,180
+Santa Ana,33.74,-117.88,us,180
+Santa Ana,33.74,-117.88,us,180
+Santa Ana,33.74,-117.88,us,180
+Santa Ana,33.74,-117.88,us,180
+Newport Beach,33.61,-117.89,us,180
+Irvine,33.66,-117.82,us,180
+Santa Ana,33.74,-117.88,us,180
+Asia,29.84,89.29,cn,181
+Pacific,0.0,-160.0,nan,181
+Papua New Guinea,-6.0,147.0,pg,181
+Malaysia,2.5,112.5,my,181
+Vietnam,16.16,107.83,vn,181
+Myanmar,22.0,96.0,mm,181
+Réunion,-21.11,55.53,fr,182
+Indian Ocean,-20.0,80.0,nan,182
+Seychelles,-4.58,55.66,sc,182
+Mauritious,-20.2,57.5,mu,182
+Mayotte,-12.84,45.13,fr,182
+Rhône-Alpes,45.5,5.33,fr,182
+Africa,7.18,21.09,cf,183
+Léopoldville,-4.32,15.32,cd,183
+Kinshasa,-4.32,15.32,cd,183
+Democratic Republic of the Congo,-2.88,23.65,cd,183
+Léopoldville,-4.32,15.32,cd,183
+U.S.,40.0,-100.0,us,183
+Tucson,32.22,-110.92,us,183
+Arizona,34.0,-112.0,us,183
+United States,40.0,-100.0,us,183
+France,47.0,2.0,fr,183
+Belgium,50.83,4.0,be,183
+Australia,-25.0,133.0,au,183
+Democratic Republic of the Congo,-2.88,23.65,cd,183
+Denmark,56.0,10.0,dk,183
+Cameroon,6.0,12.0,cm,183
+Africa,7.18,21.09,cf,183
+Africa,7.18,21.09,cf,183
+California,37,-120,us,184
+California,37,-120,us,184
+California,37,-120,us,184
+California,37,-120,us,184
+California,37,-120,us,184
+Zimbabwe,-20.0,30.0,zw,185
+Wedza,-18.61,31.56,zw,185
+Mashonaland East,-17.5,32.0,zw,185
+Midlands,-19.0,30.0,zw,185
+Zimbabwe,-20.0,30.0,zw,185
+Johannesburg,-26.2,28.04,za,186
+South Africa,-30.0,25.0,za,186
+Johannesburg,-26.2,28.04,za,186
+South Africa,-30.0,25.0,za,186
+Midrand,-25.99,28.12,za,186
+Gauteng,-26.0,28.0,za,186
+Johannesburg,-26.2,28.04,za,186
+China,35.0,103.0,cn,186
+Beijing,39.91,116.38,cn,186
+Shanghai,31.22,121.47,cn,186
+Changsha,28.19,112.97,cn,186
+China,35.0,103.0,cn,186
+China,35.0,103.0,cn,186
+Sanya,18.25,109.5,cn,186
+South Africa,-30.0,25.0,za,186
+United States,40.0,-100.0,us,186
+Africa,7.18,21.09,cf,186
+Africa,7.18,21.09,cf,186
+United States,40.0,-100.0,us,187
+Egypt,26.0,30.0,eg,187
+Bulgaria,42.75,25.5,bg,187
+Nicaragua,13.09,-86.0,ni,187
+Lebanon,33.83,35.83,lb,187
+Australia,-25.0,133.0,au,187
+Victoria,-37.0,144.0,au,187
+New South Wales,-32.16,147.01,au,187
+Australia,-25.0,133.0,au,187
+Australia,-25.0,133.0,au,187
+Singapore,1.3,103.8,sg,187
+Victoria,-37.0,144.0,au,187
+Melbourne,-37.81,144.96,au,187
+Victoria,-37.0,144.0,au,187
+Singapore,1.3,103.8,sg,187
+Brazil,-10.0,-52.0,br,187
+U.S.,40.0,-100.0,us,187
+Brazil,-10.0,-52.0,br,187
+São Paulo,-23.55,-46.63,br,187
+Rio de Janeiro,-22.9,-43.19,br,187
+Santa Catarina,-27.25,-50.33,br,187
+Rio Grande do Sul,-30.0,-53.0,br,187
+Tocantins,-10.18,-48.33,br,187
+Minas Gerais,-19.81,-43.95,br,187
+Canada,60.0,-95.0,ca,187
+Canada,60.0,-95.0,ca,187
+Chile,-30.0,-71.0,cl,187
+Santiago,-33.45,-70.66,cl,187
+Chile,-30.0,-71.0,cl,187
+New Zealand,-42.0,174.0,nz,187
+Philippines,13.0,122.0,ph,187
+Philippines,13.0,122.0,ph,187
+U.S.,40.0,-100.0,us,187
+Russia,60.0,90.0,ru,187
+New York,40.71,-74.0,us,187
+Moscow,55.75,37.61,ru,187
+Americas,19.0,-96.0,mx,187
+Japan,35.0,136.0,jp,187
+Spain,40.0,-4.0,es,187
+Turkey,39.0,35.0,tr,187
+United States,40.0,-100.0,us,187
+Iraq,33.0,44.0,iq,187
+Turkey,39.0,35.0,tr,187
+İstanbul,41.01,28.95,tr,187
+New York,40.71,-74.0,us,187
+Toronto,43.7,-79.4,ca,187
+Istanbul,41.01,28.95,tr,187
+United Kingdom,55.0,-3.0,gb,187
+England,51.5,-0.11,gb,187
+Glasgow,55.85,-4.25,gb,187
+Paisley,55.84,-4.42,gb,187
+Scotland,56.0,-4.0,gb,187
+UK,55.0,-3.0,gb,187
+U.S.,40.0,-100.0,us,187
+U.S.,40.0,-100.0,us,187
+Wisconsin,44.5,-89.5,us,187
+United States,40.0,-100.0,us,187
+Wisconsin,44.5,-89.5,us,187
+Wisconsin,44.5,-89.5,us,187
+Vietnam,16.16,107.83,vn,187
+Vietnam,16.16,107.83,vn,187
+Ho Chi Minh City,10.77,106.7,vn,187
+United States,40.0,-100.0,us,187
+South America,-14.6,-57.65,br,188
+Panama,9.0,-80.0,pa,188
+Panama Canal,9.08,-79.68,pa,188
+Tortí,8.92,-78.4,pa,188
+Panamá,9.0,-80.0,pa,188
+Americas,19.0,-96.0,mx,188
+Australia,-25.0,133.0,au,188
+Asia,29.84,89.29,cn,188
+Central,25.32,-99.66,mx,188
+South America,-14.6,-57.65,br,188
+Australia,-25.0,133.0,au,189
+Mareeba,-16.98,145.41,au,189
+Queensland,-23.0,143.0,au,189
+Cellardyke,56.21,-2.7,gb,190
+Fife,56.25,-3.2,gb,190
+Scotland,56.0,-4.0,gb,190
+Scotland,56.0,-4.0,gb,190
+Glasgow,55.85,-4.25,gb,190
+Glasgow,55.85,-4.25,gb,190
+United Kingdom,55.0,-3.0,gb,190
+U.K.,55.0,-3.0,gb,190
+UK,55.0,-3.0,gb,190
+U.K.,55.0,-3.0,gb,190
+Fife,56.25,-3.2,gb,190
+Weybridge,51.36,-0.45,gb,190
+Scotland,56.0,-4.0,gb,190
+United Kingdom,55.0,-3.0,gb,190
+Canada,60.0,-95.0,ca,191
+Mexico,23.0,-102.0,mx,191
+United States,40.0,-100.0,us,191
+British Columbia,54.0,-125.0,ca,191
+Canada,60.0,-95.0,ca,191
+British Columbia,54.0,-125.0,ca,191
+Nova Scotia,45.0,-63.0,ca,191
+Ontario,50.0,-85.0,ca,191
+Alberta,55.0,-115.0,ca,191
+New Brunswick,46.0,-66.0,ca,191
+Quebec,53.0,-70.0,ca,191
+Alberta,55.0,-115.0,ca,191
+Mexico,23.0,-102.0,mx,191
+Cairo,30.04,31.23,eg,191
+Mexico,23.0,-102.0,mx,191
+Egypt,26.0,30.0,eg,191
+Bavaria,48.77,11.43,de,191
+Mexico,23.0,-102.0,mx,191
+Germany,51.0,9.0,de,191
+Mexico,23.0,-102.0,mx,191
+Spain,40.0,-4.0,es,191
+Mexico,23.0,-102.0,mx,191
+Mexico,23.0,-102.0,mx,191
+Hong Kong,22.3,114.2,cn,191
+Shanghai,31.22,121.47,cn,191
+Hong Kong,22.3,114.2,cn,191
+Hong Kong,22.3,114.2,cn,191
+Hong Kong,22.3,114.2,cn,191
+China,35.0,103.0,cn,191
+Mexico,23.0,-102.0,mx,191
+Mexico,23.0,-102.0,mx,191
+Mexico,23.0,-102.0,mx,191
+New Zealand,-42.0,174.0,nz,191
+North America,54.77,-105.64,ca,191
+Auckland,-36.84,174.74,nz,191
+Nigeria,8.0,10.0,ng,191
+Nigeria,8.0,10.0,ng,191
+US,40.0,-100.0,us,191
+Delaware,39.0,-75.5,us,191
+Illinois,40.0,-89.0,us,191
+Kentucky,37.5,-85.0,us,191
+South Carolina,34.0,-81.0,us,191
+Tennessee,36.0,-86.0,us,191
+Houston,29.76,-95.38,us,191
+Texas,31.0,-100.0,us,191
+Texas,31.0,-100.0,us,191
+Alabama,32.7,-86.7,us,191
+Fort Worth,32.75,-97.33,us,191
+US,40.0,-100.0,us,191
+Mexico,23.0,-102.0,mx,191
+US,40.0,-100.0,us,191
+Mexico,23.0,-102.0,mx,191
+Pakistan,30.0,70.0,pk,192
+Khyber Pakhtunkhwa,34.0,71.32,pk,192
+Punjab,31.0,74.0,pk,192
+Pakistan,30.0,70.0,pk,192
+Sindh,26.13,68.76,pk,192
+Pakistan,30.0,70.0,pk,192
+U.S.,40.0,-100.0,us,192
+U.S.,40.0,-100.0,us,192
+Kalam,35.48,72.58,pk,192
+Swat Valley,35.38,72.18,pk,192
+Pakistan,30.0,70.0,pk,192
+U.S.,40.0,-100.0,us,192
+U.S.,40.0,-100.0,us,192
+U.S.,40.0,-100.0,us,192
+Malaysia,2.5,112.5,my,192
+Malaysia,2.5,112.5,my,192
+Pakistan,30.0,70.0,pk,192
+Britain,55.0,-3.0,gb,192
+UK,55.0,-3.0,gb,192
+U.S.,40.0,-100.0,us,193
+Democratic Republic of the Congo,-2.88,23.65,cd,193
+DRC,-2.88,23.65,cd,193
+Kasai Occidental,-5.9,22.45,cd,193
+DRC,-2.88,23.65,cd,193
+DRC,-2.88,23.65,cd,193
+Kampungu,-5.21,21.42,cd,193
+Kananga,-5.89,22.44,cd,193
+Kananga,-5.89,22.44,cd,193
+DRC,-2.88,23.65,cd,193
+DRC,-2.88,23.65,cd,193
+West Kasai,-5.9,22.45,cd,193
+Kananga,-5.89,22.44,cd,193
+Kampungu,-5.21,21.42,cd,193
+Kampungu,-5.21,21.42,cd,193
+Rwanda,-1.94,29.87,rw,193
+Zambia,-15.0,30.0,zm,193
+DRC,-2.88,23.65,cd,193
+Zambia,-15.0,30.0,zm,193
+DRC,-2.88,23.65,cd,193
+DRC,-2.88,23.65,cd,193
+Kampungu,-5.21,21.42,cd,193
+Kenya,1,38.0,ke,194
+Europe,51,17.5,pl,194
+Kenya,1,38.0,ke,194
+Kenya,1,38.0,ke,194
+Kenya,1,38.0,ke,194
+Uganda,1,32.0,ug,194
+Queensland,-23.0,143.0,au,195
+Queensland,-23.0,143.0,au,195
+Innisfail,-17.52,146.02,au,195
+Queensland,-23.0,143.0,au,195
+Innisfail,-17.52,146.02,au,195
+Cairns,-16.93,145.77,au,195
+Australia,-25.0,133.0,au,195
+Innisfail,-17.52,146.02,au,195
+Queensland,-23.0,143.0,au,195
+Innisfail,-17.52,146.02,au,195
+Cairns,-16.93,145.77,au,195
+Innisfail,-17.52,146.02,au,195
+Brisbane,-27.46,153.03,au,195
+Townsville,-19.25,146.81,au,195
+Australia,-25.0,133.0,au,195
+Queensland,-23.0,143.0,au,195
+United States,40,-100,us,196
+United States,40,-100,us,196
+Iraq,33,44,iq,196
+Afghanistan,33,65,af,196
+North Korea,40,127,kp,196
+Iran,32,53,ir,196
+U.S.,40,-100,us,196
+Mexico,23,-102,mx,196
+China,35.0,103.0,cn,197
+Indonesia,-5.0,120.0,id,197
+Africa,7.18,21.09,cf,197
+China,35.0,103.0,cn,197
+Indonesia,-5.0,120.0,id,197
+Africa,7.18,21.09,cf,197
+Rome,41.9,12.5,it,197
+Italy,43.0,12.0,it,197
+Africa,7.18,21.09,cf,197
+Indonesia,-5.0,120.0,id,197
+Java,-7.49,110.0,id,197
+China,35.0,103.0,cn,197
+China,35.0,103.0,cn,197
+Mexico,23.0,-102.0,mx,198
+Australia,-25.0,133.0,au,198
+Brazil,-10.0,-52.0,br,198
+France,47.0,2.0,fr,198
+Italy,43.0,12.0,it,198
+New Zealand,-42.0,174.0,nz,198
+Norway,61.0,8.0,no,198
+Switzerland,46.83,8.33,ch,198
+UK,55.0,-3.0,gb,198
+US,40.0,-100.0,us,198
+US,40.0,-100.0,us,198
+Brazil,-10.0,-52.0,br,198
+Sao Paulo,-23.55,-46.63,br,198
+Rio de Janeiro,-22.9,-43.19,br,198
+Brazil,-10.0,-52.0,br,198
+United States,40.0,-100.0,us,198
+Argentina,-34.0,-64.0,ar,198
+Brazil,-10.0,-52.0,br,198
+China,35.0,103.0,cn,198
+China,35.0,103.0,cn,198
+China,35.0,103.0,cn,198
+China,35.0,103.0,cn,198
+China,35.0,103.0,cn,198
+France,47.0,2.0,fr,198
+India,21.0,78.0,in,198
+India,21.0,78.0,in,198
+Kenya,1.0,38.0,ke,198
+Kenya,1.0,38.0,ke,198
+Nairobi,-1.28,36.81,ke,198
+Kisumu,-0.1,34.75,ke,198
+Rift Valley,0.5,36.0,ke,198
+Mexico,23.0,-102.0,mx,198
+Mexico,23.0,-102.0,mx,198
+United Kingdom,55.0,-3.0,gb,198
+UK,55.0,-3.0,gb,198
+Britain,55.0,-3.0,gb,198
+US,40.0,-100.0,us,198
+United States,40.0,-100.0,us,198
+US,40.0,-100.0,us,198
+Vietnam,16.16,107.83,vn,198
+Uganda,1.0,32.0,ug,199
+Netherlands,52.31,5.55,nl,199
+Uganda,1.0,32.0,ug,199
+Uganda,1.0,32.0,ug,199
+Uganda,1.0,32.0,ug,199
+Soviet Union,60.0,98.0,ru,199
+San Diego,32.71,-117.16,us,200
+US,40.0,-100.0,us,200
+Pittsburgh,40.44,-79.99,us,200
+Los Angeles,34.05,-118.25,us,200
+People's Republic of China,35.0,103.0,cn,201
+China,35.0,103.0,cn,201
+Heze,35.23,115.47,cn,201
+Henan,33.9,113.5,cn,201
+Shandong,36.4,118.4,cn,201
+Northern Ireland,54.5,-6.5,gb,202
+Northern Ireland,54.5,-6.5,gb,202
+Spain,40.0,-4.0,es,202
+England,51.5,-0.11,gb,202
+Northern Ireland,54.5,-6.5,gb,202
+Hamburg,53.56,10.0,de,203
+Germany,51.0,9.0,de,203
+Denmark,56.0,10.0,dk,203
+Låsby,56.15,9.81,dk,203
+Jutland,56.0,9.25,dk,203
+San Jose,37.33,-121.9,us,204
+California,37.0,-120.0,us,204
+Las Vegas,36.17,-115.13,us,204
+San Jose,37.33,-121.9,us,204
+Santa Clara County,37.36,-121.97,us,204
+Santa Clara County,37.36,-121.97,us,204
+Esperance,-33.86,121.89,au,205
+Esperance,-33.86,121.89,au,205
+Esperance,-33.86,121.89,au,205
+Australia,-25.0,133.0,au,205
+Esperance,-33.86,121.89,au,205
+Esperance,-33.86,121.89,au,205
+Acapulco,16.86,-99.88,mx,206
+Guerrero,17.61,-99.95,mx,206
+Mexico,23.0,-102.0,mx,206
+Acapulco,16.86,-99.88,mx,206
+Guerrero,17.61,-99.95,mx,206
+Mexico,23.0,-102.0,mx,206
+Mexico City,19.43,-99.13,mx,206
+Guerrero,17.61,-99.95,mx,206
+South America,-14.6,-57.65,br,206
+United States,40.0,-100.0,us,206
+Mexico,23.0,-102.0,mx,206
+Mexico,23.0,-102.0,mx,206
+New Orleans,29.95,-90.06,us,207
+US,40.0,-100.0,us,207
+New Orleans,29.95,-90.06,us,207
+Jefferson Parish,29.73,-90.1,us,207
+Saint Bernard Parish,29.89,-89.35,us,207
+US,40.0,-100.0,us,207
+Lake Pontchartrain,30.18,-90.1,us,207
+California,37.0,-120.0,us,208
+Mission Viejo,33.61,-117.65,us,208
+Fullerton,33.88,-117.92,us,208
+India,21.0,78.0,in,209
+Delhi,28.61,77.23,in,209
+Calcutta,22.56,88.36,in,209
+Calcutta,22.56,88.36,in,209
+Gold Coast,-28.01,153.4,au,210
+Australia,-25.0,133.0,au,210
+Bali,-8.65,115.21,id,210
+Australia,-25.0,133.0,au,210
+Australia,-25.0,133.0,au,210
+Australia,-25.0,133.0,au,210
+Australia,-25.0,133.0,au,210
+Jakarta,-6.2,106.81,id,210
+Indonesia,-5.0,120.0,id,210
+Gold Coast,-28.01,153.4,au,210
+Indonesia,-5.0,120.0,id,210
+Indonesia,-5.0,120.0,id,210
+Democratic Republic of Congo,-2.88,23.65,cd,211
+Mbanza Congo,-6.26,14.24,ao,211
+Angola,-12.5,18.5,ao,211
+Mbanza Congo,-6.26,14.24,ao,211
+Angola,-12.5,18.5,ao,211
+Bas Congo Province,-5.81,13.48,cd,211
+DRC,-2.88,23.65,cd,211
+Angola,-12.5,18.5,ao,211
+DRC,-2.88,23.65,cd,211
+Angola,-12.5,18.5,ao,211
+DRC,-2.88,23.65,cd,211
+China,35.0,103.0,cn,212
+U.S.,40.0,-100.0,us,212
+Oak Brook,41.84,-87.95,us,212
+Illinois,40.0,-89.0,us,212
+U.S.,40.0,-100.0,us,212
+United Kingdom,55.0,-3.0,gb,212
+UK,55.0,-3.0,gb,212
+U.S.,40.0,-100.0,us,212
+China,35.0,103.0,cn,212
+China,35.0,103.0,cn,212
+U.S.,40.0,-100.0,us,212
+United States,40.0,-100.0,us,212
+Dongguan,23.03,113.71,cn,212
+China,35.0,103.0,cn,212
+Guangdong,23.4,113.5,cn,212
+U.S.,40.0,-100.0,us,213
+Iraq,33.0,44.0,iq,213
+U.S.,40.0,-100.0,us,213
+Iraq,33.0,44.0,iq,213
+Kuwait,29.5,45.75,iq,213
+Cedar City,37.68,-113.07,us,213
+Utah,39.0,-111.0,us,213
+Christchurch,-43.53,172.62,nz,214
+New Zealand,-42.0,174.0,nz,214
+Kashmir,34.5,76.0,in,214
+India,21.0,78.0,in,214
+Pakistan,30.0,70.0,pk,214
+Hueytown,33.43,-86.99,us,215
+Alabama,32.7,-86.7,us,215
+Birmingham,33.52,-86.81,us,215
+Alabama,32.7,-86.7,us,215
+Hueytown,33.43,-86.99,us,215
+Birmingham,33.52,-86.81,us,215
+Bohol,9.9,124.2,ph,216
+Mabini,9.87,124.52,ph,216
+Ubay,10.05,124.47,ph,216
+Ontario,50.0,-85.0,ca,217
+Stroud,44.3,-79.58,ca,217
+Ontario,50.0,-85.0,ca,217
+Canada,60.0,-95.0,ca,217
+Bradford,44.11,-79.56,ca,217
+Ontario,50.0,-85.0,ca,217
+Lake Titicaca,-15.75,-69.41,pe,218
+Puno,-15.07,-70.12,pe,218
+Peru,-10.0,-76.0,pe,218
+Bolivia,-16.71,-64.66,bo,218
+Desaguadero,-16.56,-69.03,bo,218
+Massachusetts,42.3,-71.8,us,218
+London,51.5,-0.12,gb,218
+Philippi,39.15,-80.04,us,219
+West Virginia,39.0,-80.5,us,219
+United States,40.0,-100.0,us,219
+Australia,-25.0,133.0,au,220
+Brisbane,-27.46,153.03,au,220
+Brisbane,-27.46,153.03,au,220
+Toowong,-27.48,152.98,au,220
+Queensland,-23.0,143.0,au,220
+Britain,55.0,-3.0,gb,221
+UK,55.0,-3.0,gb,221
+Chechnya,43.4,45.71,ru,221
+Moscow,55.75,37.61,ru,221
+Piccadilly,51.5,-0.14,gb,221
+London,51.5,-0.12,gb,221
+London,51.5,-0.12,gb,221
+United Kingdom,55.0,-3.0,gb,221
+Piccadilly,51.5,-0.14,gb,221
+Muswell Hill,51.59,-0.14,gb,221
+Grosvenor Square,51.51,-0.15,gb,221
+Moscow,55.75,37.61,ru,221
+Pingliang,35.53,106.68,cn,222
+China,35.0,103.0,cn,222
+Pingliang,35.53,106.68,cn,222
+China,35.0,103.0,cn,222
+Baghdad,33.33,44.38,iq,223
+Iraq,33.0,44.0,iq,223
+Amman,31.94,35.93,jo,223
+Jordan,31.24,36.51,jo,223
+United Kingdom,55.0,-3.0,gb,223
+Adhamiya,33.36,44.36,iq,223
+Adhamiyah,33.36,44.36,iq,223
+Baghdad,33.33,44.38,iq,223
+Georgia,42.0,43.5,ge,224
+Georgia,42.0,43.5,ge,224
+Kvemo-Kartli,41.51,44.51,ge,224
+Georgia,42.0,43.5,ge,224
+Georgia,42.0,43.5,ge,224
+Georgia,42.0,43.5,ge,224
+Georgia,42.0,43.5,ge,224
+Las Vegas,36.17,-115.13,us,225
+Clark County,36.2,-115.02,us,225
+Nevada,39.0,-117.0,us,225
+Cornwall,50.3,-4.9,gb,226
+South West England,50.96,-3.22,gb,226
+Camborne,50.21,-5.3,gb,226
+Devon,50.7,-3.8,gb,226
+Cornwall,50.3,-4.9,gb,226
+Roskear,50.22,-5.28,gb,226
+Cornwall,50.3,-4.9,gb,226
+U.S.,40.0,-100.0,us,227
+Denver,39.76,-104.88,us,227
+Cajamarca,-7.16,-78.51,pe,227
+Peru,-10.0,-76.0,pe,227
+San Juan,-7.29,-78.49,pe,227
+Choropampa,-7.28,-78.57,pe,227
+Magdalena,-7.25,-78.65,pe,227
+Yanacocha,-6.98,-78.5,pe,227
+Peru,-10.0,-76.0,pe,227
+Denver,39.76,-104.88,us,227
+Denver,39.76,-104.88,us,227
+Indonesia,-5.0,120.0,id,227
+United States,40.0,-100.0,us,227
+Jakarta,-6.2,106.81,id,227
+Yanacocha,-6.98,-78.5,pe,227
+United States,40.0,-100.0,us,228
+Florida,28.1,-81.6,us,228
+Utah,39.0,-111.0,us,228
+United States,40.0,-100.0,us,228
+United States,40.0,-100.0,us,228

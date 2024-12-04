@@ -1,0 +1,19 @@
+location,class,start,end,lat,long,country,geo_id
+Wegmans,Coercion,2880,2887,38.784234,-77.653357,us,
+Ronald Wilson Reagan Middle,Coercion,2755,2782,38.845789,-77.662327,us,
+Patriot High,Coercion,2784,2796,38.726101,-77.579969,us,
+Buckland Elementary,Coercion,2734,2753,38.798149,-77.635840,us,
+Vienna/Fairfax-GMU Metro,Literal_Modifier,3083,3107,38.87789,-77.27054,us,4791172
+Old Town Manassas,Literal,3018,3035,38.750035,-77.472854,us,
+Turtle Point,Coercion,2808,2820,38.780932,-77.651761,us,
+Virginia Gateway,Coercion,2615,2631,38.794745,-77.606841,us,
+Stonewall,Coercion,2568,2577,38.785307,-77.649939,us,
+Centreville,Literal,3153,3164,38.84039,-77.42888,us,4751839
+Stonewall Golf Club,Coercion,2513,2532,38.785307,-77.649939,us,
+Robert Trent Jones Golf Club,Coercion,2454,2482,38.775619,-77.639461,us,
+Va.,Literal,3266,3269,37.54812,-77.44675,us,6254928
+Dulles International Airport,Literal,3181,3209,38.94877,-77.4491,us,4792325
+Gainesville,Literal,3253,3264,38.79567,-77.61388,us,4760363
+Charleston,Literal,502,512,38.34982,-81.63262,us,4801859
+Haymarket Village Center,Coercion,2672,2696,38.817901,-77.644125,us,
+Lake Manassas,Literal,2156,2169,38.77145,-77.64191,us,4768296

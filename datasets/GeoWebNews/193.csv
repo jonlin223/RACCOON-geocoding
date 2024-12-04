@@ -1,0 +1,11 @@
+location,class,start,end,lat,long,country,geo_id
+Korean Peninsula,Literal_Modifier,749,765,38.62545,127.55127,,11494804
+Korean Peninsula,Literal,2597,2613,38.62545,127.55127,,11494804
+Korean Peninsula,Literal,178,194,38.62545,127.55127,,11494804
+Korean Peninsula,Literal_Modifier,1123,1139,38.62545,127.55127,,11494804
+Korean Peninsula,Literal,1767,1783,38.62545,127.55127,,11494804
+Moscow,Literal,315,321,55.75222,37.61556,ru,524901
+Moscow,Literal,688,694,55.75222,37.61556,ru,524901
+Russia,Literal,924,930,60.0,100.0,ru,2017370
+Russia,Literal,696,702,60.0,100.0,ru,2017370
+Russia,Literal,323,329,60.0,100.0,ru,2017370

@@ -1,0 +1,4 @@
+location,class,start,end,lat,long,country,geo_id
+CHU,Coercion,566,569,43.631938,3.849992,fr,
+Montpellier,Literal,573,584,43.61092,3.87723,fr,2992166
+Béziers,Literal,364,371,43.34122,3.21402,fr,3032833

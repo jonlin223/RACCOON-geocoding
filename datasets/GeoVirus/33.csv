@@ -1,0 +1,10 @@
+location,start,end,lat,long,country
+Michigan,98,106,44.0,-85.0,us
+Lake Erie,123,132,42.2,-81.2,us
+Mouillee,142,150,42.0,-83.19,us
+Monroe County,170,183,41.92,-83.5,us
+Ames,397,401,42.03,-93.62,us
+Iowa,403,407,42.0,-93.0,us
+North America,574,587,54.77,-105.64,ca
+Asia,675,679,29.84,89.29,cn
+Michigan,921,929,44.0,-85.0,us

@@ -1,0 +1,11 @@
+location,class,start,end,lat,long,country,geo_id
+BC,Embedded_Literal,1202,1204,53.99983,-125.0032,ca,5909050
+BC,Embedded_Literal,238,240,49.49985,-117.28553,ca,6086871
+BC,Embedded_Literal,465,467,49.49985,-117.28553,ca,6086871
+Creston,Mixed,301,308,49.09987,-116.50211,ca,5932311
+Nelson,Literal,471,477,49.49985,-117.28553,ca,6086871
+Nelson,Mixed,294,300,49.49985,-117.28553,ca,6086871
+Nelson,Literal,850,856,49.49985,-117.28553,ca,6086871
+Nelson,Literal_Modifier,1303,1309,49.49985,-117.28553,ca,6086871
+401 - 333 Victoria St.,Literal,1153,1175,49.490844,-117.294749,ca,
+Castlegar,Literal,1259,1268,49.29984,-117.66894,ca,5918118

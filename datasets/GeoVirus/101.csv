@@ -1,0 +1,13 @@
+location,start,end,lat,long,country
+U.S.,91,95,40.0,-100.0,us
+United States,224,237,40.0,-100.0,us
+United States,287,300,40.0,-100.0,us
+New York City,1201,1214,40.71,-74.0,us
+Queens,1305,1311,40.75,-73.86,us
+New York,1313,1321,40.71,-74.0,us
+Ohio,1494,1498,40.5,-82.5,us
+California,1571,1581,37.0,-120.0,us
+Kansas,1633,1639,38.5,-98.0,us
+Texas,1644,1649,31.0,-100.0,us
+U.S.,1922,1926,40.0,-100.0,us
+U.S.,2089,2093,40.0,-100.0,us

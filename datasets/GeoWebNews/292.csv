@@ -1,0 +1,6 @@
+location,class,start,end,lat,long,country,geo_id
+India,Mixed,1065,1070,22.0,79.0,in,1269750
+China,Mixed,1058,1063,35.0,105.0,cn,1814991
+Europe,Literal,1213,1219,48.69096,9.14062,,6255148
+Latin America,Mixed,1075,1088,-14.60485,-57.65625,,6255150
+Turkey,Mixed,1305,1311,39.0,35.0,tr,298795

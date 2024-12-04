@@ -1,0 +1,3 @@
+location,class,start,end,lat,long,country,geo_id
+Brazil,Literal,554,560,-10.0,-55.0,br,3469034
+China,Literal,376,381,35.0,105.0,cn,1814991

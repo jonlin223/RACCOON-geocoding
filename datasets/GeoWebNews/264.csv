@@ -1,0 +1,15 @@
+location,class,start,end,lat,long,country,geo_id
+New Delhi,Literal,2901,2910,28.63576,77.22445,in,1261481
+India,Literal,1527,1532,22.0,79.0,in,1269750
+India,Literal_Modifier,4712,4717,22.0,79.0,in,1269750
+India,Mixed,5498,5503,22.0,79.0,in,1269750
+Indian,Literal_Modifier,2807,2813,22.0,79.0,in,1269750
+Kasba Bonli,Literal,5603,5614,26.311345,76.246723,in,
+India,Literal,335,340,22.0,79.0,in,1269750
+Kasba Bonli,Literal,1108,1119,26.311345,76.246723,in,
+Kasba Bonli,Mixed,3049,3060,26.311345,76.246723,in,
+Kasba Bonli,Literal,307,318,26.311345,76.246723,in,
+Rajasthan,Literal_Modifier,3392,3401,26.58333,73.83333,in,1258899
+Rajasthan,Literal_Modifier,1138,1147,26.58333,73.83333,in,1258899
+Rajasthan,Literal,3841,3850,26.58333,73.83333,in,1258899
+Rajasthan,Literal,3585,3594,26.58333,73.83333,in,1258899

@@ -1,0 +1,15 @@
+location,start,end,lat,long,country
+Asia,87,91,29.84,89.29,cn
+Indonesia,136,145,-5.0,120.0,id
+Indonesia,330,339,-5.0,120.0,id
+Aceh,342,346,5.55,95.31,id
+Sri Lanka,556,565,7.0,81.0,lk
+India,590,595,21.0,78.0,in
+Malaysia,644,652,2.5,112.5,my
+Myanmar,654,661,22.0,96.0,mm
+Bangladesh,663,673,23.8,90.3,bd
+Maldives,679,687,3.2,73.22,mv
+Somalia,689,696,10.0,49.0,so
+Tanzania,698,706,-6.3,34.85,tz
+Kenya,711,716,1.0,38.0,ke
+Sweden,804,810,63.0,16.0,se

@@ -1,0 +1,11 @@
+location,class,start,end,lat,long,country,geo_id
+Toomevara,Literal,1378,1387,52.84972,-8.03222,ie,2961157
+Ardcroney,Mixed,1389,1398,52.93222,-8.15722,ie,2966928
+Ballina,Literal,1288,1295,54.11667,-9.16667,ie,2966778
+Newport,Literal,1303,1310,53.88508,-9.54526,ie,2962256
+Cloughjordan,Literal,1318,1330,52.94028,-8.03556,ie,2965413
+Portroe,Literal,1359,1366,52.8825,-8.35028,ie,2962012
+Nenagh,Literal_Modifier,301,307,52.86194,-8.19667,ie,2962304
+Nenagh Municipal District,Literal_Modifier,568,593,52.86194,-8.19667,ie,2962304
+Nenagh,Literal,1262,1268,52.86194,-8.19667,ie,2962304
+Nenagh,Literal,1629,1635,52.86194,-8.19667,ie,2962304

@@ -1,0 +1,7 @@
+location,class,start,end,lat,long,country,geo_id
+Russia,Literal,1190,1196,60.0,100.0,ru,2017370
+Russian Foreign Ministry,Coercion,1537,1561,55.746055,37.584410,ru,
+St. Petersburg,Literal,284,298,59.91667,30.25,ru,536203
+Seattle,Literal,1338,1345,47.60621,-122.33207,us,5809844
+St. Petersburg,Literal,1080,1094,59.91667,30.25,ru,536203
+UK,Literal,693,695,54.75844,-2.69531,gb,2635167

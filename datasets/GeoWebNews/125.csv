@@ -1,0 +1,5 @@
+location,class,start,end,lat,long,country,geo_id
+Eglinton Avenue West,Literal,496,516,43.648539,-79.606475,ca,
+Dubonet Drive,Literal,521,534,43.547402,-79.723600,ca,
+Mississauga,Literal,255,266,43.5789,-79.6583,ca,6075357
+Peel,Embedded_Literal,170,174,43.75011,-79.78293,ca,6100475

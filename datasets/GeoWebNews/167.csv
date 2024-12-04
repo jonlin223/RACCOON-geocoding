@@ -1,0 +1,5 @@
+location,class,start,end,lat,long,country,geo_id
+Los Angeles,Literal,1319,1330,34.05223,-118.24368,us,5368361
+Beverly Hills,Literal,541,554,34.07362,-118.40036,us,5328041
+California,Literal,556,566,37.25022,-119.75126,us,5332921
+Beverly Hills,Literal,278,291,34.07362,-118.40036,us,5328041

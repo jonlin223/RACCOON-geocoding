@@ -1,0 +1,19 @@
+location,start,end,lat,long,country
+Indiana,0,7,40.0,-86.0,us
+Indiana,432,439,40.0,-86.0,us
+Austin,441,447,38.74,-85.8,us
+Scott County,452,464,38.69,-85.74,us
+Indiana,466,473,40.0,-86.0,us
+Scott County,550,562,38.69,-85.74,us
+Indiana,1437,1444,40.0,-86.0,us
+Scott County,1482,1494,38.69,-85.74,us
+Evansville,1814,1824,37.97,-87.55,us
+Scott County,2529,2541,38.69,-85.74,us
+Louisville,2658,2668,38.22,-85.74,us
+Kentucky,2670,2678,37.5,-85.0,us
+Austin,2704,2710,38.74,-85.8,us
+Kentucky,2726,2734,37.5,-85.0,us
+United States,2987,3000,40.0,-100.0,us
+Nashville,3144,3153,36.16,-86.78,us
+Tennessee,3155,3164,36.0,-86.0,us
+Evansville,3240,3250,37.97,-87.55,us

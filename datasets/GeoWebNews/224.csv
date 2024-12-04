@@ -1,0 +1,5 @@
+location,class,start,end,lat,long,country,geo_id
+Ainsworth Parade,Literal,529,545,54.606021,-5.961756,gb,
+Shankill,Literal_Modifier,497,505,54.6025,-5.95056,gb,2638139
+Belfast Magistrate’s Court,Coercion,343,369,54.598055,-5.923481,gb,
+McCandless Street,Literal,839,856,54.609658,-5.951474,gb,

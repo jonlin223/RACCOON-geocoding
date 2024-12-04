@@ -1,0 +1,10 @@
+location,class,start,end,lat,long,country,geo_id
+Eastern Cape,Literal,3466,3478,-32.0,26.0,za,1085593
+Eastern Cape,Literal,3770,3782,-32.0,26.0,za,1085593
+Cape Town,Literal,3552,3561,-33.92584,18.42322,za,3369157
+Cape Town,Literal,3435,3444,-33.92584,18.42322,za,3369157
+Khayelitsha,Literal,1753,1764,-34.03932,18.67916,za,3365957
+Delft,Literal,1564,1569,-33.98918,18.6271,za,11205081
+Khayelitsha,Literal,1541,1552,-34.03932,18.67916,za,3365957
+Karl Bremer Hospital,Mixed,1142,1162,-33.891578,18.607474,za,
+Delft,Literal_Modifier,347,352,-33.98918,18.6271,za,11205081

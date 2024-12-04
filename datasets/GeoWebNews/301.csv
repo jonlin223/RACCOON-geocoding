@@ -1,0 +1,6 @@
+location,class,start,end,lat,long,country,geo_id
+South Africa,Mixed,342,354,-29.8579,31.0292,za,1007311
+Durban,Literal_Modifier,1760,1766,-29.8579,31.0292,za,1007311
+Durban,Literal_Modifier,416,422,-29.8579,31.0292,za,1007311
+DURBAN,Mixed,334,340,-29.8579,31.0292,za,1007311
+Witwatersrand University,Coercion,2798,2822,-26.19083,28.03028,za,9199767

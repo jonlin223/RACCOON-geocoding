@@ -1,0 +1,13 @@
+location,start,end,lat,long,country
+Acapulco,152,160,16.86,-99.88,mx
+Guerrero,1131,1139,17.61,-99.95,mx
+Mexico,1596,1602,23.0,-102.0,mx
+Acapulco,2015,2023,16.86,-99.88,mx
+Guerrero,2075,2083,17.61,-99.95,mx
+Mexico,2108,2114,23.0,-102.0,mx
+Mexico City,2150,2161,19.43,-99.13,mx
+Guerrero,2163,2171,17.61,-99.95,mx
+South America,2221,2234,-14.6,-57.65,br
+United States,2243,2256,40.0,-100.0,us
+Mexico,2258,2264,23.0,-102.0,mx
+Mexico,2411,2417,23.0,-102.0,mx

@@ -1,0 +1,9 @@
+location,class,start,end,lat,long,country,geo_id
+Russia,Literal,3173,3179,60.0,100.0,ru,2017370
+Slovenia,Mixed,2246,2254,46.08333,15.0,si,3190538
+Russia,Literal,2564,2570,60.0,100.0,ru,2017370
+Moscow,Literal,3450,3456,55.76167,37.60667,ru,524894
+Russia,Literal,2829,2835,60.0,100.0,ru,2017370
+Iraq,Literal,1110,1114,33.0,44.0,iq,99237
+Moscow,Literal,1575,1581,55.76167,37.60667,ru,524894
+EU,Coercion,2281,2283,50.83857,4.37599,,6695072

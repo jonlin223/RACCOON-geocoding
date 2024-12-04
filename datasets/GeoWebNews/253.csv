@@ -1,0 +1,4 @@
+location,class,start,end,lat,long,country,geo_id
+Malaysia,Literal,4993,5001,2.5,112.5,my,1733045
+Washington,Literal_Modifier,2173,2183,38.89511,-77.03637,us,4140963
+Kuala Lumpur,Literal,4979,4991,3.1412,101.68653,my,1735161

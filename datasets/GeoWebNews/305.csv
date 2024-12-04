@@ -1,0 +1,16 @@
+location,class,start,end,lat,long,country,geo_id
+SB Smith Electrical,Coercion,1079,1098,52.706314,-3.034150,gb,
+Earlsheaton,Literal,1192,1203,53.690604,-1.620817,gb,
+Overton,Literal,970,977,53.03427,-2.78695,gb,7294409
+Thornhill,Literal,891,900,53.66667,-1.63333,gb,2635982
+New Road,Literal,1115,1123,52.706314,-3.034150,gb,
+Middlestown,Literal,922,933,53.65079,-1.59762,gb,2642603
+Middletown,Literal_Modifier,1102,1112,53.65079,-1.59762,gb,2642603
+Dewsbury,Literal,596,604,53.69076,-1.62907,gb,2651286
+Portugal,Literal,1507,1515,39.6945,-8.13057,pt,2264397
+Dewsbury,Literal,807,815,53.69076,-1.62907,gb,2651286
+Dewsbury,Literal,434,442,53.69076,-1.62907,gb,2651286
+Blackpool,Literal,374,383,53.81667,-3.05,gb,2655459
+Great Yarmouth,Literal,728,742,52.60831,1.73052,gb,2647984
+South Ossett Church,Literal,653,672,53.673484,-1.570948,gb,
+Pioneer,Coercion,578,585,53.690030,-1.630811,gb,

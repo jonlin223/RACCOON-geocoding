@@ -1,0 +1,14 @@
+location,start,end,lat,long,country
+Canada,0,6,60.0,-95.0,ca
+British Columbia,60,76,54.0,-125.0,ca
+Canada,78,84,60.0,-95.0,ca
+Fraser Valley,309,322,49.1,-122.29,ca
+Vancouver,349,358,49.25,-123.1,ca
+British Columbia,360,376,54.0,-125.0,ca
+Canada,922,928,60.0,-95.0,ca
+United States,1227,1240,40.0,-100.0,us
+Canada,1456,1462,60.0,-95.0,ca
+U.S.,1573,1577,40.0,-100.0,us
+Canada,1622,1628,60.0,-95.0,ca
+Alberta,1781,1788,55.0,-115.0,ca
+United Kingdom,2045,2059,55.0,-3.0,gb

@@ -1,0 +1,4 @@
+location,class,start,end,lat,long,country,geo_id
+Muscat,Embedded_Literal,151,157,23.58413,58.40778,om,287286
+Salalah,Literal,872,879,17.01505,54.09237,om,286621
+Muscat,Mixed,134,140,23.58413,58.40778,om,287286

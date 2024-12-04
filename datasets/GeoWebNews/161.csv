@@ -1,0 +1,9 @@
+location,class,start,end,lat,long,country,geo_id
+Agriculture Park Wana,Coercion,1616,1637,32.337441,69.578783,pk,
+Makeen,Literal,1397,1403,27.1,68.38333,pk,1411892
+Agriculture Park,Literal,1356,1372,32.337441,69.578783,pk,
+Wana,Literal,1376,1380,32.29889,69.5725,pk,1162634
+SOUTH WAZIRISTAN,Mixed,117,133,32.30397,69.68207,pk,1164536
+South Waziristan Agency,Literal,245,268,32.30397,69.68207,pk,1164536
+Makeen Market Complex,Coercion,1800,1821,32.6208,69.8392,pk,
+Makeen,Literal,1099,1105,27.1,68.38333,pk,1411892

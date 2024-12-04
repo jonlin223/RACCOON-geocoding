@@ -1,0 +1,6 @@
+location,class,start,end,lat,long,country,geo_id
+Denmark,Literal,1056,1063,56.0,10.0,dk,2623032
+Wales,Literal,1713,1718,52.5,-3.5,gb,2634895
+Asian,Embedded_Literal,1359,1364,29.84064,89.29688,,6255147
+WALES,Embedded_Literal,1586,1591,52.5,-3.5,gb,2634895
+Wales,Embedded_Literal,1645,1650,52.5,-3.5,gb,2634895

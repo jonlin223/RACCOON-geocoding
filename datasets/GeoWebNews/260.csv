@@ -1,0 +1,7 @@
+location,class,start,end,lat,long,country,geo_id
+Nashville,Literal,557,566,36.16589,-86.78444,us,4644585
+Crossroads Correctional Center,Literal,390,420,48.50189,-111.8934,us,9677410
+Shelby,Literal,424,430,48.50526,-111.85697,us,5677433
+Mont.,Mixed,266,271,47.00025,-109.75102,us,5667009
+HELENA,Mixed,258,264,46.59271,-112.03611,us,5656882
+Tennessee,Literal,568,577,35.75035,-86.25027,us,4662168

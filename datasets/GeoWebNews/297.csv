@@ -1,0 +1,17 @@
+location,class,start,end,lat,long,country,geo_id
+China,Literal,2753,2758,35.0,105.0,cn,1814991
+Cornell University,Embedded_Literal,4863,4881,42.44702,-76.483,us,5113752
+WASHINGTON,Mixed,217,227,38.89511,-77.03637,us,4140963
+China,Literal,4886,4891,35.0,105.0,cn,1814991
+China,Mixed,5469,5474,35.0,105.0,cn,1814991
+China,Literal_Modifier,5201,5206,35.0,105.0,cn,1814991
+Beijing,Literal,785,792,39.9075,116.39723,cn,1816670
+American,Literal_Modifier,2025,2033,39.76,-98.5,us,6252001
+Beijing,Literal_Modifier,5319,5326,39.9075,116.39723,cn,1816670
+Beijing,Literal,5988,5995,39.9075,116.39723,cn,1816670
+American,Literal_Modifier,3963,3971,39.76,-98.5,us,6252001
+American,Mixed,3287,3295,39.76,-98.5,us,6252001
+American,Literal_Modifier,1990,1998,39.76,-98.5,us,6252001
+China,Literal,2411,2416,35.0,105.0,cn,1814991
+China,Literal,2216,2221,35.0,105.0,cn,1814991
+American,Literal_Modifier,4015,4023,39.76,-98.5,us,6252001

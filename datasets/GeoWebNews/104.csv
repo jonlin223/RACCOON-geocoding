@@ -1,0 +1,6 @@
+location,class,start,end,lat,long,country,geo_id
+North Carolina,Mixed,3180,3194,35.50069,-80.00032,us,4482348
+COLUMBUS,Mixed,390,398,39.96118,-82.99879,us,4509177
+Ohio,Mixed,400,404,40.25034,-83.00018,us,5165418
+Columbus,Literal,328,336,39.96118,-82.99879,us,4509177
+Ohio,Literal,338,342,40.25034,-83.00018,us,5165418

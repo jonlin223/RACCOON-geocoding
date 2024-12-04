@@ -1,0 +1,8 @@
+location,class,start,end,lat,long,country,geo_id
+Russia,Literal,753,759,60.0,100.0,ru,2017370
+Venezuela,Literal,390,399,8.0,-66.0,ve,3625428
+South Venezuela,Literal,1163,1178,8.0,-66.0,ve,3625428
+Orinoco,Literal_Modifier,1147,1154,8.2,-64.73694,ve,10793688
+Caracas,Literal,1031,1038,10.48801,-66.87919,ve,3646738
+Russian,Mixed,654,661,60.0,100.0,ru,2017370
+Caracas,Literal,285,292,10.48801,-66.87919,ve,3646738

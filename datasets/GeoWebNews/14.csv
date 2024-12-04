@@ -1,0 +1,7 @@
+location,class,start,end,lat,long,country,geo_id
+Beijing,Literal,803,810,39.9075,116.39723,cn,1816670
+China,Literal,754,759,35.0,105.0,cn,1814991
+Kuala Lumpur,Literal,787,799,3.14309,101.68653,my,1733046
+Indian Ocean,Literal,1300,1312,-10.0,70.0,,1545739
+Indian Ocean,Literal,431,443,-10.0,70.0,,1545739
+Indian Ocean,Literal_Modifier,2210,2222,-10.0,70.0,,1545739

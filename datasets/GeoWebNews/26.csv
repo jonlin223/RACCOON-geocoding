@@ -1,0 +1,5 @@
+location,class,start,end,lat,long,country,geo_id
+Valley,Literal,337,343,39.813231,-83.054829,us,
+Valley,Literal,736,742,39.813231,-83.054829,us,
+Poland,Literal,395,401,41.02423,-80.6148,us,5167196
+Ohio,Literal,210,214,40.25034,-83.00018,us,5165418

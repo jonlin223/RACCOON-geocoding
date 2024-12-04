@@ -1,0 +1,8 @@
+location,start,end,lat,long,country,geo_id
+Georgia,0,7,42,43.5,ge,614540
+TBILISI,52,59,41.725,44.7908,ge,611717
+Georgia,61,68,42,43.5,ge,614540
+Georgian,72,80,42,43.5,ge,614540
+Georgia,336,343,42,43.5,ge,614540
+Russia,367,373,60,100,ru,2017370
+Georgia,663,670,42,43.5,ge,614540

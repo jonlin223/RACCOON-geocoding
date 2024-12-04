@@ -1,0 +1,4 @@
+location,class,start,end,lat,long,country,geo_id
+Sloss Furnaces,Coercion,1080,1094,33.52056,-86.79139,us,7304666
+Birmingham,Literal_Modifier,386,396,33.52066,-86.80249,us,4049979
+St. North,Literal,1105,1114,33.519206,-86.793637,us,

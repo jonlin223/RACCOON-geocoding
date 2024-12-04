@@ -1,0 +1,4 @@
+location,start,end,lat,long,country
+Afghanistan,266,277,33,65,af
+Iraq,282,286,33,44,iq
+U.S.,526,530,40,-100,us

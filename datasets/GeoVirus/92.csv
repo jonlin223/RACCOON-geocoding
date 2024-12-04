@@ -1,0 +1,7 @@
+location,start,end,lat,long,country
+United Kingdom,22,36,55,-3,gb
+UK,251,253,55,-3,gb
+UK,543,545,55,-3,gb
+Canada,840,846,60,-95,ca
+Australia,851,860,-25,133,au
+U.S.,926,930,40,-100,us

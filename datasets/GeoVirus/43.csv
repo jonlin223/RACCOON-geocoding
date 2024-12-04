@@ -1,0 +1,15 @@
+location,start,end,lat,long,country
+Mecca,40,45,21.41,39.81,sa
+India,326,331,21.0,78.0,in
+Sudan,336,341,15.0,32.0,sd
+Morocco,364,371,32.0,-6.0,ma
+Nigeria,391,398,8.0,10.0,ng
+Mecca,452,457,21.41,39.81,sa
+Medina,473,479,24.46,39.6,sa
+Mecca,888,893,21.41,39.81,sa
+Egypt,1213,1218,26.0,30.0,eg
+Cairo,1260,1265,30.04,31.23,eg
+Africa,1396,1402,7.18,21.09,cf
+Middle East,1411,1422,29.0,41.0,sa
+Saudi Arabia,1451,1463,24.0,45.0,sa
+Iran,1478,1482,32.0,53.0,ir

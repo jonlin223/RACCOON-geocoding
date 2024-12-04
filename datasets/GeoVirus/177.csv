@@ -1,0 +1,9 @@
+location,start,end,lat,long,country
+Ceres,81,86,37.6,-120.95,us
+California,88,98,37.0,-120.0,us
+United States,106,119,40.0,-100.0,us
+United States,721,734,40.0,-100.0,us
+Mississauga,1834,1845,43.6,-79.65,ca
+Ontario,1847,1854,50.0,-85.0,ca
+Canada,1858,1864,60.0,-95.0,ca
+China,2105,2110,35.0,103.0,cn

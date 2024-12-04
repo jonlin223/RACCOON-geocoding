@@ -1,0 +1,4 @@
+location,class,start,end,lat,long,country,geo_id
+East Yorkshire,Literal,1073,1087,53.91667,-0.5,gb,2650345
+Craven Cottage,Literal,846,860,51.4749,-0.2217,gb,6288545
+KCOM Stadium,Literal,627,639,53.746499,-0.367965,gb,

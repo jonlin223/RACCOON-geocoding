@@ -1,0 +1,64 @@
+location,start,end,lat,long,country
+United States,269,282,40.0,-100.0,us
+Egypt,353,358,26.0,30.0,eg
+Bulgaria,360,368,42.75,25.5,bg
+Nicaragua,374,383,13.09,-86.0,ni
+Lebanon,422,429,33.83,35.83,lb
+Australia,1217,1226,-25.0,133.0,au
+Victoria,1276,1284,-37.0,144.0,au
+New South Wales,1318,1333,-32.16,147.01,au
+Australia,1591,1600,-25.0,133.0,au
+Australia,1785,1794,-25.0,133.0,au
+Singapore,2278,2287,1.3,103.8,sg
+Victoria,2329,2337,-37.0,144.0,au
+Melbourne,2385,2394,-37.81,144.96,au
+Victoria,2399,2407,-37.0,144.0,au
+Singapore,2454,2463,1.3,103.8,sg
+Brazil,2579,2585,-10.0,-52.0,br
+U.S.,2879,2883,40.0,-100.0,us
+Brazil,2887,2893,-10.0,-52.0,br
+São Paulo,2920,2929,-23.55,-46.63,br
+Rio de Janeiro,2940,2954,-22.9,-43.19,br
+Santa Catarina,2964,2978,-27.25,-50.33,br
+Rio Grande do Sul,2998,3015,-30.0,-53.0,br
+Tocantins,3017,3026,-10.18,-48.33,br
+Minas Gerais,3032,3044,-19.81,-43.95,br
+Canada,3198,3204,60.0,-95.0,ca
+Canada,3535,3541,60.0,-95.0,ca
+Chile,3759,3764,-30.0,-71.0,cl
+Santiago,3847,3855,-33.45,-70.66,cl
+Chile,4069,4074,-30.0,-71.0,cl
+New Zealand,4126,4137,-42.0,174.0,nz
+Philippines,4343,4354,13.0,122.0,ph
+Philippines,4600,4611,13.0,122.0,ph
+U.S.,4707,4711,40.0,-100.0,us
+Russia,4992,4998,60.0,90.0,ru
+New York,5099,5107,40.71,-74.0,us
+Moscow,5173,5179,55.75,37.61,ru
+Americas,5484,5492,19.0,-96.0,mx
+Japan,5505,5510,35.0,136.0,jp
+Spain,5515,5520,40.0,-4.0,es
+Turkey,5835,5841,39.0,35.0,tr
+United States,5903,5916,40.0,-100.0,us
+Iraq,5920,5924,33.0,44.0,iq
+Turkey,5957,5963,39.0,35.0,tr
+İstanbul,5975,5983,41.01,28.95,tr
+New York,6068,6076,40.71,-74.0,us
+Toronto,6081,6088,43.7,-79.4,ca
+Istanbul,6344,6352,41.01,28.95,tr
+United Kingdom,6424,6438,55.0,-3.0,gb
+England,6456,6463,51.5,-0.11,gb
+Glasgow,6508,6515,55.85,-4.25,gb
+Paisley,6795,6802,55.84,-4.42,gb
+Scotland,6804,6812,56.0,-4.0,gb
+UK,6832,6834,55.0,-3.0,gb
+U.S.,6896,6900,40.0,-100.0,us
+U.S.,6979,6983,40.0,-100.0,us
+Wisconsin,7236,7245,44.5,-89.5,us
+United States,7442,7455,40.0,-100.0,us
+Wisconsin,7615,7624,44.5,-89.5,us
+Wisconsin,7725,7734,44.5,-89.5,us
+Vietnam,7787,7794,16.16,107.83,vn
+Vietnam,7877,7884,16.16,107.83,vn
+Ho Chi Minh City,7898,7914,10.77,106.7,vn
+United States,8045,8058,40.0,-100.0,us

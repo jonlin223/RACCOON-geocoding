@@ -1,0 +1,10 @@
+location,class,start,end,lat,long,country,geo_id
+Mexico,Literal,1412,1418,23.0,-102.0,mx,3996063
+Oaxaca State,Literal,426,438,17.0,-96.5,mx,3522509
+Mexico,Literal,1039,1045,23.0,-102.0,mx,3996063
+Mexico,Literal,440,446,23.0,-102.0,mx,3996063
+Oaxaca State,Literal,1025,1037,17.0,-96.5,mx,3522509
+Matias Romero,Literal,1010,1023,16.87902,-95.03939,mx,3523450
+Puebla,Literal,1553,1559,19.03793,-98.20346,mx,3521081
+Mexico City,Literal,1657,1668,19.42847,-99.12766,mx,3530597
+Matias Romero,Literal,411,424,16.87902,-95.03939,mx,3523450

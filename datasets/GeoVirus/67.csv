@@ -1,0 +1,9 @@
+location,start,end,lat,long,country
+California,145,155,37.0,-120.0,us
+California,498,508,37.0,-120.0,us
+California,712,722,37.0,-120.0,us
+Ames,872,876,42.03,-93.62,us
+Iowa,878,882,42.0,-93.0,us
+United States,1145,1158,40.0,-100.0,us
+Washington,1233,1243,47.5,-120.5,us
+Canada,1264,1270,60.0,-95.0,ca

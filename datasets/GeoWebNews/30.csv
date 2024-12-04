@@ -1,0 +1,14 @@
+location,class,start,end,lat,long,country,geo_id
+Whole Foods,Coercion,1175,1186,36.808954,-119.805469,us,
+Whole Foods,Coercion,1318,1329,36.808954,-119.805469,us,
+Fresno,Literal,1361,1367,36.74773,-119.77237,us,5350937
+Fresno,Literal,1218,1224,36.74773,-119.77237,us,5350937
+Celebrity Cake Studio,Coercion,464,485,47.238235,-122.429773,us,
+Pitman Family Farms,Literal,1088,1107,36.283052,-119.642083,us,
+Calif.,Literal,1226,1232,37.25022,-119.75126,us,5332921
+Tacoma,Literal,489,495,47.25288,-122.44429,us,5812944
+Washington,Literal,497,507,47.50012,-120.50147,us,5815135
+Museum of Ice Cream,Coercion,337,356,25.808552,-80.123911,us,
+Collins Avenue,Literal,371,385,25.808552,-80.123911,us,
+Miami Beach,Literal,301,312,25.79065,-80.13005,us,4164143
+Miami Beach,Literal,389,400,25.79065,-80.13005,us,4164143

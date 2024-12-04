@@ -1,0 +1,13 @@
+location,start,end,lat,long,country
+Rogaland,379,387,59.0,6.0,no
+Vestfold,389,397,59.26,10.41,no
+Buskerud,399,407,60.5,9.5,no
+Telemark,409,417,59.33,8.5,no
+Østfold,419,426,59.33,11.33,no
+Akershus,428,436,60.0,11.0,no
+Oslo,438,442,59.95,10.75,no
+Hedmark,444,451,60.83,11.66,no
+Oppland,453,460,61.11,10.46,no
+Vest-Agder,462,472,58.58,7.58,no
+Aust-Agder,478,488,58.56,8.56,no
+Russia,884,890,60.0,90.0,ru

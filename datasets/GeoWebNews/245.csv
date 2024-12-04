@@ -1,0 +1,6 @@
+location,class,start,end,lat,long,country,geo_id
+Cyber Tech,Coercion,1795,1805,25.065727,-77.335934,bs,
+Bains and Grants Town,Embedded_Literal,336,357,25.05823,-77.34306,bs,3571824
+Bains and Grants Town,Literal_Modifier,1757,1778,25.05823,-77.34306,bs,3571824
+Bains and Grants Town,Literal,1413,1434,25.05823,-77.34306,bs,3571824
+Bains and Grants Town,Mixed,990,1011,25.05823,-77.34306,bs,3571824

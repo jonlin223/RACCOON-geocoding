@@ -1,0 +1,3 @@
+location,class,start,end,lat,long,country,geo_id
+Illinois,Literal,2388,2396,40.00032,-89.25037,us,4896861
+White House,Coercion,860,871,38.89704,-77.03655,us,9675434

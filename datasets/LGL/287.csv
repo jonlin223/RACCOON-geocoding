@@ -1,0 +1,5 @@
+location,start,end,lat,long,country,geo_id
+L.A.,16,20,34.0522,-118.244,us,5368361
+Los Angeles,237,248,33.9275,-118.278,us,5397675
+Los Angeles,443,454,33.9275,-118.278,us,5397675
+South Los Angeles,539,556,33.9275,-118.278,us,5397675

@@ -1,0 +1,7 @@
+location,class,start,end,lat,long,country,geo_id
+Crown Heights,Literal_Modifier,1417,1430,41.63732,-73.93792,us,5114252
+Brooklyn,Literal,1447,1455,40.6501,-73.94958,us,5110302
+Crown Heights,Literal_Modifier,802,815,41.63732,-73.93792,us,5114252
+Brooklyn,Literal,832,840,40.6501,-73.94958,us,5110302
+New York City,Literal_Modifier,259,272,40.71427,-74.00597,us,5128581
+NEW YORK,Mixed,219,227,40.71427,-74.00597,us,5128581

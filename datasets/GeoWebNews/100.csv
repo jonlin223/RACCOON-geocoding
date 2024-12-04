@@ -1,0 +1,10 @@
+location,class,start,end,lat,long,country,geo_id
+University of California,Coercion,2033,2057,37.25022,-119.75126,us,5332921
+San Marcos,Literal,1842,1852,33.14337,-117.16614,us,5392368
+Marjory Stoneman Douglas High School,Coercion,1239,1275,26.304532,-80.269693,us,
+California,Literal_Modifier,1634,1644,37.25022,-119.75126,us,5332921
+Florida,Literal,1124,1131,28.75054,-82.5001,us,4155751
+Parkland,Literal,1114,1122,26.31008,-80.23727,us,4167829
+California State University,Coercion,1811,1838,33.12888,-117.15744,us,7156360
+California Polytechnic State University,Coercion,1767,1806,35.30059,-120.66004,us,5332847
+Florida Atlantic University,Coercion,1738,1765,26.37407,-80.10435,us,4155651

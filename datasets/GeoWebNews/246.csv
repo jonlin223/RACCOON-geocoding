@@ -1,0 +1,7 @@
+location,class,start,end,lat,long,country,geo_id
+Azerbaijan,Mixed,1486,1496,40.5,47.5,az,587116
+Azerbaijan,Literal,1716,1726,40.5,47.5,az,587116
+Georgia,Literal,1382,1389,41.99998,43.4999,ge,614540
+Georgia,Literal,591,598,41.99998,43.4999,ge,614540
+Armenia,Literal,1366,1373,40.25,45.0,am,174982
+Nagorno-Karabakh Republic,Mixed,1442,1467,40.0,46.58333,az,409432

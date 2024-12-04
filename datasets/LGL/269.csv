@@ -1,0 +1,4 @@
+location,start,end,lat,long,country,geo_id
+Flemington,0,10,40.5123,-74.8593,us,5098124
+Flemington,46,56,40.5123,-74.8593,us,5098124
+Flemington,198,208,40.5123,-74.8593,us,5098124

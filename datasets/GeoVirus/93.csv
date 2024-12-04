@@ -1,0 +1,17 @@
+location,start,end,lat,long,country
+United States,9,22,40.0,-100.0,us
+Arkansas,266,274,34.8,-92.2,us
+Colorado,276,284,39.0,-105.5,us
+Delaware,286,294,39.0,-75.5,us
+Idaho,296,301,45.0,-114.0,us
+Maine,303,308,45.5,-69.0,us
+Montana,310,317,47.0,-110.0,us
+New Hampshire,319,332,44.0,-71.5,us
+North Carolina,334,348,35.5,-80.0,us
+Rhode Island,350,362,41.7,-71.5,us
+Vermont,364,371,44.0,-72.7,us
+Virginia,373,381,37.5,-79.0,us
+West Virginia,387,400,39.0,-80.5,us
+Alabama,421,428,32.7,-86.7,us
+US,742,744,40.0,-100.0,us
+US,1158,1160,40.0,-100.0,us

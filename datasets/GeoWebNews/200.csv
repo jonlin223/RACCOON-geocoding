@@ -1,0 +1,7 @@
+location,class,start,end,lat,long,country,geo_id
+Peru,Literal,1175,1179,-10.0,-75.25,pe,3932488
+South America,Literal,1244,1257,-14.60485,-57.65625,,6255150
+Peru,Literal,1015,1019,-10.0,-75.25,pe,3932488
+Calif.,Mixed,367,373,37.25022,-119.75126,us,5332921
+Peruvian,Mixed,589,597,-10.0,-75.25,pe,3932488
+PLEASANTON,Mixed,355,365,37.66243,-121.87468,us,5383777

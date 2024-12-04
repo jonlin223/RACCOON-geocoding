@@ -1,0 +1,8 @@
+location,start,end,lat,long,country,geo_id
+Va.,2,5,37.5481,-77.4467,us,6254928
+MANASSAS,58,66,38.7509,-77.4753,us,4771401
+Woodbridge,72,82,38.6582,-77.2497,us,4794457
+Alexandria,128,138,38.8048,-77.0469,us,4744091
+Prince William County,448,469,38.7001,-77.483,us,4780384
+Woodbridge,1070,1080,38.6582,-77.2497,us,4794457
+Prince William,1356,1370,38.7001,-77.483,us,4780384

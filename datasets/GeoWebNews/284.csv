@@ -1,0 +1,7 @@
+location,class,start,end,lat,long,country,geo_id
+Calif.,Mixed,569,575,37.25022,-119.75126,us,5332921
+Dallas,Literal_Modifier,1254,1260,32.78306,-96.80667,us,4684888
+DALLAS,Mixed,980,986,32.78306,-96.80667,us,4684888
+Latin,Literal_Modifier,827,832,-14.60485,-57.65625,,6255150
+OAKLAND,Mixed,560,567,37.80437,-122.2708,us,5378538
+HOUSTON,Mixed,214,221,29.76328,-95.36327,us,4699066

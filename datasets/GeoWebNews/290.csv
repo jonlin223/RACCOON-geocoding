@@ -1,0 +1,6 @@
+location,class,start,end,lat,long,country,geo_id
+Fredericton,Literal_Modifier,267,278,45.94541,-66.66558,ca,5957776
+Wilson's Farm,Coercion,349,362,46.035575,-66.725687,ca,
+Kingsley Road,Literal,369,382,46.035575,-66.725687,ca,
+N.B.,Literal,402,406,46.5001,-65.99878,ca,6087430
+Estey's Bridge,Literal,386,400,46.078762,-66.721889,ca,

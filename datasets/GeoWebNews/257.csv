@@ -1,0 +1,8 @@
+location,class,start,end,lat,long,country,geo_id
+Azerbaijan,Mixed,2236,2246,40.5,47.5,az,587116
+Azerbaijan,Literal,1738,1748,40.5,47.5,az,587116
+Azerbaijan,Mixed,299,309,40.5,47.5,az,587116
+Azerbaijani,Literal_Modifier,580,591,40.5,47.5,az,587116
+Baku,Literal,286,290,40.37767,49.89201,az,587084
+Azerbaijan,Mixed,199,209,40.5,47.5,az,587116
+Baku,Mixed,193,197,40.37767,49.89201,az,587084

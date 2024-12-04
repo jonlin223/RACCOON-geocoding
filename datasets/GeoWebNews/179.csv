@@ -1,0 +1,4 @@
+location,class,start,end,lat,long,country,geo_id
+Raleigh,Literal_Modifier,333,340,35.7721,-78.63861,us,4487042
+RALEIGH,Mixed,181,188,35.7721,-78.63861,us,4487042
+N.C.,Mixed,190,194,35.50069,-80.00032,us,4482348

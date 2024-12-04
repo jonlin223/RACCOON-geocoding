@@ -1,0 +1,42 @@
+location,class,start,end,lat,long,country,geo_id
+Frenchmen Street,Literal,3968,3984,29.985984,-90.059179,us,
+Carnegie Library,Literal,3992,4008,29.985984,-90.059179,us,
+Third Presbyterian Church,Literal,3867,3892,29.97548,-90.07785,us,4343454
+Christopher Inn,Mixed,4178,4193,29.964181,-90.057344,us,
+Rue d’Enghein,Literal,1451,1464,30.004434,-90.050244,us,
+Faubourg Marigny,Mixed,839,855,29.96576,-90.05424,us,4324193
+Lafayette,Literal,1494,1503,30.004434,-90.050244,us,
+Almonaster,Literal,1513,1523,30.004434,-90.050244,us,
+Louisiana,Embedded_Literal,360,369,31.00047,-92.0004,us,4331987
+Elysian Fields,Literal_Modifier,2435,2449,29.997946,-90.051305,us,
+Chartres,Literal_Modifier,1923,1931,29.963829,-90.051710,us,
+Franklin,Literal,1551,1559,30.004434,-90.050244,us,
+Marigny Plantation,Literal,1603,1621,30.004434,-90.050244,us,
+Press Street,Literal,1726,1738,29.967005,-90.047503,us,
+Faubourg D’Aunoy,Mixed,1797,1813,30.004434,-90.050244,us,
+Franklin,Literal,1755,1763,30.004434,-90.050244,us,
+Bourbon,Literal_Modifier,2552,2559,29.972603,-90.038380,us,
+Dauphine,Literal_Modifier,2564,2572,29.972603,-90.038380,us,
+Royal Street,Literal,2464,2476,29.964389,-90.049534,us,
+2231 Royal,Coercion,2259,2269,29.964757,-90.055539,us,
+Rue Casa Calvo,Literal,2181,2195,29.964389,-90.049534,us,
+Faubourg Marigny,Mixed,2215,2231,29.96576,-90.05424,us,4324193
+Royal Street,Literal,2158,2170,29.964389,-90.049534,us,
+Royal Street,Literal,2112,2124,29.964389,-90.049534,us,
+Bywater,Literal,2613,2620,29.972603,-90.038380,us,
+Desire Street,Literal,2584,2597,29.972603,-90.038380,us,
+Methodist church,Literal,1965,1981,29.963829,-90.051710,us,
+Elysian Fields,Literal,2731,2745,29.997946,-90.051305,us,
+Champs-Élysées,Literal,3419,3433,29.964898,-90.056721,us,
+Marigny Canal,Literal,3198,3211,29.965481,-90.087027,us,
+Washington Square,Literal,3380,3397,29.96493,-90.05729,us,4345516
+New Orleans Railways and Light Company Claiborne Power House,Coercion,2779,2839,29.971950,-90.039736,us,
+Pontchartrain Railroad,Coercion,3509,3531,29.95,-90.08,us,
+French Quarter,Literal_Modifier,579,593,29.95936,-90.06618,us,7303238
+Mississippi River,Literal,631,648,29.955631,-90.057837,us,
+Holy Redeemer Church,Mixed,3752,3772,29.96409,-90.05757,us,4320064
+Washington Square,Literal,3676,3693,29.96493,-90.05729,us,4345516
+Royal Street,Literal,3660,3672,29.964389,-90.049534,us,
+Franklin,Literal_Modifier,1932,1940,29.963829,-90.051710,us,
+Elysian Fields,Literal,3445,3459,29.964898,-90.056721,us,
+Appalachians,Literal,3579,3591,40.00037,-78.0,us,5178401

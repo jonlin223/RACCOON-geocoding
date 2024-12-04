@@ -1,0 +1,3 @@
+location,class,start,end,lat,long,country,geo_id
+St George’s Chapel,Literal,1582,1600,51.483719,-0.606994,gb,
+Windsor Castle,Literal,1604,1618,51.48365,-0.60502,gb,6287215

@@ -1,0 +1,21 @@
+location,class,start,end,lat,long,country,geo_id
+London,Literal,1452,1458,51.50853,-0.12574,gb,2643743
+London,Literal,4622,4628,51.50853,-0.12574,gb,2643743
+London Guildhall School,Coercion,1544,1567,51.519744,-0.091088,gb,
+Ireland,Literal,2199,2206,53.0,-8.0,ie,2963597
+Dunshaughlin,Literal,615,627,53.5125,-6.54,ie,2964472
+Guildhall School of Music,Coercion,668,693,51.519744,-0.091088,gb,
+London,Literal,697,703,51.50853,-0.12574,gb,2643743
+Fitzwilliam Place,Literal,1077,1094,53.333352,-6.252607,ie,
+Feis Ceoil,Coercion,3977,3987,53.341460,-6.273178,ie,
+Convention Centre,Literal,3094,3111,53.34753,-6.23907,ie,11822722
+Rathbeggan,Literal,598,608,53.46772,-6.50947,ie,11777302
+Dublin,Literal,3991,3997,53.33306,-6.24889,ie,2964574
+Dublin,Literal,3113,3119,53.33306,-6.24889,ie,2964574
+Dublin,Literal_Modifier,1057,1063,53.33306,-6.24889,ie,2964574
+St Patrick’s,Literal,4523,4535,53.512869,-6.541040,ie,
+St Seachnails Church,Literal,4540,4560,53.512869,-6.541040,ie,
+National Concert Hall,Literal,4123,4144,53.334878,-6.258576,ie,
+Poland,Literal,3696,3702,52.0,20.0,pl,798544
+Dunshaughlin,Literal,4564,4576,53.5125,-6.54,ie,2964472
+Feis Ceoil,Coercion,2732,2742,53.341460,-6.273178,ie,

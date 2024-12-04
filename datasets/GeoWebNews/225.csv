@@ -1,0 +1,10 @@
+location,class,start,end,lat,long,country,geo_id
+Lexington,Literal,1451,1460,42.44732,-71.2245,us,4941935
+Hawaii,Literal,1374,1380,20.78785,-156.38612,us,5855797
+Europe,Literal,1385,1391,48.69096,9.14062,,6255148
+Massachusetts,Literal,242,255,42.36565,-71.10832,us,6254926
+Massachusetts,Literal,1462,1475,42.36565,-71.10832,us,6254926
+Massachusetts,Literal,1817,1830,42.36565,-71.10832,us,6254926
+Boston,Literal,1879,1885,42.35843,-71.05977,us,4930956
+Boston,Literal,521,527,42.35843,-71.05977,us,4930956
+BOSTON,Mixed,194,200,42.35843,-71.05977,us,4930956

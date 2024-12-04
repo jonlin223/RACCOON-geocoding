@@ -1,0 +1,20 @@
+location,start,end,lat,long,country
+Asia,17,21,29.84,89.29,cn
+Africa,23,29,7.18,21.09,cf
+Europe,31,37,51.0,17.5,pl
+United States,47,60,40.0,-100.0,us
+Asia,188,192,29.84,89.29,cn
+Pailin,1222,1228,12.85,102.6,kh
+Cambodia,1230,1238,13.0,105.0,kh
+Pailin,1727,1733,12.85,102.6,kh
+Cambodia,1735,1743,13.0,105.0,kh
+Attapeu,1745,1752,14.8,106.83,la
+Laos,1754,1758,18.0,105.0,la
+Binh Phuoc,1760,1770,11.75,106.91,vn
+Vietnam,1772,1779,16.16,107.83,vn
+Myanmar,1792,1799,22.0,96.0,mm
+Pingilikani,1805,1816,-3.78,39.78,ke
+Kenya,1818,1823,1.0,38.0,ke
+Kinshasa,1845,1853,-4.32,15.32,cd
+DR Congo,1855,1863,-2.88,23.65,cd
+UK,2246,2248,55.0,-3.0,gb

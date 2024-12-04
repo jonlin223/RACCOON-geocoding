@@ -1,0 +1,11 @@
+location,class,start,end,lat,long,country,geo_id
+State,Literal_Modifier,822,827,41.881984,-87.627897,us,
+Northwestern Memorial Hospital,Literal,888,918,41.89457,-87.62141,us,4904172
+North State Street,Literal,635,653,41.882051,-87.627826,us,
+Hubbard,Literal_Modifier,832,839,41.890137,-87.657012,us,
+Grand,Literal,1001,1006,41.891760,-87.628148,us,
+State,Literal,1011,1016,41.891760,-87.628148,us,
+Park Ridge,Literal_Modifier,563,573,42.012183,-87.842193,us,
+Near North Side,Literal,661,676,41.90003,-87.6345,us,4903360
+South Ingleside Avenue,Literal,365,387,41.760517,-87.601751,us,
+River North,Literal,265,276,41.892917,-87.633401,us,

@@ -1,0 +1,6 @@
+location,class,start,end,lat,long,country,geo_id
+Brooklyn,Literal,425,433,40.6501,-73.94958,us,5110302
+Sacramento,Literal,1983,1993,38.58157,-121.4944,us,5389489
+Crown Heights,Literal_Modifier,395,408,41.63732,-73.93792,us,5114252
+California,Literal,1995,2005,37.25022,-119.75126,us,5332921
+NEW YORK,Mixed,172,180,40.71427,-74.00597,us,5128581

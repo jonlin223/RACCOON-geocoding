@@ -1,0 +1,1448 @@
+location,lat,lon,country,file
+Frenchmen Street,29.985984,-90.059179,us,0
+Carnegie Library,29.985984,-90.059179,us,0
+Third Presbyterian Church,29.97548,-90.07785,us,0
+Christopher Inn,29.964181,-90.057344,us,0
+Rue d’Enghein,30.004434,-90.050244,us,0
+Faubourg Marigny,29.96576,-90.05424,us,0
+Lafayette,30.004434,-90.050244,us,0
+Almonaster,30.004434,-90.050244,us,0
+Louisiana,31.00047,-92.0004,us,0
+Elysian Fields,29.997946,-90.051305,us,0
+Chartres,29.963829,-90.05171,us,0
+Franklin,30.004434,-90.050244,us,0
+Marigny Plantation,30.004434,-90.050244,us,0
+Press Street,29.967005,-90.047503,us,0
+Faubourg D’Aunoy,30.004434,-90.050244,us,0
+Franklin,30.004434,-90.050244,us,0
+Bourbon,29.972603,-90.03838,us,0
+Dauphine,29.972603,-90.03838,us,0
+Royal Street,29.964389,-90.049534,us,0
+2231 Royal,29.964757,-90.055539,us,0
+Rue Casa Calvo,29.964389,-90.049534,us,0
+Faubourg Marigny,29.96576,-90.05424,us,0
+Royal Street,29.964389,-90.049534,us,0
+Royal Street,29.964389,-90.049534,us,0
+Bywater,29.972603,-90.03838,us,0
+Desire Street,29.972603,-90.03838,us,0
+Methodist church,29.963829,-90.05171,us,0
+Elysian Fields,29.997946,-90.051305,us,0
+Champs-Élysées,29.964898,-90.056721,us,0
+Marigny Canal,29.965481,-90.087027,us,0
+Washington Square,29.96493,-90.05729,us,0
+New Orleans Railways and Light Company Claiborne Power House,29.97195,-90.039736,us,0
+Pontchartrain Railroad,29.95,-90.08,us,0
+French Quarter,29.95936,-90.06618,us,0
+Mississippi River,29.955631,-90.057837,us,0
+Holy Redeemer Church,29.96409,-90.05757,us,0
+Washington Square,29.96493,-90.05729,us,0
+Royal Street,29.964389,-90.049534,us,0
+Franklin,29.963829,-90.05171,us,0
+Elysian Fields,29.964898,-90.056721,us,0
+Appalachians,40.00037,-78.0,us,0
+Afrin,36.54891,36.79295,sy,1
+Britain,54.75844,-2.69531,gb,1
+Afrin,36.54891,36.79295,sy,1
+Syrian,35.0,38.0,sy,1
+Kurdish,37.0,44.0,iq,1
+Afrin,36.54891,36.79295,sy,1
+Turkish,39.0,35.0,tr,1
+Syrian,35.0,38.0,sy,1
+Qamishli,36.85071,41.17243,sy,1
+Syria,35.0,38.0,sy,1
+BEIRUT,33.89332,35.50157,lb,1
+Kurdish,37.0,44.0,iq,1
+British,54.75844,-2.69531,gb,2
+Britain,54.75844,-2.69531,gb,2
+UK,54.75844,-2.69531,gb,2
+UK,54.75844,-2.69531,gb,2
+Britain,54.75844,-2.69531,gb,2
+British Embassy Tokyo,35.686843,139.74432,jp,2
+Illinois Capitol Complex,39.79755,-89.6576,us,3
+Illinois State Armory,39.800128,-89.653965,us,3
+Illinois,40.00032,-89.25037,us,3
+Ill.,40.00032,-89.25037,us,3
+SPRINGFIELD,39.80172,-89.64371,us,3
+Wegmans,38.784234,-77.653357,us,10
+Ronald Wilson Reagan Middle,38.845789,-77.662327,us,10
+Patriot High,38.726101,-77.579969,us,10
+Buckland Elementary,38.798149,-77.63584,us,10
+Vienna/Fairfax-GMU Metro,38.87789,-77.27054,us,10
+Old Town Manassas,38.750035,-77.472854,us,10
+Turtle Point,38.780932,-77.651761,us,10
+Virginia Gateway,38.794745,-77.606841,us,10
+Stonewall,38.785307,-77.649939,us,10
+Centreville,38.84039,-77.42888,us,10
+Stonewall Golf Club,38.785307,-77.649939,us,10
+Robert Trent Jones Golf Club,38.775619,-77.639461,us,10
+Va.,37.54812,-77.44675,us,10
+Dulles International Airport,38.94877,-77.4491,us,10
+Gainesville,38.79567,-77.61388,us,10
+Charleston,38.34982,-81.63262,us,10
+Haymarket Village Center,38.817901,-77.644125,us,10
+Lake Manassas,38.77145,-77.64191,us,10
+Iran,32.0,53.0,ir,12
+Iran,32.0,53.0,ir,12
+Pacific,30.0,-170.0,nan,13
+Pacific,30.0,-170.0,nan,13
+Asian,29.84064,89.29688,nan,13
+Asia,29.84064,89.29688,nan,13
+Hanoi,21.0245,105.84117,vn,13
+Hanoi,21.0245,105.84117,vn,13
+Beijing,39.9075,116.39723,cn,14
+China,35.0,105.0,cn,14
+Kuala Lumpur,3.14309,101.68653,my,14
+Indian Ocean,-10.0,70.0,nan,14
+Indian Ocean,-10.0,70.0,nan,14
+Indian Ocean,-10.0,70.0,nan,14
+Klamath Falls,42.22487,-121.78167,us,17
+Oregon,44.00013,-120.50139,us,17
+Idaho,44.5002,-114.25118,us,17
+Canadian,60.10867,-113.64258,ca,17
+Klamath Falls,42.22487,-121.78167,us,17
+Boise,43.98913,-115.73024,us,17
+Boise,43.98913,-115.73024,us,17
+Hinton,53.3958,-117.58064,ca,17
+Alberta,52.28333,-117.469,ca,17
+Hinton,53.3958,-117.58064,ca,17
+Alberta,52.28333,-117.469,ca,17
+Canada,60.10867,-113.64258,ca,17
+Canada,60.10867,-113.64258,ca,17
+Canada,60.10867,-113.64258,ca,17
+American,39.76,-98.5,us,17
+B.C.,53.99983,-125.0032,ca,17
+Calgary,51.05011,-114.08529,ca,17
+Valemount,52.83329,-119.2525,ca,17
+LaFayette,34.7048,-85.2819,us,18
+Chattanooga,35.04563,-85.30968,us,18
+14th St.,35.03966,-85.31264,us,18
+Walker County,34.73566,-85.30098,us,18
+Hamilton County,35.18086,-85.16479,us,18
+Ga.,32.75042,-83.50018,us,18
+Toronto,43.70011,-79.4163,ca,19
+Rogers Centre,43.641453,-79.389546,ca,19
+Russia,60.0,100.0,ru,20
+Russian Foreign Ministry,55.746055,37.58441,ru,20
+St. Petersburg,59.91667,30.25,ru,20
+Seattle,47.60621,-122.33207,us,20
+St. Petersburg,59.91667,30.25,ru,20
+UK,54.75844,-2.69531,gb,20
+Toronto,43.70011,-79.4163,ca,21
+Toronto,43.70011,-79.4163,ca,21
+TORONTO,43.70011,-79.4163,ca,21
+Disneyworld,28.41167,-81.58257,us,21
+Disneyworld,28.41167,-81.58257,us,21
+Ontario,49.25014,-84.49983,ca,21
+Ontario,49.25014,-84.49983,ca,21
+Imperial Beach,32.58394,-117.11308,us,23
+Baja California,30.0,-115.0,mx,23
+SAN DIEGO,32.71571,-117.16472,us,23
+Tijuana,32.5027,-117.00371,mx,23
+Tijuana River,32.55668,-117.12865,us,23
+TIJUANA,32.5027,-117.00371,mx,23
+Abuja,9.05785,7.49508,ng,24
+US,39.76,-98.5,us,25
+Eastern Ghouta,33.527,36.389,sy,25
+Syria,35.0,38.0,sy,25
+Syria,35.0,38.0,sy,25
+Syria,35.0,38.0,sy,25
+Eastern Ghouta,33.527,36.389,sy,25
+Ghouta,33.527,36.389,sy,25
+Eastern Ghouta,33.527,36.389,sy,25
+Moscow,55.75222,37.61556,ru,25
+al-Tanf,33.43624,38.83581,sy,25
+Valley,39.813231,-83.054829,us,26
+Valley,39.813231,-83.054829,us,26
+Poland,41.02423,-80.6148,us,26
+Ohio,40.25034,-83.00018,us,26
+Goleta,34.43583,-119.82764,us,27
+Carpinteria,34.39888,-119.51846,us,27
+Mesa,33.64113,-117.91867,us,27
+Booker,35.585369,-120.740452,us,27
+L’Aventure,35.585369,-120.740452,us,27
+Sullivan Goss,34.423896,-119.704152,us,27
+Newcomers,34.423896,-119.704152,us,27
+Turtle Rock,37.86604,-121.94301,us,27
+Black Sheep,34.419193,-119.696964,us,27
+Turtle Rock,37.86604,-121.94301,us,27
+Uruguay,-33.0,-56.0,uy,28
+The Colony Theatre,34.185402,-118.312534,us,28
+Germany,51.5,10.5,de,28
+Singapore,1.28967,103.85007,sg,28
+Canada,60.10867,-113.64258,ca,28
+Australia,-25.0,135.0,au,28
+United States,39.76,-98.5,us,28
+Los Angeles,34.05223,-118.24368,us,28
+Osogbo,7.77104,4.55698,ng,29
+Whole Foods,36.808954,-119.805469,us,30
+Whole Foods,36.808954,-119.805469,us,30
+Fresno,36.74773,-119.77237,us,30
+Fresno,36.74773,-119.77237,us,30
+Celebrity Cake Studio,47.238235,-122.429773,us,30
+Pitman Family Farms,36.283052,-119.642083,us,30
+Calif.,37.25022,-119.75126,us,30
+Tacoma,47.25288,-122.44429,us,30
+Washington,47.50012,-120.50147,us,30
+Museum of Ice Cream,25.808552,-80.123911,us,30
+Collins Avenue,25.808552,-80.123911,us,30
+Miami Beach,25.79065,-80.13005,us,30
+Miami Beach,25.79065,-80.13005,us,30
+Kentucky,38.20042,-84.87762,us,31
+New York Auto Show,40.71427,-74.00597,us,31
+Bowling Green,36.99032,-86.4436,us,31
+Florida,28.75054,-82.5001,us,32
+Immokalee,26.41869,-81.4173,us,32
+Collier County,26.09924,-81.38097,us,32
+Immokalee,26.41869,-81.4173,us,32
+Collier County,26.09924,-81.38097,us,32
+Immokalee,26.41869,-81.4173,us,32
+Immokalee,26.41869,-81.4173,us,32
+IMMOKALEE,26.41869,-81.4173,us,32
+University of California,37.25022,-119.75126,us,100
+San Marcos,33.14337,-117.16614,us,100
+Marjory Stoneman Douglas High School,26.304532,-80.269693,us,100
+California,37.25022,-119.75126,us,100
+Florida,28.75054,-82.5001,us,100
+Parkland,26.31008,-80.23727,us,100
+California State University,33.12888,-117.15744,us,100
+California Polytechnic State University,35.30059,-120.66004,us,100
+Florida Atlantic University,26.37407,-80.10435,us,100
+Africa,7.1881,21.09375,nan,101
+Africa,7.1881,21.09375,nan,101
+Africa,7.1881,21.09375,nan,101
+African,7.1881,21.09375,nan,101
+Africa,7.1881,21.09375,nan,101
+Africa,7.1881,21.09375,nan,101
+African,7.1881,21.09375,nan,101
+African,7.1881,21.09375,nan,101
+Africa,7.1881,21.09375,nan,101
+Africa,7.1881,21.09375,nan,101
+Nigeria,10.0,8.0,ng,101
+Africa,7.1881,21.09375,nan,101
+Nigeria,10.0,8.0,ng,101
+Africa,7.1881,21.09375,nan,101
+African,7.1881,21.09375,nan,101
+African,7.1881,21.09375,nan,101
+North Carolina,35.50069,-80.00032,us,104
+COLUMBUS,39.96118,-82.99879,us,104
+Ohio,40.25034,-83.00018,us,104
+Columbus,39.96118,-82.99879,us,104
+Ohio,40.25034,-83.00018,us,104
+St. Peter's Basilica,41.90221,12.45305,va,105
+Muscat,23.58413,58.40778,om,106
+Salalah,17.01505,54.09237,om,106
+Muscat,23.58413,58.40778,om,106
+Illinois,40.00032,-89.25037,us,108
+White House,38.89704,-77.03655,us,108
+Bellmore,40.66871,-73.52707,us,110
+Fire Island,40.66788,-73.05428,us,110
+Fort Salonga,40.9126,-73.30095,us,110
+Oceanside,40.63871,-73.64013,us,110
+Manila Cathedral,14.59158,120.973474,ph,111
+Philippines,13.0,122.0,ph,111
+MANILA,14.6042,120.9822,ph,111
+Manila Cathedral,14.59158,120.973474,ph,111
+Brussels,50.85045,4.34878,be,116
+Brussels,50.85045,4.34878,be,116
+Belgium,50.75,4.5,be,116
+EU,48.69096,9.14062,nan,116
+Europe,48.69096,9.14062,nan,116
+Europe,48.69096,9.14062,nan,116
+Europe,48.69096,9.14062,nan,116
+Europe,48.69096,9.14062,nan,116
+Europe,48.69096,9.14062,nan,116
+Europe,48.69096,9.14062,nan,116
+Europe,48.69096,9.14062,nan,116
+Europe,48.69096,9.14062,nan,116
+Europe,48.69096,9.14062,nan,116
+Europe,48.69096,9.14062,nan,116
+Europe,48.69096,9.14062,nan,116
+Europe,48.69096,9.14062,nan,116
+European,48.69096,9.14062,nan,116
+Greece,39.0,22.0,gr,116
+Cyprus,35.0,33.0,cy,116
+Spain,40.0,-4.0,es,116
+Italy,42.83333,12.83333,it,116
+European,48.69096,9.14062,nan,116
+EU,48.69096,9.14062,nan,116
+Iran,32.0,53.0,ir,118
+New Orleans,29.95465,-90.07507,us,118
+America,39.76,-98.5,us,118
+August,29.949971,-90.066764,us,118
+Le Bernardin,40.761554,-73.981726,us,118
+New York City,40.71427,-74.00597,us,118
+South Korea,36.5,127.75,kr,118
+America,39.76,-98.5,us,118
+New Orleans,29.95465,-90.07507,us,118
+New York,40.71427,-74.00597,us,118
+America,39.76,-98.5,us,118
+SAN ANTONIO,29.42412,-98.49363,us,119
+Kentucky,38.20042,-84.87762,us,120
+Dubai World Cup,25.0657,55.17128,ae,120
+Dubai World Cup,25.0657,55.17128,ae,120
+Dubai Turf,25.0657,55.17128,ae,120
+Dubai World Cup,25.0657,55.17128,ae,120
+Dubai World Cup,25.0657,55.17128,ae,120
+World Cup,25.15757,55.30364,ae,120
+Helmet,37.91702,-77.10596,us,120
+Meydan Racecourse,25.15757,55.30364,ae,120
+Dubai,25.0657,55.17128,ae,120
+Europe,48.69096,9.14062,nan,120
+Iraqi,33.0,44.0,iq,121
+Damascus,33.5102,36.29128,sy,121
+Douma,33.57175,36.4027,sy,121
+Ghouta,33.527,36.389,sy,121
+Douma,33.57175,36.4027,sy,121
+Syrian,35.0,38.0,sy,121
+Idlib,35.93062,36.63393,sy,121
+Syria,35.0,38.0,sy,121
+Ghouta,33.527,36.389,sy,121
+Damascus,33.5102,36.29128,sy,121
+Douma,33.57175,36.4027,sy,121
+Ghouta,33.527,36.389,sy,121
+Ghouta,33.527,36.389,sy,121
+Ghouta,33.527,36.389,sy,121
+Douma,33.57175,36.4027,sy,121
+Riverdale,40.99399,-74.30348,us,122
+Riverdale,40.99399,-74.30348,us,122
+New York,40.71427,-74.00597,us,122
+Riverdale Lukoil South,40.987871,-74.325994,us,122
+U.S. Virgin Islands,18.34829,-64.98348,vi,122
+Riverdale Luke Oil,40.987871,-74.325994,us,122
+Florida,28.75054,-82.5001,us,122
+New York,40.71427,-74.00597,us,122
+Riverdale,40.99399,-74.30348,us,122
+"Washington, D.C.",38.91706,-77.00025,us,122
+Riverdale,40.99399,-74.30348,us,122
+Morris County,40.86203,-74.54444,us,122
+Lukeoil,40.987871,-74.325994,us,122
+Morris County,40.86203,-74.54444,us,122
+Riverdale,40.99399,-74.30348,us,122
+Colchester,51.88921,0.90421,gb,123
+Afghanistan,33.0,66.0,af,123
+Middle East,33.13906,35.85869,nan,123
+Turkish,39.0,35.0,tr,123
+Middle East,33.13906,35.85869,nan,123
+Manchester,53.48095,-2.23743,gb,123
+Austin,30.26715,-97.74306,us,123
+Texas,31.25044,-99.25061,us,123
+Syria,35.0,38.0,sy,123
+Manbij,36.52815,37.95495,sy,123
+Syria,35.0,38.0,sy,123
+Sheikh Akil graveyard,36.518473,37.968875,sy,123
+River Avenue,49.880368,-97.14275,ca,124
+Assiniboine Avenue,49.882596,-97.148046,ca,124
+Winnipeg,49.8844,-97.14704,ca,124
+Eglinton Avenue West,43.648539,-79.606475,ca,125
+Dubonet Drive,43.547402,-79.7236,ca,125
+Mississauga,43.5789,-79.6583,ca,125
+Peel,43.75011,-79.78293,ca,125
+Northumberland Avenue,52.139839,-106.717302,ca,126
+Britain,54.75844,-2.69531,gb,128
+Russia,60.0,100.0,ru,128
+Russia,60.0,100.0,ru,128
+United States,39.76,-98.5,us,128
+Moscow,55.75222,37.61556,ru,128
+Washington,38.89511,-77.03637,us,128
+Moscow,55.75222,37.61556,ru,128
+Moscow,55.75222,37.61556,ru,128
+London,51.50853,-0.12574,gb,128
+United Kingdom,54.75844,-2.69531,gb,128
+Russian Embassy,38.92483,-77.07526,us,128
+U.S.,39.76,-98.5,us,128
+United Nations,40.74955,-73.96792,us,128
+English,52.16045,-0.70312,gb,128
+Salisbury,51.06931,-1.79569,gb,128
+Heathrow,51.47115,-0.45649,gb,128
+Europe,48.69096,9.14062,nan,128
+Salisbury,51.06931,-1.79569,gb,128
+British,54.75844,-2.69531,gb,128
+Britain,54.75844,-2.69531,gb,128
+Britain,54.75844,-2.69531,gb,128
+London,51.50853,-0.12574,gb,128
+Britain,54.75844,-2.69531,gb,128
+LONDON,51.50853,-0.12574,gb,128
+Karnataka,14.66667,75.83333,in,130
+Kerala,10.41667,76.5,in,130
+Puducherry,11.93333,79.81667,in,130
+Cauvery,11.13659,79.85782,in,130
+Tamil Nadu,11.0,78.33333,in,130
+Karnataka,14.66667,75.83333,in,130
+Tamil Nadu,11.0,78.33333,in,130
+No. 2 Detention Centre,39.14222,117.17667,cn,131
+Tianjin,39.33333,117.33333,cn,131
+Tianjin,39.33333,117.33333,cn,131
+Tianjin,39.33333,117.33333,cn,131
+Supreme People's Court,39.903198,116.404954,cn,131
+Beijing,39.91691,116.39706,cn,131
+Beijing,39.91691,116.39706,cn,131
+Hotel Kyjev,48.146,17.116,sk,132
+Prešov,48.99839,21.23393,sk,132
+Košice,48.71395,21.25808,sk,132
+Bratislava,48.14816,17.10674,sk,132
+Kamenné Square,48.144997,17.113117,sk,132
+Žilina,49.22315,18.73941,sk,132
+Nitra,48.30763,18.08453,sk,132
+Slovakia,48.66667,19.5,sk,132
+Slovakia,48.66667,19.5,sk,132
+US,39.76,-98.5,us,133
+Pennsylvania,40.27245,-76.90567,us,133
+Canada,60.10867,-113.64258,ca,133
+Pittsburgh,40.44062,-79.99589,us,133
+Eva's Village,40.912253,-74.171892,us,134
+Paterson,40.91677,-74.17181,us,134
+Maywood,40.9026,-74.06181,us,134
+Paterson,40.91677,-74.17181,us,134
+Seasons restaurant,40.996857,-74.060587,us,134
+Eva's Village,40.912253,-74.171892,us,134
+Maywood,40.9026,-74.06181,us,134
+Washington Township,40.98832,-74.06358,us,134
+New Jersey,40.16706,-74.49987,us,134
+N.J.,40.16706,-74.49987,us,134
+ALLENDALE,41.04149,-74.12903,us,134
+Russia,60.0,100.0,ru,135
+Venezuela,8.0,-66.0,ve,135
+South Venezuela,8.0,-66.0,ve,135
+Orinoco,8.2,-64.73694,ve,135
+Caracas,10.48801,-66.87919,ve,135
+Russian,60.0,100.0,ru,135
+Caracas,10.48801,-66.87919,ve,135
+Morocco,32.0,-6.0,ma,136
+Morocco,32.0,-6.0,ma,136
+Morocco,32.0,-6.0,ma,136
+Rabat,34.01325,-6.83255,ma,136
+United States,39.76,-98.5,us,136
+LOS ANGELES,34.05223,-118.24368,us,137
+Middle East,33.13906,35.85869,nan,139
+Africa,7.1881,21.09375,nan,139
+Middle East,33.13906,35.85869,nan,139
+Middle East,33.13906,35.85869,nan,139
+Middle East,33.13906,35.85869,nan,139
+Gulf,27.0,51.0,nan,139
+Gulf,27.0,51.0,nan,139
+Dubai World Trade Centre,25.12079,55.13227,ae,139
+Dubai,25.0657,55.17128,ae,139
+Asia,29.84064,89.29688,nan,139
+Africa,7.1881,21.09375,nan,139
+Pilanesburg Mountains,-25.2567,27.105,za,140
+SA,-29.0,24.0,za,140
+North West,-26.5,26.0,za,140
+North West,-26.5,26.0,za,140
+Limpopo,-24.0,29.5,za,140
+Limpopo,-24.0,29.5,za,140
+African,7.1881,21.09375,nan,140
+Africa,7.1881,21.09375,nan,140
+SA,-29.0,24.0,za,140
+SA,-29.0,24.0,za,140
+Enugu,6.44132,7.49883,ng,141
+U.S.,39.76,-98.5,us,142
+United States,39.76,-98.5,us,142
+New York,43.00035,-75.4999,us,142
+London,51.50853,-0.12574,gb,142
+United States,39.76,-98.5,us,142
+D.C.,38.91706,-77.00025,us,142
+WASHINGTON,38.91706,-77.00025,us,142
+Washington,38.91706,-77.00025,us,142
+"Washington, D.C.",38.91706,-77.00025,us,142
+New York,43.00035,-75.4999,us,142
+London,51.50853,-0.12574,gb,142
+Holland,52.25,5.75,nl,143
+Cork,51.89797,-8.47061,ie,143
+UK,54.75844,-2.69531,gb,144
+Europe,48.69096,9.14062,nan,144
+Ireland,53.0,-8.0,ie,144
+United Kingdom,54.75844,-2.69531,gb,144
+Europe,48.69096,9.14062,nan,144
+European,48.69096,9.14062,nan,144
+EU,48.69096,9.14062,nan,144
+EU,48.69096,9.14062,nan,144
+EU,48.69096,9.14062,nan,144
+Sloss Furnaces,33.52056,-86.79139,us,146
+Birmingham,33.52066,-86.80249,us,146
+St. North,33.519206,-86.793637,us,146
+Beijing,39.9075,116.39723,cn,147
+Chinese,35.0,105.0,cn,147
+China,35.0,105.0,cn,147
+China,35.0,105.0,cn,147
+China,35.0,105.0,cn,147
+China,35.0,105.0,cn,147
+London,51.50853,-0.12574,gb,148
+London,51.50853,-0.12574,gb,148
+Brussels,50.85045,4.34878,be,148
+Berlin,52.52437,13.41053,de,148
+London,51.50853,-0.12574,gb,148
+London,51.50853,-0.12574,gb,148
+London,51.50853,-0.12574,gb,148
+London,51.50853,-0.12574,gb,148
+Schiphol,52.3103,4.76028,nl,148
+Schiphol,52.3103,4.76028,nl,148
+Amsterdam,52.37403,4.88969,nl,148
+Amsterdam,52.37403,4.88969,nl,148
+Amsterdam,52.37403,4.88969,nl,148
+Amsterdam,52.37403,4.88969,nl,148
+Amsterdam,52.37403,4.88969,nl,148
+Amsterdam,52.37403,4.88969,nl,148
+Amsterdam,52.37403,4.88969,nl,148
+Amsterdam,52.37403,4.88969,nl,148
+Amsterdam,52.37403,4.88969,nl,148
+Paris,48.85341,2.3488,fr,148
+Paris,48.85341,2.3488,fr,148
+Almelo,52.35667,6.6625,nl,148
+Hilversum,52.22333,5.17639,nl,148
+European,48.69096,9.14062,nan,148
+Lelystad,52.50833,5.475,nl,148
+United States,39.76,-98.5,us,149
+Bambino Gesu Paediatric Hospital,41.897503,12.461277,it,149
+Rome,41.89193,12.51133,it,149
+U.S.,39.76,-98.5,us,149
+Alder Hey Children's Hospital,53.4205,-2.8968,gb,149
+England,52.16045,-0.70312,gb,149
+Liverpool,53.41058,-2.97794,gb,149
+LONDON,51.50853,-0.12574,gb,149
+Britain,54.75844,-2.69531,gb,149
+Salisbury,51.06931,-1.79569,gb,152
+Russia,60.0,100.0,ru,152
+Russia,60.0,100.0,ru,152
+English,52.16045,-0.70312,gb,152
+England,52.16045,-0.70312,gb,152
+Britain,54.75844,-2.69531,gb,152
+University of Perpetual Help Dalta System Calamba,14.215992,121.135368,ph,154
+Barangay Paciano Rizal,14.21554,121.13363,ph,154
+CALAMBA CITY,14.19504,121.11704,ph,154
+University of Perpetual Help,14.215992,121.135368,ph,154
+City Hall,14.193747,121.159529,ph,154
+Coggeshall,51.87077,0.68536,gb,157
+A120,51.8763,0.6738,gb,157
+Colchester General Hospital,51.91017,0.89918,gb,157
+Coggeshall,51.87077,0.68536,gb,157
+Marks Tey,51.87628,0.76424,gb,157
+Colchester Hospital,51.91017,0.89918,gb,157
+A120,51.8763,0.6738,gb,157
+Owerri,5.48363,7.03325,ng,159
+Obinze,5.40873,6.95961,ng,159
+Guma Local Government Area,7.96667,8.76667,ng,160
+Guma LGA,7.96667,8.76667,ng,160
+Umemger,7.940316,8.75597,ng,160
+Torkula,7.988829,8.752326,ng,160
+Makurdi,7.73375,8.52139,ng,160
+Makurdi,7.73375,8.52139,ng,160
+Benue state,7.33333,8.75,ng,160
+Abagana,6.19031,6.99357,ng,160
+Agriculture Park Wana,32.337441,69.578783,pk,161
+Makeen,27.1,68.38333,pk,161
+Agriculture Park,32.337441,69.578783,pk,161
+Wana,32.29889,69.5725,pk,161
+SOUTH WAZIRISTAN,32.30397,69.68207,pk,161
+South Waziristan Agency,32.30397,69.68207,pk,161
+Makeen Market Complex,32.6208,69.8392,pk,161
+Makeen,27.1,68.38333,pk,161
+New Quay,52.21515,-4.35887,gb,162
+New Quay,52.21515,-4.35887,gb,162
+St Athan,51.40278,-3.41389,gb,162
+Ceredigion,52.25,-4.0,gb,162
+West Wales,52.434,-3.83,gb,162
+New Quay,52.21515,-4.35887,gb,162
+New Quay RNLI,52.213502,-4.35733,gb,162
+Gwbert,52.1166,-4.68599,gb,162
+Berlin,52.52437,13.41053,de,164
+Southold,41.06482,-72.4262,us,165
+Los Angeles,34.05223,-118.24368,us,167
+Beverly Hills,34.07362,-118.40036,us,167
+California,37.25022,-119.75126,us,167
+Beverly Hills,34.07362,-118.40036,us,167
+Gilgit-Baltistan,36.0,75.0,pk,169
+Gilgit-Baltistan,36.0,75.0,pk,169
+Gilgit-Baltistan,36.0,75.0,pk,169
+Brooklyn,40.6501,-73.94958,us,170
+Sacramento,38.58157,-121.4944,us,170
+Crown Heights,41.63732,-73.93792,us,170
+California,37.25022,-119.75126,us,170
+NEW YORK,40.71427,-74.00597,us,170
+Crown Heights,41.63732,-73.93792,us,172
+Brooklyn,40.6501,-73.94958,us,172
+Crown Heights,41.63732,-73.93792,us,172
+Brooklyn,40.6501,-73.94958,us,172
+New York City,40.71427,-74.00597,us,172
+NEW YORK,40.71427,-74.00597,us,172
+Denmark,56.0,10.0,dk,173
+Wales,52.5,-3.5,gb,173
+Asian,29.84064,89.29688,nan,173
+WALES,52.5,-3.5,gb,173
+Wales,52.5,-3.5,gb,173
+MEXICO CITY,19.42847,-99.12766,mx,174
+Hayes,51.51579,-0.4234,gb,175
+Mozart Estate,51.529356,-0.204656,gb,175
+South Kilburn Estate,51.55295,-0.19157,gb,175
+Brent,51.55306,-0.3023,gb,175
+South Kilburn Estate,51.55295,-0.19157,gb,175
+London,51.50853,-0.12574,gb,175
+London,51.50853,-0.12574,gb,175
+Kilburn,51.55295,-0.19157,gb,175
+South Kilburn Estate,51.55295,-0.19157,gb,175
+Burton,52.80728,-1.64263,gb,178
+Birmingham City,52.475373,-1.869036,gb,178
+Raleigh,35.7721,-78.63861,us,179
+RALEIGH,35.7721,-78.63861,us,179
+N.C.,35.50069,-80.00032,us,179
+Mexico,23.0,-102.0,mx,180
+Oaxaca State,17.0,-96.5,mx,180
+Mexico,23.0,-102.0,mx,180
+Mexico,23.0,-102.0,mx,180
+Oaxaca State,17.0,-96.5,mx,180
+Matias Romero,16.87902,-95.03939,mx,180
+Puebla,19.03793,-98.20346,mx,180
+Mexico City,19.42847,-99.12766,mx,180
+Matias Romero,16.87902,-95.03939,mx,180
+Holy See,41.90225,12.4533,va,182
+Holy See,41.90225,12.4533,va,182
+Holy See,41.90225,12.4533,va,182
+Holy See,41.90225,12.4533,va,182
+Embassy of the Republic of Armenia,41.904079,12.494358,it,182
+Holy See,41.90225,12.4533,va,182
+Vatican Gardens,41.9031,12.4506,va,182
+Vatican,41.90225,12.4533,va,182
+Vatican,41.90225,12.4533,va,182
+Holy See,41.90225,12.4533,va,182
+Czech Republic,49.75,15.0,cz,182
+Echmiadzin,40.16557,44.29462,am,182
+Asia,29.84064,89.29688,nan,185
+Brazil,-10.0,-55.0,br,186
+China,35.0,105.0,cn,186
+Sweden,62.0,15.0,se,187
+Athens,37.97945,23.71622,gr,187
+Samos,37.75744,26.97616,gr,187
+Samos,37.75744,26.97616,gr,187
+Syria,35.0,38.0,sy,187
+Syria,35.0,38.0,sy,187
+Samos,37.75744,26.97616,gr,187
+Samos,37.75744,26.97616,gr,187
+Samos,37.75744,26.97616,gr,187
+Germany,51.5,10.5,de,187
+Iraq,33.0,44.0,iq,187
+Iraq,33.0,44.0,iq,187
+Damascus,33.5102,36.29128,sy,187
+Turkey,39.0,35.0,tr,187
+Europe,48.69096,9.14062,nan,187
+Turkey,39.0,35.0,tr,187
+Turkey,39.0,35.0,tr,187
+Greece,39.0,22.0,gr,187
+Greek,39.0,22.0,gr,187
+Italy,42.83333,12.83333,it,187
+Greek,39.0,22.0,gr,187
+Greece,39.0,22.0,gr,187
+Afghanistan,33.0,66.0,af,187
+Iraq,33.0,44.0,iq,187
+Cloverhill District Court,53.342751,-6.38476,ie,188
+Central Mental Hospital,53.300459,-6.242315,ie,188
+Dundrum,53.29067,-6.25714,ie,188
+Cloverhill District Court,53.342751,-6.38476,ie,188
+Dundalk,54.0,-6.41667,ie,188
+Wales,52.5,-3.5,gb,190
+New York,40.71427,-74.00597,us,190
+New York,40.71427,-74.00597,us,190
+New York,40.71427,-74.00597,us,190
+England,52.16045,-0.70312,gb,190
+London,51.50853,-0.12574,gb,190
+London,51.50853,-0.12574,gb,190
+London,51.50853,-0.12574,gb,190
+London,51.50853,-0.12574,gb,190
+London,51.50853,-0.12574,gb,190
+Britain,54.75844,-2.69531,gb,190
+British International School,30.073196,30.948169,eg,191
+Liverpool Academy,30.073196,30.948169,eg,191
+Nile Delta,30.85,31.2,eg,191
+Madinaty,30.09613,31.65539,eg,191
+Madinaty,30.09613,31.65539,eg,191
+Madinaty,30.09613,31.65539,eg,191
+Cairo,30.06263,31.24967,eg,191
+New Cairo,30.03,31.47,eg,191
+Cairo,30.06263,31.24967,eg,191
+Cairo,30.06263,31.24967,eg,191
+CAIRO,30.06263,31.24967,eg,191
+Egypt,27.0,30.0,eg,191
+Egypt,27.0,30.0,eg,191
+Egypt,27.0,30.0,eg,191
+Egypt,27.0,30.0,eg,191
+Russia,60.0,100.0,ru,191
+Rehab,30.065625,31.488506,eg,191
+Nagrig,30.97243,30.86705,eg,191
+Sacramento,38.58157,-121.4944,us,192
+Yuba City,39.13573,-121.63809,us,192
+Korean Peninsula,38.62545,127.55127,nan,193
+Korean Peninsula,38.62545,127.55127,nan,193
+Korean Peninsula,38.62545,127.55127,nan,193
+Korean Peninsula,38.62545,127.55127,nan,193
+Korean Peninsula,38.62545,127.55127,nan,193
+Moscow,55.75222,37.61556,ru,193
+Moscow,55.75222,37.61556,ru,193
+Russia,60.0,100.0,ru,193
+Russia,60.0,100.0,ru,193
+Russia,60.0,100.0,ru,193
+Hawaii,20.78785,-156.38612,us,194
+Hawaii,20.78785,-156.38612,us,194
+Hawaii,20.78785,-156.38612,us,194
+Hawaii,20.78785,-156.38612,us,194
+Hawaii,20.78785,-156.38612,us,194
+Hawaii,20.78785,-156.38612,us,194
+Hawaii,20.78785,-156.38612,us,194
+Maui,20.77024,-156.26816,us,194
+Oahu,21.43333,-157.96667,us,194
+Pearl Harbor,21.3527,-157.96962,us,194
+Hawaii,20.78785,-156.38612,us,194
+Hawaii,20.78785,-156.38612,us,194
+Oahu,21.43333,-157.96667,us,194
+Hawaii,20.78785,-156.38612,us,194
+Hawaii,20.78785,-156.38612,us,194
+Idaho,44.5002,-114.25118,us,194
+Utah,39.25024,-111.75103,us,194
+Colorado,39.00027,-105.50083,us,194
+Honolulu,21.30694,-157.85833,us,194
+Lahaina,20.87429,-156.67663,us,194
+Honolulu,21.30694,-157.85833,us,194
+United States,39.76,-98.5,us,194
+Hawaii,20.78785,-156.38612,us,194
+Western US,39.76,-98.5,us,194
+US,39.76,-98.5,us,194
+Canada,60.10867,-113.64258,ca,194
+Japan,35.68536,139.75309,jp,194
+Washington,47.50012,-120.50147,us,194
+California,37.25022,-119.75126,us,194
+Colombia,4.0,-73.25,co,195
+Mexico,23.0,-102.0,mx,195
+Latin American,-14.60485,-57.65625,nan,195
+St. Louis,38.64068,-90.44341,us,195
+American,39.76,-98.5,us,195
+Ciudad Juarez,31.72024,-106.46084,mx,195
+American,39.76,-98.5,us,195
+Mexico,23.0,-102.0,mx,195
+Mexico,23.0,-102.0,mx,195
+Mexico,23.0,-102.0,mx,195
+Mexico,23.0,-102.0,mx,195
+Mexico,23.0,-102.0,mx,195
+US,39.76,-98.5,us,195
+Bogota,4.60971,-74.08175,co,195
+New York City,40.71427,-74.00597,us,195
+Latin America,-14.60485,-57.65625,nan,195
+Colombia,4.0,-73.25,co,195
+United States,39.76,-98.5,us,195
+United States,39.76,-98.5,us,195
+United States,39.76,-98.5,us,195
+West Virginia,38.50038,-80.50009,us,196
+Kentucky,38.20042,-84.87762,us,196
+Arizona,34.5003,-111.50098,us,196
+West Virginia,38.50038,-80.50009,us,196
+U.S.,39.76,-98.5,us,196
+Capitol,35.49228,-97.50337,us,196
+Kentucky,38.20042,-84.87762,us,196
+Arizona,34.5003,-111.50098,us,196
+Tulsa,36.15398,-95.99277,us,196
+Oklahoma,35.49209,-97.50328,us,196
+Oklahoma City,35.46756,-97.51643,us,196
+OKLAHOMA CITY,35.46756,-97.51643,us,196
+Capitol,35.49228,-97.50337,us,196
+Greece,39.0,22.0,gr,197
+Portugal,39.6945,-8.13057,pt,197
+Orange County,33.78779,-117.85311,us,197
+Orange County,33.78779,-117.85311,us,197
+Toomevara,52.84972,-8.03222,ie,198
+Ardcroney,52.93222,-8.15722,ie,198
+Ballina,54.11667,-9.16667,ie,198
+Newport,53.88508,-9.54526,ie,198
+Cloughjordan,52.94028,-8.03556,ie,198
+Portroe,52.8825,-8.35028,ie,198
+Nenagh,52.86194,-8.19667,ie,198
+Nenagh Municipal District,52.86194,-8.19667,ie,198
+Nenagh,52.86194,-8.19667,ie,198
+Nenagh,52.86194,-8.19667,ie,198
+Peru,-10.0,-75.25,pe,200
+South America,-14.60485,-57.65625,nan,200
+Peru,-10.0,-75.25,pe,200
+Calif.,37.25022,-119.75126,us,200
+Peruvian,-10.0,-75.25,pe,200
+PLEASANTON,37.66243,-121.87468,us,200
+Texas,31.25044,-99.25061,us,201
+New Mexico,34.50034,-106.00085,us,201
+Arizona,34.5003,-111.50098,us,201
+Mexico,23.0,-102.0,mx,201
+Mexico,23.0,-102.0,mx,201
+Mexico,23.0,-102.0,mx,201
+Heathrow,51.47115,-0.45649,gb,202
+London,51.50853,-0.12574,gb,202
+Kansas City,39.09973,-94.57857,us,202
+Japan,35.68536,139.75309,jp,202
+Air Canada Cargo,45.467263,-73.776689,ca,202
+Heathrow Animal Reception Center,51.45589,-0.455783,gb,202
+Clarinda,40.73981,-95.038,us,206
+Iowa,42.00027,-93.50049,us,206
+Iowa,42.00027,-93.50049,us,206
+2700 North Fourth Street,41.019808,-95.227941,us,206
+Montgomery County History Center,41.019808,-95.227941,us,206
+Red Oak,41.00972,-95.22555,us,206
+Red Oak,41.00972,-95.22555,us,206
+Red Oak,41.00972,-95.22555,us,206
+America,39.76,-98.5,us,206
+Des Moines,41.60054,-93.60911,us,206
+UK,54.75844,-2.69531,gb,207
+Bank of England,51.51407,-0.08843,gb,207
+Kenya,1.0,38.0,ke,208
+Kenya,1.0,38.0,ke,208
+NAIROBI,-1.28333,36.83333,ke,208
+Iraq,33.0,44.0,iq,209
+Syria,35.0,38.0,sy,209
+Syria,35.0,38.0,sy,209
+Syria,35.0,38.0,sy,209
+Syria,35.0,38.0,sy,209
+Syria,35.0,38.0,sy,209
+U.S.,39.76,-98.5,us,209
+WASHINGTON,38.89511,-77.03637,us,209
+Maiduguri,11.83537,13.15166,ng,210
+Borno State,11.5,13.0,ng,210
+WINNIPEG,49.8844,-97.14704,ca,212
+Pacific Ocean,3.51342,-132.1875,nan,213
+Pacific,3.51342,-132.1875,nan,213
+Colorado State,39.00027,-105.50083,us,213
+Atlantic,10.0,-25.0,nan,213
+Atlantic,10.0,-25.0,nan,213
+Atlantic,10.0,-25.0,nan,213
+Pacific,3.51342,-132.1875,nan,213
+Atlantic,40.0,-40.0,nan,213
+Atlantic,10.0,-25.0,nan,213
+Atlantic,10.0,-25.0,nan,213
+Atlantic,10.0,-25.0,nan,213
+Atlantic,10.0,-25.0,nan,213
+US,39.76,-98.5,us,213
+United States,39.76,-98.5,us,213
+United States,39.76,-98.5,us,213
+Colorado State University,40.57478,-105.08061,us,213
+British,54.75844,-2.69531,gb,214
+Silverstone,52.07357,-1.0219,gb,214
+Thruxton,51.20914,-1.59971,gb,214
+Brands Hatch,51.36182,0.26299,gb,214
+Hampshire,51.0,-1.25,gb,214
+Andover,51.21135,-1.49393,gb,214
+City Hall,33.749,-84.39048,us,216
+ATLANTA,33.749,-84.38798,us,216
+United States,39.76,-98.5,us,216
+New York City,40.71427,-74.00597,us,216
+Lagos,6.45407,3.39467,ng,217
+Terra Kulture,6.425021,3.426811,ng,217
+Saint Lucian,13.88333,-60.96667,lc,218
+Pointe Sable Environmental Protection Area,13.73181,-60.93751,lc,218
+A429,52.021,-1.6864,gb,220
+Cirencester,51.71927,-1.97145,gb,220
+Cirencester,51.71927,-1.97145,gb,220
+Cirencester,51.71927,-1.97145,gb,220
+Cirencester,51.71927,-1.97145,gb,220
+Air Balloon,51.843347,-2.096459,gb,220
+Air Balloon,51.843347,-2.096459,gb,220
+Air Balloon,51.843347,-2.096459,gb,220
+Air Balloon,51.843347,-2.096459,gb,220
+A417,51.7463,-1.981,gb,220
+A417,51.7463,-1.981,gb,220
+A417,51.7463,-1.981,gb,220
+A40,51.8782,-2.0308,gb,220
+A436,51.8782,-2.0308,gb,220
+A429,52.021,-1.6864,gb,220
+Cheltenham,51.90006,-2.07972,gb,220
+Gloucester,51.86568,-2.2431,gb,220
+St George’s Chapel,51.483719,-0.606994,gb,221
+Windsor Castle,51.48365,-0.60502,gb,221
+Eastern Cape,-32.0,26.0,za,222
+Eastern Cape,-32.0,26.0,za,222
+Cape Town,-33.92584,18.42322,za,222
+Cape Town,-33.92584,18.42322,za,222
+Khayelitsha,-34.03932,18.67916,za,222
+Delft,-33.98918,18.6271,za,222
+Khayelitsha,-34.03932,18.67916,za,222
+Karl Bremer Hospital,-33.891578,18.607474,za,222
+Delft,-33.98918,18.6271,za,222
+Jamaica,18.16667,-77.25,jm,223
+Ainsworth Parade,54.606021,-5.961756,gb,224
+Shankill,54.6025,-5.95056,gb,224
+Belfast Magistrate’s Court,54.598055,-5.923481,gb,224
+McCandless Street,54.609658,-5.951474,gb,224
+Lexington,42.44732,-71.2245,us,225
+Hawaii,20.78785,-156.38612,us,225
+Europe,48.69096,9.14062,nan,225
+Massachusetts,42.36565,-71.10832,us,225
+Massachusetts,42.36565,-71.10832,us,225
+Massachusetts,42.36565,-71.10832,us,225
+Boston,42.35843,-71.05977,us,225
+Boston,42.35843,-71.05977,us,225
+BOSTON,42.35843,-71.05977,us,225
+Michigan,44.25029,-85.50033,us,226
+US,39.76,-98.5,us,226
+Florida,28.75054,-82.5001,us,227
+Louisiana,31.00047,-92.0004,us,227
+Nevada,39.25021,-116.75119,us,227
+Guam,13.47861,144.81834,gu,227
+Alaska,64.00028,-150.00028,us,227
+Hawaii,20.78785,-156.38612,us,227
+Hawaii,20.78785,-156.38612,us,227
+Thailand,15.5,101.0,th,227
+Minneapolis,44.97997,-93.26384,us,227
+Super Bowl 52,44.973584,-93.257654,us,227
+Saipan,15.21233,145.7545,mp,227
+Guam,13.47861,144.81834,gu,227
+"Washington, D.C.",38.91706,-77.00025,us,227
+Saipan,15.21233,145.7545,mp,227
+Washington,47.50012,-120.50147,us,227
+Washington,47.50012,-120.50147,us,227
+Wash.,47.50012,-120.50147,us,227
+Washington,47.50012,-120.50147,us,227
+CAMP MURRAY,47.11565,-122.56429,us,227
+La.,31.00047,-92.0004,us,228
+Slidell,30.27519,-89.78117,us,228
+Europe,48.69096,9.14062,nan,229
+UK,54.75844,-2.69531,gb,231
+UK,54.75844,-2.69531,gb,231
+Washington,38.89511,-77.03637,us,232
+Washington,38.89511,-77.03637,us,232
+Washington,38.89511,-77.03637,us,232
+OAS,38.89261,-77.03998,us,232
+Trinidad,11.0,-61.0,tt,232
+T&T,11.0,-61.0,tt,232
+Asia,29.84064,89.29688,nan,235
+US,39.76,-98.5,us,235
+US,39.76,-98.5,us,235
+Kuala Lumpur,3.1412,101.68653,my,235
+New York,40.71427,-74.00597,us,236
+Detroit,42.33143,-83.04575,us,236
+West Palm Beach,26.71534,-80.05337,us,236
+Miami,25.77427,-80.19366,us,236
+Los Angeles,34.05223,-118.24368,us,236
+Los Angeles,34.05223,-118.24368,us,236
+LOS ANGELES,34.05223,-118.24368,us,236
+New York City,40.71427,-74.00597,us,237
+Newark,40.73566,-74.17237,us,237
+U.S.,39.76,-98.5,us,237
+Newark,40.73566,-74.17237,us,237
+New Jersey,40.16706,-74.49987,us,237
+New Jersey,40.16706,-74.49987,us,237
+Aughadreena NS,53.935049,-7.219736,ie,238
+Courthouse Ballyjamesduff,53.864166,-7.205798,ie,238
+Percy French Hotel,53.864019,-7.205249,ie,238
+Ramor Theatre,53.833945,-7.080542,ie,238
+Cavan,53.91667,-7.25,ie,238
+Cavan Institute,53.999796,-7.359383,ie,238
+Crossdoney Presbyterian Hall,53.955866,-7.440877,ie,238
+Ballinagh Community Centre,53.92992,-7.409627,ie,238
+Cavan Institute,54.000326,-7.357722,ie,238
+Ireland,53.0,-8.0,ie,238
+Cavan Town Hall,53.991139,-7.36202,ie,238
+Virginia,53.83389,-7.07556,ie,238
+Ballyjamesduff,53.86528,-7.20278,ie,238
+West Wing,38.89704,-77.03655,us,239
+U.S.,39.76,-98.5,us,239
+California,37.25022,-119.75126,us,239
+Mexico,23.0,-102.0,mx,239
+WASHINGTON,38.89511,-77.03637,us,239
+Mexican,23.0,-102.0,mx,239
+White House,38.89704,-77.03655,us,239
+West Wing,38.89704,-77.03655,us,239
+Oval Office,38.89704,-77.03655,us,239
+Florida,28.75054,-82.5001,us,239
+West Wing,38.89704,-77.03655,us,239
+White House,38.89704,-77.03655,us,239
+Trump Tower,40.7625,-73.97444,us,239
+Trump Tower,40.7625,-73.97444,us,239
+White House,38.89704,-77.03655,us,239
+TORONTO,43.70011,-79.4163,ca,241
+Toronto,43.70011,-79.4163,ca,241
+Toronto,43.70011,-79.4163,ca,241
+TORONTO,43.70011,-79.4163,ca,241
+Wyoming,43.00024,-107.5009,us,242
+WASHINGTON,38.89511,-77.03637,us,242
+Congress,38.88983,-77.00887,us,243
+Washington,38.89511,-77.03637,us,243
+McLean County,37.52919,-87.26361,us,244
+Muhlenberg County,37.21579,-87.14204,us,244
+Ohio County,37.47819,-86.84889,us,244
+Pike County,37.46902,-82.39587,us,244
+Daviess County,37.73177,-87.08723,us,244
+Kentucky,38.20042,-84.87762,us,244
+Kentucky,38.20042,-84.87762,us,244
+Cyber Tech,25.065727,-77.335934,bs,245
+Bains and Grants Town,25.05823,-77.34306,bs,245
+Bains and Grants Town,25.05823,-77.34306,bs,245
+Bains and Grants Town,25.05823,-77.34306,bs,245
+Bains and Grants Town,25.05823,-77.34306,bs,245
+Azerbaijan,40.5,47.5,az,246
+Azerbaijan,40.5,47.5,az,246
+Georgia,41.99998,43.4999,ge,246
+Georgia,41.99998,43.4999,ge,246
+Armenia,40.25,45.0,am,246
+Nagorno-Karabakh Republic,40.0,46.58333,az,246
+Bosnia and Herzegovina,44.25,17.83333,ba,247
+Russian,60.0,100.0,ru,247
+European,48.69096,9.14062,nan,247
+European,48.69096,9.14062,nan,247
+European,48.69096,9.14062,nan,247
+Western,50.21909,7.42676,nan,247
+Western,50.21909,7.42676,nan,247
+Italy,42.83333,12.83333,it,247
+Slovakia,48.66667,19.5,sk,247
+Austria,47.33333,13.33333,at,247
+Greece,39.0,22.0,gr,247
+Cyprus,35.0,33.0,cy,247
+Germany,51.5,10.5,de,247
+France,46.0,2.0,fr,247
+British,54.75844,-2.69531,gb,247
+Soviet Union,60.0,100.0,ru,247
+North America,54.77535,-105.64453,nan,248
+Thailand,15.5,101.0,th,248
+Asia,29.84064,89.29688,nan,248
+Asia,29.84064,89.29688,nan,248
+Europe,48.69096,9.14062,nan,248
+Brazil,-10.0,-55.0,br,248
+India,22.0,79.0,in,248
+China,35.0,105.0,cn,248
+China,35.0,105.0,cn,248
+China,35.0,105.0,cn,248
+Turkey,39.0,35.0,tr,248
+Abu Dhabi,24.46667,54.36667,ae,248
+Indonesia,-5.0,120.0,id,248
+Anfield,53.4308,-2.9611,gb,249
+Switzerland,47.00016,8.01427,ch,249
+UK,54.75844,-2.69531,gb,249
+Anfield,53.4308,-2.9611,gb,249
+Salt + Smoke,38.656076,-90.305145,us,250
+Missouri,38.25031,-92.50046,us,250
+Lemay,38.53339,-90.27928,us,250
+St. Louis,38.62727,-90.19789,us,250
+St. Louis Hills,38.62727,-90.19789,us,250
+ST. LOUIS,38.62727,-90.19789,us,250
+500 block of Jeffords,38.532543,-90.286071,us,250
+Hampton Avenue,38.598927,-90.292476,us,250
+Awabakal,-32.9985,151.7179,au,251
+Glenrock,-32.9652,151.7179,au,251
+Glenrock Lagoon,-32.9618,151.7337,au,251
+Glenrock Lagoon,-32.9618,151.7337,au,251
+Glenrock,-32.9652,151.7179,au,251
+Glenrock State Conservation Area,-32.9652,151.7179,au,251
+Summit of the Americas,-12.04318,-77.02824,pe,252
+Peru,-10.0,-75.25,pe,252
+Washington,38.89511,-77.03637,us,252
+America,39.76,-98.5,us,252
+Washington,38.89511,-77.03637,us,252
+U.S.,39.76,-98.5,us,252
+Quebec City,46.81228,-71.21454,ca,252
+Malaysia,2.5,112.5,my,253
+Washington,38.89511,-77.03637,us,253
+Kuala Lumpur,3.1412,101.68653,my,253
+Gulf,27.0,51.0,nan,254
+Yemen,15.5,47.5,ye,254
+Riyadh,24.68773,46.72185,sa,254
+US,39.76,-98.5,us,254
+Middle East,33.13906,35.85869,nan,254
+Saudi Arabia,25.0,45.0,sa,255
+Houston,29.76328,-95.36327,us,255
+Congress,38.88983,-77.00887,us,255
+West Coast,38.78072,-122.49639,us,255
+U.S.,39.76,-98.5,us,255
+United States,39.76,-98.5,us,255
+U.S.,39.76,-98.5,us,255
+Washington,38.89511,-77.03637,us,255
+Washington,38.89511,-77.03637,us,255
+WASHINGTON,38.89511,-77.03637,us,255
+Riyadh,24.68773,46.72185,sa,255
+New York,40.71427,-74.00597,us,255
+Saudi Arabia,25.0,45.0,sa,255
+Yemen,15.5,47.5,ye,255
+Yemen,15.5,47.5,ye,255
+Boston,42.35843,-71.05977,us,255
+West,50.21909,7.42676,nan,255
+Middle East,33.13906,35.85869,nan,255
+Md.,39.00039,-76.74997,us,256
+SEVERN,39.13705,-76.6983,us,256
+Md.,39.00039,-76.74997,us,256
+Severn,39.13705,-76.6983,us,256
+Azerbaijan,40.5,47.5,az,257
+Azerbaijan,40.5,47.5,az,257
+Azerbaijan,40.5,47.5,az,257
+Azerbaijani,40.5,47.5,az,257
+Baku,40.37767,49.89201,az,257
+Azerbaijan,40.5,47.5,az,257
+Baku,40.37767,49.89201,az,257
+BC,53.99983,-125.0032,ca,258
+BC,49.49985,-117.28553,ca,258
+BC,49.49985,-117.28553,ca,258
+Creston,49.09987,-116.50211,ca,258
+Nelson,49.49985,-117.28553,ca,258
+Nelson,49.49985,-117.28553,ca,258
+Nelson,49.49985,-117.28553,ca,258
+Nelson,49.49985,-117.28553,ca,258
+401 - 333 Victoria St.,49.490844,-117.294749,ca,258
+Castlegar,49.29984,-117.66894,ca,258
+Nashville,36.16589,-86.78444,us,260
+Crossroads Correctional Center,48.50189,-111.8934,us,260
+Shelby,48.50526,-111.85697,us,260
+Mont.,47.00025,-109.75102,us,260
+HELENA,46.59271,-112.03611,us,260
+Tennessee,35.75035,-86.25027,us,260
+United States,39.76,-98.5,us,261
+Loyola University,33.97087,-118.4187,us,263
+Los Angeles,34.05223,-118.24368,us,263
+U.S.,39.76,-98.5,us,263
+West Virginia,38.50038,-80.50009,us,263
+California,37.25022,-119.75126,us,263
+New Delhi,28.63576,77.22445,in,264
+India,22.0,79.0,in,264
+India,22.0,79.0,in,264
+India,22.0,79.0,in,264
+Indian,22.0,79.0,in,264
+Kasba Bonli,26.311345,76.246723,in,264
+India,22.0,79.0,in,264
+Kasba Bonli,26.311345,76.246723,in,264
+Kasba Bonli,26.311345,76.246723,in,264
+Kasba Bonli,26.311345,76.246723,in,264
+Rajasthan,26.58333,73.83333,in,264
+Rajasthan,26.58333,73.83333,in,264
+Rajasthan,26.58333,73.83333,in,264
+Rajasthan,26.58333,73.83333,in,264
+Atlantic Avenue,33.580982,-79.005317,us,265
+Charlotte,35.22709,-80.84313,us,265
+Garden City,33.59295,-79.00865,us,265
+Surfside,33.606,-78.97309,us,265
+SC,34.00043,-81.00009,us,265
+Garden City,33.59295,-79.00865,us,265
+HORRY COUNTY,33.90448,-78.97615,us,265
+Mauritius,-20.3,57.58333,mu,266
+Mauritius,-20.3,57.58333,mu,266
+Goodlands,-20.035,57.64306,mu,266
+Farmers Service Centre,-20.04235,57.655038,mu,266
+Kolkata,22.56263,88.36304,in,267
+India,22.0,79.0,in,267
+KOLKATA,22.56263,88.36304,in,267
+Airport Courthouse,33.928218,-118.371353,us,268
+N. Bedford Drive,34.072903,-118.41191,us,268
+Beverly Hills,34.07362,-118.40036,us,268
+LOS ANGELES,34.05223,-118.24368,us,268
+University of St. Thomas,29.73836,-95.39164,us,269
+Houston,29.76328,-95.36327,us,269
+Texas,31.25044,-99.25061,us,269
+United States,39.76,-98.5,us,269
+China,35.0,105.0,cn,269
+China,35.0,105.0,cn,269
+China,35.0,105.0,cn,269
+United States,39.76,-98.5,us,269
+Cuyahoga County,41.47875,-81.67786,us,270
+MetroHealth Medical Center,41.46177,-81.69664,us,270
+MetroHealth Medical Center,41.46177,-81.69664,us,270
+Japan,35.68536,139.75309,jp,271
+Japan,35.68536,139.75309,jp,271
+Syria,35.0,38.0,sy,272
+Kasserine,35.25,8.78333,tn,272
+Iraq,33.0,44.0,iq,272
+Tunisia,34.0,9.0,tn,272
+Sirte,31.20892,16.58866,ly,272
+Misrata,32.37535,15.09254,ly,272
+Gabès,33.88146,10.0982,tn,272
+Tunisia,34.0,9.0,tn,272
+Tunisian,34.0,9.0,tn,272
+Tunis,36.81897,10.16579,tn,272
+Tunis,36.81897,10.16579,tn,272
+Tunisia,34.0,9.0,tn,272
+North Africa,32.95337,9.97559,nan,272
+North Africa,32.95337,9.97559,nan,272
+Libya,28.0,17.0,ly,272
+Libya,28.0,17.0,ly,272
+Brussels,50.85045,4.34878,be,272
+Libya,28.0,17.0,ly,272
+Libya,28.0,17.0,ly,272
+Libya,28.0,17.0,ly,272
+Libya,28.0,17.0,ly,272
+North Africa,32.95337,9.97559,nan,272
+North Africa,32.95337,9.97559,nan,272
+Tunisia,34.0,9.0,tn,272
+Tunisia,34.0,9.0,tn,272
+Tunisia,34.0,9.0,tn,272
+Mount Chaambi,32.59696,4.87005,dz,272
+America,46.07323,-100.54688,nan,274
+Berkshire,51.5,-1.25,gb,274
+Thames Valley,51.46117,-0.93083,gb,274
+WASHINGTON,38.89511,-77.03637,us,275
+West Virginia,38.50038,-80.50009,us,275
+California,37.25022,-119.75126,us,275
+Mexico,23.0,-102.0,mx,275
+SAN DIEGO,32.71571,-117.16472,us,275
+N.M.,34.50034,-106.00085,us,275
+N.M.,34.50034,-106.00085,us,275
+ALBUQUERQUE,35.08449,-106.65114,us,275
+ALBUQUERQUE,35.08449,-106.65114,us,275
+Finland,64.0,26.0,fi,276
+Espoo,60.2052,24.6522,fi,276
+Europe,48.69096,9.14062,nan,276
+Northern Europe,61.68987,2.90039,nan,276
+Finland,64.0,26.0,fi,276
+Europe,48.69096,9.14062,nan,276
+Europe,48.69096,9.14062,nan,276
+European,48.69096,9.14062,nan,276
+Russia,60.0,100.0,ru,277
+Slovenia,46.08333,15.0,si,277
+Russia,60.0,100.0,ru,277
+Moscow,55.76167,37.60667,ru,277
+Russia,60.0,100.0,ru,277
+Iraq,33.0,44.0,iq,277
+Moscow,55.76167,37.60667,ru,277
+EU,50.83857,4.37599,nan,277
+Point Peron,-32.2665,115.68731,au,278
+Woodman Point,-32.15,115.76667,au,278
+Woodman Point,-32.15,115.76667,au,278
+WA,-25.0,122.0,au,278
+Safety Bay,-32.30463,115.74213,au,278
+Cape Peron,-32.2665,115.68731,au,278
+Rockingham,-32.27682,115.72978,au,278
+State,41.881984,-87.627897,us,279
+Northwestern Memorial Hospital,41.89457,-87.62141,us,279
+North State Street,41.882051,-87.627826,us,279
+Hubbard,41.890137,-87.657012,us,279
+Grand,41.89176,-87.628148,us,279
+State,41.89176,-87.628148,us,279
+Park Ridge,42.012183,-87.842193,us,279
+Near North Side,41.90003,-87.6345,us,279
+South Ingleside Avenue,41.760517,-87.601751,us,279
+River North,41.892917,-87.633401,us,279
+Roraima,2.25,-61.25,br,280
+Boa Vista,2.81972,-60.67333,br,280
+Palais des Nations,46.22652,6.14063,ch,280
+Venezuela,8.0,-66.0,ve,280
+Brazil,-10.0,-55.0,br,280
+Brazil,-10.0,-55.0,br,280
+Brazil,-10.0,-55.0,br,280
+Brazil,-10.0,-55.0,br,280
+Geneva,46.20222,6.14569,ch,280
+Brazil,-10.0,-55.0,br,280
+Minnesota,46.25024,-94.25055,us,281
+Saint Croix County,45.03407,-92.45278,us,281
+Wis.,44.50024,-90.00041,us,281
+WAUSAU,44.95914,-89.63012,us,281
+NewsChannel 7,44.946846,-89.622126,us,281
+Ukraine,49.0,32.0,ua,282
+EU,48.69096,9.14062,nan,282
+Ukraine,49.0,32.0,ua,282
+Ukraine,49.0,32.0,ua,282
+Ukraine,49.0,32.0,ua,282
+U.S.,39.76,-98.5,us,282
+Nigeria,10.0,8.0,ng,283
+Nigeria,10.0,8.0,ng,283
+Nigeria,10.0,8.0,ng,283
+Nigeria,10.0,8.0,ng,283
+Nigeria,10.0,8.0,ng,283
+Abuja,9.05785,7.49508,ng,283
+Lagos,6.45407,3.39467,ng,283
+Calif.,37.25022,-119.75126,us,284
+Dallas,32.78306,-96.80667,us,284
+DALLAS,32.78306,-96.80667,us,284
+Latin,-14.60485,-57.65625,nan,284
+OAKLAND,37.80437,-122.2708,us,284
+HOUSTON,29.76328,-95.36327,us,284
+Miami-Dade,25.60897,-80.49867,us,285
+Miami-Dade County,25.60897,-80.49867,us,285
+Kendale Lakes Elementary School,25.69538,-80.42561,us,285
+London,51.50853,-0.12574,gb,286
+Harare,-17.82772,31.05337,zw,286
+Zimbabwe,-19.0,29.75,zw,286
+London,51.50853,-0.12574,gb,286
+London,51.50853,-0.12574,gb,286
+Harare,-17.82772,31.05337,zw,286
+Zimbabwe,-19.0,29.75,zw,286
+UK,54.75844,-2.69531,gb,286
+UK,54.75844,-2.69531,gb,286
+UK,54.75844,-2.69531,gb,286
+UK,54.75844,-2.69531,gb,286
+British,54.75844,-2.69531,gb,286
+Britain,54.75844,-2.69531,gb,286
+European,48.69096,9.14062,nan,287
+Gothenburg,57.70716,11.96679,se,287
+Sweden,62.0,15.0,se,287
+Brasoc,45.66002,25.60002,ro,287
+Sweden,62.0,15.0,se,287
+Hamburg,53.57532,10.01534,de,287
+Mannheim,49.4891,8.46694,de,287
+Copenhagen,55.67594,12.56553,dk,287
+Barclays Center,40.6813,-73.98459,us,288
+Fredericton,45.94541,-66.66558,ca,290
+Wilson's Farm,46.035575,-66.725687,ca,290
+Kingsley Road,46.035575,-66.725687,ca,290
+N.B.,46.5001,-65.99878,ca,290
+Estey's Bridge,46.078762,-66.721889,ca,290
+South Korea,36.5,127.75,kr,291
+South Korean,36.5,127.75,kr,291
+South Korea,36.5,127.75,kr,291
+Seoul Central District Court,37.496017,127.011316,kr,291
+South Korea,36.5,127.75,kr,291
+SEOUL,37.566,126.9784,kr,291
+India,22.0,79.0,in,292
+China,35.0,105.0,cn,292
+Europe,48.69096,9.14062,nan,292
+Latin America,-14.60485,-57.65625,nan,292
+Turkey,39.0,35.0,tr,292
+Suwon,37.29111,127.00889,kr,295
+Incheon,37.45646,126.70515,kr,295
+Jamsil Stadium,37.512307,127.07232,kr,295
+Seoul,37.566,126.9784,kr,295
+Seoul,37.566,126.9784,kr,295
+South Korea,36.5,127.75,kr,295
+South Korea,36.5,127.75,kr,295
+South Korea,36.5,127.75,kr,295
+China,35.0,105.0,cn,295
+China,35.0,105.0,cn,295
+Yorkshire,53.93264,-1.28712,gb,296
+Snetterton,52.47985,0.94448,gb,296
+Snetterton,52.47985,0.94448,gb,296
+Norfolk,52.66667,1.0,gb,296
+Hampshire,51.0,-1.25,gb,296
+Cheshire,53.16352,-2.73595,gb,296
+Oulton Park,53.17883,-2.61702,gb,296
+Croft,54.46581,-1.58167,gb,296
+Rockingham,52.51409,-0.72412,gb,296
+Northamptonshire,52.25,-0.83333,gb,296
+Donington Park,52.82843,-1.37254,gb,296
+Thruxton,51.20871,-1.58426,gb,296
+Kent,51.16667,0.66667,gb,296
+Leicestershire,52.66667,-1.0,gb,296
+Kent,51.16667,0.66667,gb,296
+Kent,51.16667,0.66667,gb,296
+Brands Hatch,51.36182,0.26299,gb,296
+Brands Hatch,51.36182,0.26299,gb,296
+Brands Hatch,51.36182,0.26299,gb,296
+Silverstone,52.07357,-1.0219,gb,296
+Northamptonshire,52.25,-0.83333,gb,296
+Fife,56.25,-3.16667,gb,296
+Knockhill,56.131414,-3.509247,gb,296
+Paddock Hill Bend,51.36182,0.26299,gb,296
+British,54.75844,-2.69531,gb,296
+UK,54.75844,-2.69531,gb,296
+China,35.0,105.0,cn,297
+Cornell University,42.44702,-76.483,us,297
+WASHINGTON,38.89511,-77.03637,us,297
+China,35.0,105.0,cn,297
+China,35.0,105.0,cn,297
+China,35.0,105.0,cn,297
+Beijing,39.9075,116.39723,cn,297
+American,39.76,-98.5,us,297
+Beijing,39.9075,116.39723,cn,297
+Beijing,39.9075,116.39723,cn,297
+American,39.76,-98.5,us,297
+American,39.76,-98.5,us,297
+American,39.76,-98.5,us,297
+China,35.0,105.0,cn,297
+China,35.0,105.0,cn,297
+American,39.76,-98.5,us,297
+Mumbai,19.07283,72.88261,in,299
+India,22.0,79.0,in,299
+India,22.0,79.0,in,299
+India,22.0,79.0,in,299
+India,22.0,79.0,in,299
+South Africa,-29.8579,31.0292,za,301
+Durban,-29.8579,31.0292,za,301
+Durban,-29.8579,31.0292,za,301
+DURBAN,-29.8579,31.0292,za,301
+Witwatersrand University,-26.19083,28.03028,za,301
+Close Up Forever Summer,14.53501,120.98202,ph,302
+SM Mall of Asia,14.53501,120.98202,ph,302
+New Bilibid Prison,14.38028,121.02889,ph,302
+Muntinlupa,14.39028,121.0475,ph,302
+Parañaque City,14.5,120.98333,ph,302
+PARANAQUE,14.48156,121.01749,ph,302
+Brooklyn,40.6501,-73.94958,us,304
+Barclays Center,40.6813,-73.98459,us,304
+New York,40.71427,-74.00597,us,304
+NEW YORK,40.71427,-74.00597,us,304
+Barclays Center,40.6813,-73.98459,us,304
+SB Smith Electrical,52.706314,-3.03415,gb,305
+Earlsheaton,53.690604,-1.620817,gb,305
+Overton,53.03427,-2.78695,gb,305
+Thornhill,53.66667,-1.63333,gb,305
+New Road,52.706314,-3.03415,gb,305
+Middlestown,53.65079,-1.59762,gb,305
+Middletown,53.65079,-1.59762,gb,305
+Dewsbury,53.69076,-1.62907,gb,305
+Portugal,39.6945,-8.13057,pt,305
+Dewsbury,53.69076,-1.62907,gb,305
+Dewsbury,53.69076,-1.62907,gb,305
+Blackpool,53.81667,-3.05,gb,305
+Great Yarmouth,52.60831,1.73052,gb,305
+South Ossett Church,53.673484,-1.570948,gb,305
+Pioneer,53.69003,-1.630811,gb,305
+Princes Theatre,51.791889,1.153435,gb,306
+Las Vegas,36.17497,-115.13722,us,306
+US,39.76,-98.5,us,306
+Caesar's Palace,36.1143,-115.1731,us,306
+Canada,60.10867,-113.64258,ca,306
+Clacton,51.78967,1.15597,gb,306
+London,51.50853,-0.12574,gb,307
+London,51.50853,-0.12574,gb,307
+London Guildhall School,51.519744,-0.091088,gb,307
+Ireland,53.0,-8.0,ie,307
+Dunshaughlin,53.5125,-6.54,ie,307
+Guildhall School of Music,51.519744,-0.091088,gb,307
+London,51.50853,-0.12574,gb,307
+Fitzwilliam Place,53.333352,-6.252607,ie,307
+Feis Ceoil,53.34146,-6.273178,ie,307
+Convention Centre,53.34753,-6.23907,ie,307
+Rathbeggan,53.46772,-6.50947,ie,307
+Dublin,53.33306,-6.24889,ie,307
+Dublin,53.33306,-6.24889,ie,307
+Dublin,53.33306,-6.24889,ie,307
+St Patrick’s,53.512869,-6.54104,ie,307
+St Seachnails Church,53.512869,-6.54104,ie,307
+National Concert Hall,53.334878,-6.258576,ie,307
+Poland,52.0,20.0,pl,307
+Dunshaughlin,53.5125,-6.54,ie,307
+Feis Ceoil,53.34146,-6.273178,ie,307
+Astana,51.1801,71.44598,kz,308
+Almaty,43.25667,76.92861,kz,308
+UAE,23.75,54.5,ae,308
+Kazakhstan,48.0,68.0,kz,308
+Kazakhstan,48.0,68.0,kz,308
+East Yorkshire,53.91667,-0.5,gb,309
+Craven Cottage,51.4749,-0.2217,gb,309
+KCOM Stadium,53.746499,-0.367965,gb,309
+CHU,43.631938,3.849992,fr,310
+Montpellier,43.61092,3.87723,fr,310
+Béziers,43.34122,3.21402,fr,310
+Ayodhya,26.79909,82.2047,in,311
+NEW DELHI,28.65195,77.23149,in,311
+Zimbabwe,-19.0,29.75,zw,312
+Third street,-17.827804,31.052519,zw,312
+Third Street,-17.827804,31.052519,zw,312
+Third Street,-17.827804,31.052519,zw,312
+Third Street,-17.827804,31.052519,zw,312
+Harare,-17.82772,31.05337,zw,312
+Germany,51.5,10.5,de,313
+UK,54.75844,-2.69531,gb,313
+London,51.50853,-0.12574,gb,313
+Malta,35.91667,14.43333,mt,313
+Malta,35.91667,14.43333,mt,313
+Brazil,-10.0,-55.0,br,314
+USA,39.76,-98.5,us,314
+Visbek,52.83333,8.31667,de,314
+Germany,51.5,10.5,de,314
+Germany,51.5,10.5,de,314
+Japan,35.68536,139.75309,jp,314
+Turkish,39.0,35.0,tr,314
+Ankara,39.91987,32.85427,tr,314
+Turkey,39.0,35.0,tr,314
+Turkish,39.0,35.0,tr,314
+Turkish,39.0,35.0,tr,314
+Turkish,39.0,35.0,tr,314
+Turkey,39.0,35.0,tr,314
+South Africa,-29.0,24.0,za,318
+European,48.69096,9.14062,nan,318
+Stockholm,59.33258,18.0649,se,318
+Taiwan,24.0,121.0,tw,318
+New York,40.71427,-74.00597,us,318
+Spain,40.0,-4.0,es,318
+London,51.50853,-0.12574,gb,318
+Northwest Cancer Centre,54.986415,-7.291856,gb,319
+Northern Trust,54.890467,-7.882604,ie,319
+Western Trust,54.848586,-7.084168,gb,319
+Republic,53.0,-8.0,ie,319
+Macmillan Support Centre,54.986415,-7.291856,gb,319
+Agnes Jones House,54.986415,-7.291856,gb,319
+Northern Ireland,54.5,-6.5,gb,319
+Altnagelvin Hospital,54.986415,-7.291856,gb,319
+Health and Wellbeing Campus,54.986415,-7.291856,gb,319
+Derry,54.9981,-7.30934,gb,319

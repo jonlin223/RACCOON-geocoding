@@ -1,0 +1,4 @@
+location,class,start,end,lat,long,country,geo_id
+Kenya,Mixed,288,293,1.0,38.0,ke,192950
+Kenya,Literal,1004,1009,1.0,38.0,ke,192950
+NAIROBI,Mixed,279,286,-1.28333,36.83333,ke,184742

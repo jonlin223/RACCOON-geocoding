@@ -1,0 +1,8 @@
+location,class,start,end,lat,long,country,geo_id
+South Africa,Literal,2304,2316,-29.0,24.0,za,953987
+European,Literal_Modifier,3337,3345,48.69096,9.14062,,6255148
+Stockholm,Literal_Modifier,2667,2676,59.33258,18.0649,se,2673730
+Taiwan,Literal,2453,2459,24.0,121.0,tw,1668284
+New York,Literal,2472,2480,40.71427,-74.00597,us,5128581
+Spain,Literal,1942,1947,40.0,-4.0,es,2510769
+London,Literal,1624,1630,51.50853,-0.12574,gb,2643743

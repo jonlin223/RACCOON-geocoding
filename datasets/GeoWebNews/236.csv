@@ -1,0 +1,8 @@
+location,class,start,end,lat,long,country,geo_id
+New York,Literal,3581,3589,40.71427,-74.00597,us,5128581
+Detroit,Literal,3595,3602,42.33143,-83.04575,us,4990729
+West Palm Beach,Literal,3564,3579,26.71534,-80.05337,us,4177887
+Miami,Literal,3557,3562,25.77427,-80.19366,us,4164138
+Los Angeles,Literal_Modifier,600,611,34.05223,-118.24368,us,5368361
+Los Angeles,Literal,3544,3555,34.05223,-118.24368,us,5368361
+LOS ANGELES,Mixed,379,390,34.05223,-118.24368,us,5368361

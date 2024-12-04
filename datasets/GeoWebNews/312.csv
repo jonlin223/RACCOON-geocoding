@@ -1,0 +1,7 @@
+location,class,start,end,lat,long,country,geo_id
+Zimbabwe,Literal,1833,1841,-19.0,29.75,zw,878675
+Third street,Literal,464,476,-17.827804,31.052519,zw,
+Third Street,Literal,632,644,-17.827804,31.052519,zw,
+Third Street,Literal,252,264,-17.827804,31.052519,zw,
+Third Street,Literal,729,741,-17.827804,31.052519,zw,
+Harare,Literal_Modifier,243,249,-17.82772,31.05337,zw,890299

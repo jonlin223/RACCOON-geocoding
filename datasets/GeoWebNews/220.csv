@@ -1,0 +1,18 @@
+location,class,start,end,lat,long,country,geo_id
+A429,Literal_Modifier,414,418,52.021,-1.6864,gb,
+Cirencester,Literal_Modifier,419,430,51.71927,-1.97145,gb,2652995
+Cirencester,Literal,580,591,51.71927,-1.97145,gb,2652995
+Cirencester,Literal,737,748,51.71927,-1.97145,gb,2652995
+Cirencester,Literal,634,645,51.71927,-1.97145,gb,2652995
+Air Balloon,Coercion,565,576,51.843347,-2.096459,gb,
+Air Balloon,Coercion,384,395,51.843347,-2.096459,gb,
+Air Balloon,Coercion,195,206,51.843347,-2.096459,gb,
+Air Balloon,Coercion,608,619,51.843347,-2.096459,gb,
+A417,Literal_Modifier,347,351,51.7463,-1.981,gb,
+A417,Literal,598,602,51.7463,-1.981,gb,
+A417,Literal,167,171,51.7463,-1.981,gb,
+A40,Literal,520,523,51.8782,-2.0308,gb,
+A436,Literal,514,518,51.8782,-2.0308,gb,
+A429,Literal,528,532,52.021,-1.6864,gb,
+Cheltenham,Literal,769,779,51.90006,-2.07972,gb,2653261
+Gloucester,Literal,754,764,51.86568,-2.2431,gb,2648404

@@ -1,0 +1,10 @@
+location,class,start,end,lat,long,country,geo_id
+Hayes,Literal_Modifier,1399,1404,51.51579,-0.4234,gb,2647261
+Mozart Estate,Literal,1612,1625,51.529356,-0.204656,gb,
+South Kilburn Estate,Literal,1742,1762,51.55295,-0.19157,gb,6690572
+Brent,Literal_Modifier,2222,2227,51.55306,-0.3023,gb,2654789
+South Kilburn Estate,Literal,954,974,51.55295,-0.19157,gb,6690572
+London,Literal,990,996,51.50853,-0.12574,gb,2643743
+London,Literal,2240,2246,51.50853,-0.12574,gb,2643743
+Kilburn,Literal,2053,2060,51.55295,-0.19157,gb,6690572
+South Kilburn Estate,Literal,1977,1997,51.55295,-0.19157,gb,6690572

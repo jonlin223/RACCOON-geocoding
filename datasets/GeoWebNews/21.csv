@@ -1,0 +1,8 @@
+location,class,start,end,lat,long,country,geo_id
+Toronto,Literal,2392,2399,43.70011,-79.4163,ca,6167865
+Toronto,Literal,7081,7088,43.70011,-79.4163,ca,6167865
+TORONTO,Mixed,3122,3129,43.70011,-79.4163,ca,6167865
+Disneyworld,Literal,7176,7187,28.41167,-81.58257,us,4177401
+Disneyworld,Literal,2487,2498,28.41167,-81.58257,us,4177401
+Ontario,Literal,4671,4678,49.25014,-84.49983,ca,6093943
+Ontario,Literal,4282,4289,49.25014,-84.49983,ca,6093943

@@ -1,0 +1,8 @@
+location,class,start,end,lat,long,country,geo_id
+Nigeria,Literal,454,461,10.0,8.0,ng,2328926
+Nigeria,Literal,1016,1023,10.0,8.0,ng,2328926
+Nigeria,Literal,331,338,10.0,8.0,ng,2328926
+Nigeria,Mixed,929,936,10.0,8.0,ng,2328926
+Nigeria,Literal,512,519,10.0,8.0,ng,2328926
+Abuja,Literal,1994,1999,9.05785,7.49508,ng,2352778
+Lagos,Literal,1506,1511,6.45407,3.39467,ng,2332459

@@ -1,0 +1,13 @@
+location,class,start,end,lat,long,country,geo_id
+Afrin,Literal,839,844,36.54891,36.79295,sy,174184
+Britain,Literal_Modifier,850,857,54.75844,-2.69531,gb,2635167
+Afrin,Literal,1035,1040,36.54891,36.79295,sy,174184
+Syrian,Literal_Modifier,478,484,35.0,38.0,sy,163843
+Kurdish,Literal_Modifier,615,622,37.0,44.0,iq,126585
+Afrin,Literal,634,639,36.54891,36.79295,sy,174184
+Turkish,Literal_Modifier,485,492,39.0,35.0,tr,298795
+Syrian,Literal_Modifier,353,359,35.0,38.0,sy,163843
+Qamishli,Literal,443,451,36.85071,41.17243,sy,173378
+Syria,Literal,316,321,35.0,38.0,sy,163843
+BEIRUT,Mixed,227,233,33.89332,35.50157,lb,276781
+Kurdish,Literal_Modifier,360,367,37.0,44.0,iq,126585

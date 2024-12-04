@@ -1,0 +1,14 @@
+location,class,start,end,lat,long,country,geo_id
+Aughadreena NS,Coercion,1526,1540,53.935049,-7.219736,ie,
+Courthouse Ballyjamesduff,Coercion,1542,1567,53.864166,-7.205798,ie,
+Percy French Hotel,Coercion,1569,1587,53.864019,-7.205249,ie,
+Ramor Theatre,Coercion,1605,1618,53.833945,-7.080542,ie,
+Cavan,Mixed,1819,1824,53.91667,-7.25,ie,2965534
+Cavan Institute,Coercion,1509,1524,53.999796,-7.359383,ie,
+Crossdoney Presbyterian Hall,Coercion,1630,1658,53.955866,-7.440877,ie,
+Ballinagh Community Centre,Coercion,1660,1686,53.929920,-7.409627,ie,
+Cavan Institute,Coercion,1958,1973,54.000326,-7.357722,ie,
+Ireland,Literal,512,519,53.0,-8.0,ie,2963597
+Cavan Town Hall,Coercion,1688,1703,53.991139,-7.362020,ie,
+Virginia,Literal,1620,1628,53.83389,-7.07556,ie,2961006
+Ballyjamesduff,Literal,1589,1603,53.86528,-7.20278,ie,2966550

@@ -1,0 +1,10 @@
+location,start,end,lat,long,country
+Toronto,111,118,43.7,-79.4,ca
+Canada,120,126,60.0,-95.0,ca
+Ontario,679,686,50.0,-85.0,ca
+Ontario,766,773,50.0,-85.0,ca
+Ontario,1318,1325,50.0,-85.0,ca
+Buffalo,1350,1357,42.9,-78.84,us
+New York,1359,1367,43.0,-75.0,us
+United States,1375,1388,40.0,-100.0,us
+Ontario,1438,1445,50.0,-85.0,ca

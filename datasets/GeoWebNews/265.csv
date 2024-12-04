@@ -1,0 +1,8 @@
+location,class,start,end,lat,long,country,geo_id
+Atlantic Avenue,Literal,306,321,33.580982,-79.005317,us,
+Charlotte,Literal,602,611,35.22709,-80.84313,us,4460243
+Garden City,Literal_Modifier,785,796,33.59295,-79.00865,us,4579503
+Surfside,Literal_Modifier,776,784,33.606,-78.97309,us,4598052
+SC,Mixed,214,216,34.00043,-81.00009,us,4597040
+Garden City,Literal,325,336,33.59295,-79.00865,us,4579503
+HORRY COUNTY,Mixed,200,212,33.90448,-78.97615,us,4582287

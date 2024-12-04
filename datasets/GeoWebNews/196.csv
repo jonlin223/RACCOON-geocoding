@@ -1,0 +1,14 @@
+location,class,start,end,lat,long,country,geo_id
+West Virginia,Literal,816,829,38.50038,-80.50009,us,4826850
+Kentucky,Literal,916,924,38.20042,-84.87762,us,6254925
+Arizona,Literal,929,936,34.5003,-111.50098,us,5551752
+West Virginia,Literal,1345,1358,38.50038,-80.50009,us,4826850
+U.S.,Literal,275,279,39.76,-98.5,us,6252001
+Capitol,Coercion,420,427,35.49228,-97.50337,us,4544370
+Kentucky,Literal,1362,1370,38.20042,-84.87762,us,6254925
+Arizona,Literal,1374,1381,34.5003,-111.50098,us,5551752
+Tulsa,Literal,1914,1919,36.15398,-95.99277,us,4553433
+Oklahoma,Literal,1154,1162,35.49209,-97.50328,us,4544379
+Oklahoma City,Literal,1899,1912,35.46756,-97.51643,us,4544349
+OKLAHOMA CITY,Mixed,143,156,35.46756,-97.51643,us,4544349
+Capitol,Coercion,1572,1579,35.49228,-97.50337,us,4544370

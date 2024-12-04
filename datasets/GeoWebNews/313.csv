@@ -1,0 +1,6 @@
+location,class,start,end,lat,long,country,geo_id
+Germany,Mixed,880,887,51.5,10.5,de,2921044
+UK,Mixed,1500,1502,54.75844,-2.69531,gb,2635167
+London,Mixed,1121,1127,51.50853,-0.12574,gb,2643743
+Malta,Literal,2417,2422,35.91667,14.43333,mt,2562770
+Malta,Mixed,649,654,35.91667,14.43333,mt,2562770

@@ -1,0 +1,6 @@
+location,class,start,end,lat,long,country,geo_id
+Minnesota,Literal,1348,1357,46.25024,-94.25055,us,5037779
+Saint Croix County,Literal,1572,1590,45.03407,-92.45278,us,5270199
+Wis.,Mixed,213,217,44.50024,-90.00041,us,5279468
+WAUSAU,Mixed,205,211,44.95914,-89.63012,us,5278120
+NewsChannel 7,Coercion,1152,1165,44.946846,-89.622126,us,

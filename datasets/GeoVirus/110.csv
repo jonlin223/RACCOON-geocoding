@@ -1,0 +1,10 @@
+location,start,end,lat,long,country
+Turkey,86,92,39.0,35.0,tr
+Armenia,118,125,40.0,45.0,am
+Azerbaijan,127,137,40.3,47.7,az
+Georgia,139,146,42.0,43.5,ge
+Iraq,148,152,33.0,44.0,iq
+Iran,154,158,32.0,53.0,ir
+Syria,164,169,35.0,38.0,sy
+Turkey,381,387,39.0,35.0,tr
+Turkey,496,502,39.0,35.0,tr

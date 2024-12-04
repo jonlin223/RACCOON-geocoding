@@ -1,0 +1,19 @@
+location,start,end,lat,long,country
+Johannesburg,726,738,-26.2,28.04,za
+South Africa,740,752,-30.0,25.0,za
+Johannesburg,1035,1047,-26.2,28.04,za
+South Africa,1049,1061,-30.0,25.0,za
+Midrand,1306,1313,-25.99,28.12,za
+Gauteng,1331,1338,-26.0,28.0,za
+Johannesburg,1345,1357,-26.2,28.04,za
+China,2389,2394,35.0,103.0,cn
+Beijing,2493,2500,39.91,116.38,cn
+Shanghai,2505,2513,31.22,121.47,cn
+Changsha,2518,2526,28.19,112.97,cn
+China,2776,2781,35.0,103.0,cn
+China,2791,2796,35.0,103.0,cn
+Sanya,2825,2830,18.25,109.5,cn
+South Africa,3029,3041,-30.0,25.0,za
+United States,3096,3109,40.0,-100.0,us
+Africa,3453,3459,7.18,21.09,cf
+Africa,3501,3507,7.18,21.09,cf

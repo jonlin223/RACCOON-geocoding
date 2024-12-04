@@ -1,0 +1,10 @@
+location,start,end,lat,long,country
+Burkina Faso,73,85,13.0,-2.0,bf
+Ouagadougou,218,229,12.35,-1.53,bf
+Ouagadougou,499,510,12.35,-1.53,bf
+Ouagadougou,649,660,12.35,-1.53,bf
+Benin,919,924,6.46,2.6,bj
+Ghana,926,931,7.81,-1.05,gh
+Guinea,933,939,11.0,-10.0,gn
+Niger,941,946,16.0,8.0,ne
+Senegal,952,959,14.0,-14.0,sn

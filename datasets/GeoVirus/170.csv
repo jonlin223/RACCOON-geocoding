@@ -1,0 +1,14 @@
+location,start,end,lat,long,country
+North America,37,50,54.77,-105.64,ca
+Pennsylvania,696,708,41.0,-77.5,us
+United States,876,889,40.0,-100.0,us
+U.S.,1092,1096,40.0,-100.0,us
+Canada,1308,1314,60.0,-95.0,ca
+Georgia,1463,1470,33.0,-83.5,us
+Oklahoma,1472,1480,35.5,-98.0,us
+Pennsylvania,1482,1494,41.0,-77.5,us
+Wisconsin,1496,1505,44.5,-89.5,us
+California,1510,1520,37.0,-120.0,us
+California,1699,1709,37.0,-120.0,us
+U.S.,1804,1808,40.0,-100.0,us
+U.S.,1944,1948,40.0,-100.0,us

@@ -1,0 +1,13 @@
+location,start,end,lat,long,country
+Britain,93,100,55.0,-3.0,gb
+Britain,221,228,55.0,-3.0,gb
+Little Rock,301,312,34.73,-92.33,us
+Arkansas,314,322,34.8,-92.2,us
+Britain,549,556,55.0,-3.0,gb
+American South,731,745,34.0,-90.0,us
+US,1043,1045,40.0,-100.0,us
+U.S.,1491,1495,40.0,-100.0,us
+Britain,1504,1511,55.0,-3.0,gb
+Spain,1533,1538,40.0,-4.0,es
+Italy,1543,1548,43.0,12.0,it
+Israel,1655,1661,31.0,35.0,il

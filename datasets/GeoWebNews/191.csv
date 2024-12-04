@@ -1,0 +1,19 @@
+location,class,start,end,lat,long,country,geo_id
+British International School,Coercion,360,388,30.073196,30.948169,eg,
+Liverpool Academy,Coercion,280,297,30.073196,30.948169,eg,
+Nile Delta,Literal,1181,1191,30.85,31.2,eg,351037
+Madinaty,Literal_Modifier,2029,2037,30.09613,31.65539,eg,415625
+Madinaty,Mixed,3697,3705,30.09613,31.65539,eg,415625
+Madinaty,Literal,182,190,30.09613,31.65539,eg,415625
+Cairo,Literal,1998,2003,30.06263,31.24967,eg,360630
+New Cairo,Literal,3758,3767,30.03,31.47,eg,7799991
+Cairo,Literal_Modifier,158,163,30.06263,31.24967,eg,360630
+Cairo,Literal,1167,1172,30.06263,31.24967,eg,360630
+CAIRO,Mixed,110,115,30.06263,31.24967,eg,360630
+Egypt,Literal,1824,1829,27.0,30.0,eg,357994
+Egypt,Literal,1649,1654,27.0,30.0,eg,357994
+Egypt,Literal,3052,3057,27.0,30.0,eg,357994
+Egypt,Literal,3369,3374,27.0,30.0,eg,357994
+Russia,Literal,2845,2851,60.0,100.0,ru,2017370
+Rehab,Literal,3748,3753,30.065625,31.488506,eg,
+Nagrig,Literal,3956,3962,30.97243,30.86705,eg,351396

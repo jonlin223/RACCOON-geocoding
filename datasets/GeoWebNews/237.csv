@@ -1,0 +1,7 @@
+location,class,start,end,lat,long,country,geo_id
+New York City,Literal,1532,1545,40.71427,-74.00597,us,5128581
+Newark,Literal,986,992,40.73566,-74.17237,us,5101798
+U.S.,Literal_Modifier,994,998,39.76,-98.5,us,6252001
+Newark,Literal,767,773,40.73566,-74.17237,us,5101798
+New Jersey,Literal,775,785,40.16706,-74.49987,us,5101760
+New Jersey,Literal,527,537,40.16706,-74.49987,us,5101760

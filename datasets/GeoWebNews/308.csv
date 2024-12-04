@@ -1,0 +1,6 @@
+location,class,start,end,lat,long,country,geo_id
+Astana,Literal,2463,2469,51.1801,71.44598,kz,1526273
+Almaty,Literal,2474,2480,43.25667,76.92861,kz,1526384
+UAE,Literal,2793,2796,23.75,54.5,ae,290557
+Kazakhstan,Mixed,1834,1844,48.0,68.0,kz,1522867
+Kazakhstan,Literal,2324,2334,48.0,68.0,kz,1522867

@@ -1,0 +1,5 @@
+location,class,start,end,lat,long,country,geo_id
+Md.,Literal_Modifier,278,281,39.00039,-76.74997,us,4361885
+SEVERN,Mixed,235,241,39.13705,-76.6983,us,4369190
+Md.,Mixed,243,246,39.00039,-76.74997,us,4361885
+Severn,Literal_Modifier,270,276,39.13705,-76.6983,us,4369190

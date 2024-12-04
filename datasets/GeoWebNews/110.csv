@@ -1,0 +1,5 @@
+location,class,start,end,lat,long,country,geo_id
+Bellmore,Literal_Modifier,1266,1274,40.66871,-73.52707,us,5108707
+Fire Island,Literal,368,379,40.66788,-73.05428,us,5117146
+Fort Salonga,Literal,1062,1074,40.9126,-73.30095,us,5117703
+Oceanside,Literal,300,309,40.63871,-73.64013,us,5129603

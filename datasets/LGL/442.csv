@@ -1,0 +1,7 @@
+location,start,end,lat,long,country,geo_id
+Indianapolis,15,27,39.7684,-86.158,us,4259418
+Evansville,29,39,37.9748,-87.5558,us,4257227
+Indianapolis,274,286,39.7684,-86.158,us,4259418
+Evansville,291,301,37.9748,-87.5558,us,4257227
+Indianapolis,410,422,39.7684,-86.158,us,4259418
+Indianapolis,532,544,39.7684,-86.158,us,4259418

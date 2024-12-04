@@ -1,0 +1,10 @@
+location,start,end,lat,long,country,geo_id
+Henry County,19,31,36.3334,-88.3167,us,4628829
+Tennessee,369,378,35.7503,-86.2503,us,4662168
+Benton County,389,402,36.0834,-88.0834,us,4605583
+Carroll County,452,466,35.9667,-88.4667,us,4611490
+Stewart County,505,519,36.4834,-87.8334,us,4660056
+Weakley County,560,574,36.3001,-88.8334,us,4666265
+Tennessee,603,612,35.7503,-86.2503,us,4662168
+Williamson County,726,743,35.9001,-86.9,us,4668054
+Perry County,803,815,35.6501,-87.8667,us,4648830

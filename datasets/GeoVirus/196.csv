@@ -1,0 +1,9 @@
+location,start,end,lat,long,country
+United States,26,39,40,-100,us
+United States,293,306,40,-100,us
+Iraq,438,442,33,44,iq
+Afghanistan,444,455,33,65,af
+North Korea,457,468,40,127,kp
+Iran,558,562,32,53,ir
+U.S.,915,919,40,-100,us
+Mexico,922,928,23,-102,mx

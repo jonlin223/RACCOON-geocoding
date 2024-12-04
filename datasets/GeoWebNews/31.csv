@@ -1,0 +1,4 @@
+location,class,start,end,lat,long,country,geo_id
+Kentucky,Literal_Modifier,525,533,38.20042,-84.87762,us,6254925
+New York Auto Show,Coercion,826,844,40.71427,-74.00597,us,5128581
+Bowling Green,Literal,510,523,36.99032,-86.4436,us,4285268

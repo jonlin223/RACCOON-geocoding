@@ -1,0 +1,8 @@
+location,class,start,end,lat,long,country,geo_id
+Point Peron,Literal_Modifier,1079,1090,-32.2665,115.68731,au,2063540
+Woodman Point,Literal_Modifier,1400,1413,-32.15,115.76667,au,2057923
+Woodman Point,Literal_Modifier,783,796,-32.15,115.76667,au,2057923
+WA,Literal,1158,1160,-25.0,122.0,au,2058645
+Safety Bay,Literal_Modifier,556,566,-32.30463,115.74213,au,2062057
+Cape Peron,Literal,327,337,-32.2665,115.68731,au,2063540
+Rockingham,Literal,341,351,-32.27682,115.72978,au,2062338

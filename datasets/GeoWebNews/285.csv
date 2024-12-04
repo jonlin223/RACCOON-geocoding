@@ -1,0 +1,4 @@
+location,class,start,end,lat,long,country,geo_id
+Miami-Dade,Literal,546,556,25.60897,-80.49867,us,4164238
+Miami-Dade County,Literal,431,448,25.60897,-80.49867,us,4164238
+Kendale Lakes Elementary School,Coercion,501,532,25.69538,-80.42561,us,4160707

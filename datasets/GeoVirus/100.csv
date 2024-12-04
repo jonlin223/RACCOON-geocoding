@@ -1,0 +1,9 @@
+location,start,end,lat,long,country
+United States,24,37,40.0,-100.0,us
+Canada,42,48,60.0,-95.0,ca
+Europe,233,239,51.0,17.5,pl
+U.S.,686,690,40.0,-100.0,us
+Norway,972,978,61.0,8.0,no
+Japan,1169,1174,35.0,136.0,jp
+Hong Kong,1178,1187,22.3,114.2,cn
+Japan,1192,1197,35.0,136.0,jp

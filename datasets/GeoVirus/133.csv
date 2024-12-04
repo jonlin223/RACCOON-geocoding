@@ -1,0 +1,6 @@
+location,start,end,lat,long,country
+United States,4,17,40,-100.0,us
+Colorado,139,147,39,-105.5,us
+California,149,159,37,-120.0,us
+Minnesota,165,174,46,-94.0,us
+Iowa,749,753,42,-93.0,us

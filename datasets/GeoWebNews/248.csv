@@ -1,0 +1,14 @@
+location,class,start,end,lat,long,country,geo_id
+North America,Mixed,1715,1728,54.77535,-105.64453,,7729890
+Thailand,Literal,2636,2644,15.5,101.0,th,1605651
+Asia,Mixed,2493,2497,29.84064,89.29688,,6255147
+Asia,Mixed,1560,1564,29.84064,89.29688,,6255147
+Europe,Mixed,1659,1665,48.69096,9.14062,,6255148
+Brazil,Mixed,2383,2389,-10.0,-55.0,br,3469034
+India,Literal,2616,2621,22.0,79.0,in,1269750
+China,Mixed,2394,2399,35.0,105.0,cn,1814991
+China,Literal,2599,2604,35.0,105.0,cn,1814991
+China,Mixed,1229,1234,35.0,105.0,cn,1814991
+Turkey,Literal,2772,2778,39.0,35.0,tr,298795
+Abu Dhabi,Literal_Modifier,421,430,24.46667,54.36667,ae,292968
+Indonesia,Literal,2749,2758,-5.0,120.0,id,1643084

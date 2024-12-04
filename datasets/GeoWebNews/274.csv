@@ -1,0 +1,4 @@
+location,class,start,end,lat,long,country,geo_id
+America,Literal,1134,1141,46.07323,-100.54688,,6255149
+Berkshire,Literal,822,831,51.5,-1.25,gb,2655856
+Thames Valley,Literal,788,801,51.46117,-0.93083,gb,7116407

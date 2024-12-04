@@ -1,0 +1,6 @@
+location,start,end,lat,long,country
+Christchurch,60,72,-43.53,172.62,nz
+New Zealand,74,85,-42.0,174.0,nz
+Kashmir,2097,2104,34.5,76.0,in
+India,2106,2111,21.0,78.0,in
+Pakistan,2112,2120,30.0,70.0,pk

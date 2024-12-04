@@ -1,0 +1,9 @@
+location,class,start,end,lat,long,country,geo_id
+Florida,Literal,904,911,28.75054,-82.5001,us,4155751
+Immokalee,Embedded_Literal,317,326,26.41869,-81.4173,us,4159553
+Collier County,Mixed,1781,1795,26.09924,-81.38097,us,4151550
+Immokalee,Literal_Modifier,487,496,26.41869,-81.4173,us,4159553
+Collier County,Mixed,437,451,26.09924,-81.38097,us,4151550
+Immokalee,Mixed,1281,1290,26.41869,-81.4173,us,4159553
+Immokalee,Literal_Modifier,1662,1671,26.41869,-81.4173,us,4159553
+IMMOKALEE,Mixed,346,355,26.41869,-81.4173,us,4159553

@@ -1,0 +1,9 @@
+location,start,end,lat,long,country
+United States,126,139,40,-100,us
+United States,262,275,40,-100,us
+Canada,302,308,60,-95,ca
+Texas,578,583,31,-100,us
+New Mexico,588,598,34,-106,us
+Illinois,766,774,40,-89,us
+U.S.,988,992,40,-100,us
+Texas,1791,1796,31,-100,us

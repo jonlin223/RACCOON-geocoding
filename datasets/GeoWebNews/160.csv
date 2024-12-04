@@ -1,0 +1,9 @@
+location,class,start,end,lat,long,country,geo_id
+Guma Local Government Area,Literal,773,799,7.96667,8.76667,ng,7729904
+Guma LGA,Literal,1210,1218,7.96667,8.76667,ng,7729904
+Umemger,Literal_Modifier,1191,1198,7.940316,8.755970,ng,
+Torkula,Literal_Modifier,754,761,7.988829,8.752326,ng,
+Makurdi,Literal_Modifier,529,536,7.73375,8.52139,ng,2331140
+Makurdi,Literal,247,254,7.73375,8.52139,ng,2331140
+Benue state,Literal,258,269,7.33333,8.75,ng,2347266
+Abagana,Literal,222,229,6.19031,6.99357,ng,2353122

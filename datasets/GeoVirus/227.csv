@@ -1,0 +1,16 @@
+location,start,end,lat,long,country
+U.S.,78,82,40.0,-100.0,us
+Denver,165,171,39.76,-104.88,us
+Cajamarca,234,243,-7.16,-78.51,pe
+Peru,248,252,-10.0,-76.0,pe
+San Juan,441,449,-7.29,-78.49,pe
+Choropampa,451,461,-7.28,-78.57,pe
+Magdalena,467,476,-7.25,-78.65,pe
+Yanacocha,844,853,-6.98,-78.5,pe
+Peru,1407,1411,-10.0,-76.0,pe
+Denver,1498,1504,39.76,-104.88,us
+Denver,1891,1897,39.76,-104.88,us
+Indonesia,2643,2652,-5.0,120.0,id
+United States,2757,2770,40.0,-100.0,us
+Jakarta,2876,2883,-6.2,106.81,id
+Yanacocha,3130,3139,-6.98,-78.5,pe

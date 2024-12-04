@@ -1,0 +1,12 @@
+location,start,end,lat,long,country
+Alberta,22,29,55.0,-115.0,ca
+Canada,31,37,60.0,-95.0,ca
+Winnipeg,300,308,49.89,-97.13,ca
+Alberta,378,385,55.0,-115.0,ca
+Canada,629,635,60.0,-95.0,ca
+United States,763,776,40.0,-100.0,us
+Washington,877,887,47.5,-120.5,us
+Canada,925,931,60.0,-95.0,ca
+Alberta,970,977,55.0,-115.0,ca
+Texas,1021,1026,31.0,-100.0,us
+England,1068,1075,51.5,-0.11,gb

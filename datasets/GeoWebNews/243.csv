@@ -1,0 +1,3 @@
+location,class,start,end,lat,long,country,geo_id
+Congress,Coercion,813,821,38.88983,-77.00887,us,4140827
+Washington,Literal,774,784,38.89511,-77.03637,us,4140963

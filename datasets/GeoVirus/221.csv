@@ -1,0 +1,13 @@
+location,start,end,lat,long,country
+Britain,84,91,55.0,-3.0,gb
+UK,360,362,55.0,-3.0,gb
+Chechnya,631,639,43.4,45.71,ru
+Moscow,661,667,55.75,37.61,ru
+Piccadilly,875,885,51.5,-0.14,gb
+London,1021,1027,51.5,-0.12,gb
+London,1219,1225,51.5,-0.12,gb
+United Kingdom,1704,1718,55.0,-3.0,gb
+Piccadilly,1924,1934,51.5,-0.14,gb
+Muswell Hill,1948,1960,51.59,-0.14,gb
+Grosvenor Square,1987,2003,51.51,-0.15,gb
+Moscow,2478,2484,55.75,37.61,ru

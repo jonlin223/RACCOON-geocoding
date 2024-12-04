@@ -1,0 +1,42 @@
+location,start,end,lat,long,country
+Philippines,63,74,13.0,122.0,ph
+Manila,516,522,14.58,121.0,ph
+U.S.,880,884,40.0,-100.0,us
+Manila,1017,1023,14.58,121.0,ph
+Pandi,1189,1194,14.87,120.95,ph
+Bulacan,1196,1203,15.0,121.08,ph
+Talavera,1208,1216,15.58,120.91,ph
+Manaoag,2121,2128,16.04,120.48,ph
+Pangasinan,2130,2140,15.92,120.33,ph
+Pandi,2145,2150,14.87,120.95,ph
+Bulacan,2152,2159,15.0,121.08,ph
+NY,2393,2395,43.0,-75.0,us
+Plum Island,2396,2407,41.18,-72.19,us
+Nueva Ecija,2578,2589,15.58,121.0,ph
+Bulacan,2594,2601,15.0,121.08,ph
+North America,3143,3156,54.77,-105.64,ca
+Europe,3169,3175,51.0,17.5,pl
+United States,3199,3212,40.0,-100.0,us
+Luzon,3361,3366,16.0,121.0,ph
+Philippines,3499,3510,13.0,122.0,ph
+United States,3542,3555,40.0,-100.0,us
+Democratic Republic of Congo,4277,4305,-2.88,23.65,cd
+DRC,4307,4310,-2.88,23.65,cd
+Western Kasai,4546,4559,-5.9,22.45,cd
+Philippines,4815,4826,13.0,122.0,ph
+Philippines,5062,5073,13.0,122.0,ph
+Reston,5077,5083,38.95,-77.34,us
+Virginia,5085,5093,37.5,-79.0,us
+U.S.,5166,5170,40.0,-100.0,us
+Italy,5202,5207,43.0,12.0,it
+Rome,5690,5694,41.9,12.5,it
+Laguna,6427,6433,14.17,121.33,ph
+US,6503,6505,40.0,-100.0,us
+Philippines,6853,6864,13.0,122.0,ph
+South Cotabato,7022,7036,6.17,125.0,ph
+US,7047,7049,40.0,-100.0,us
+Singapore,7139,7148,1.3,103.8,sg
+Santa Maria,7274,7285,6.55,125.46,ph
+Davao del Sur,7287,7300,6.33,125.5,ph
+Mindanao,7305,7313,8.0,125.0,ph
+Pongpong,7526,7534,6.49,125.46,ph

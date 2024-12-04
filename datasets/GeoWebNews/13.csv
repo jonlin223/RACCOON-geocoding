@@ -1,0 +1,7 @@
+location,class,start,end,lat,long,country,geo_id
+Pacific,Literal,1281,1288,30.0,-170.0,,4030875
+Pacific,Literal_Modifier,268,275,30.0,-170.0,,4030875
+Asian,Literal_Modifier,262,267,29.84064,89.29688,,6255147
+Asia,Literal,1276,1280,29.84064,89.29688,,6255147
+Hanoi,Literal,571,576,21.0245,105.84117,vn,1581130
+Hanoi,Mixed,177,182,21.0245,105.84117,vn,1581130

@@ -1,0 +1,8 @@
+location,class,start,end,lat,long,country,geo_id
+McLean County,Mixed,3550,3563,37.52919,-87.26361,us,4300401
+Muhlenberg County,Mixed,3594,3611,37.21579,-87.14204,us,4301955
+Ohio County,Mixed,3648,3659,37.47819,-86.84889,us,4302977
+Pike County,Mixed,3692,3703,37.46902,-82.39587,us,4304226
+Daviess County,Mixed,3505,3519,37.73177,-87.08723,us,4289518
+Kentucky,Mixed,2944,2952,38.20042,-84.87762,us,6254925
+Kentucky,Literal,566,574,38.20042,-84.87762,us,6254925

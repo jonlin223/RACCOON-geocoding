@@ -1,0 +1,16 @@
+location,start,end,lat,long,country
+Europe,19,25,51.0,17.5,pl
+Greece,276,282,39.0,22.0,gr
+Bulgaria,284,292,42.75,25.5,bg
+Italy,294,299,43.0,12.0,it
+Austria,301,308,47.33,13.33,at
+Germany,313,320,51.0,9.0,de
+Slovenia,429,437,46.11,14.81,si
+Croatia,439,446,45.16,15.5,hr
+Denmark,451,458,56.0,10.0,dk
+Africa,525,531,7.18,21.09,cf
+Europe,535,541,51.0,17.5,pl
+Western Europe,578,592,50.21,7.42,de
+Russia,639,645,60.0,90.0,ru
+Ukraine,650,657,49.0,32.0,ua
+Black Sea,665,674,44.0,35.0,

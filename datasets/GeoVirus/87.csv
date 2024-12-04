@@ -1,0 +1,15 @@
+location,start,end,lat,long,country
+West Africa,26,37,18.31,-4.83,ml
+Burkina Faso,892,904,13.0,-2.0,bf
+Cote d'Ivoire,906,919,8.0,-5.0,ci
+Guinea,921,927,11.0,-10.0,gn
+Guinea-Bissau,929,942,12.0,-15.0,gw
+Liberia,944,951,6.5,-9.5,lr
+Mauritania,953,963,20.0,-12.0,mr
+Mali,965,969,17.0,-4.0,ml
+Niger,971,976,16.0,8.0,ne
+Senegal,982,989,14.0,-14.0,sn
+Central Africa,1099,1113,-2.02,24.69,cd
+Nigeria,1116,1123,8.0,10.0,ng
+Cameroon,1125,1133,6.0,12.0,cm
+Chad,1138,1142,15.0,19.0,td

@@ -1,0 +1,11 @@
+location,class,start,end,lat,long,country,geo_id
+Goleta,Literal_Modifier,1433,1439,34.43583,-119.82764,us,5352963
+Carpinteria,Literal_Modifier,1453,1464,34.39888,-119.51846,us,5334423
+Mesa,Literal,1486,1490,33.64113,-117.91867,us,5339840
+Booker,Coercion,2326,2332,35.585369,-120.740452,us,
+L’Aventure,Coercion,2337,2347,35.585369,-120.740452,us,
+Sullivan Goss,Coercion,851,864,34.423896,-119.704152,us,
+Newcomers,Coercion,781,790,34.423896,-119.704152,us,
+Turtle Rock,Mixed,1527,1538,37.86604,-121.94301,us,5404106
+Black Sheep,Coercion,2101,2112,34.419193,-119.696964,us,
+Turtle Rock,Literal_Modifier,2068,2079,37.86604,-121.94301,us,5404106

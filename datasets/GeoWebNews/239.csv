@@ -1,0 +1,16 @@
+location,class,start,end,lat,long,country,geo_id
+West Wing,Coercion,2049,2058,38.89704,-77.03655,us,9675434
+U.S.,Literal_Modifier,5300,5304,39.76,-98.5,us,6252001
+California,Literal,5456,5466,37.25022,-119.75126,us,5332921
+Mexico,Literal,5317,5323,23.0,-102.0,mx,3996063
+WASHINGTON,Mixed,258,268,38.89511,-77.03637,us,4140963
+Mexican,Literal_Modifier,6429,6436,23.0,-102.0,mx,3996063
+White House,Coercion,3211,3222,38.89704,-77.03655,us,9675434
+West Wing,Coercion,680,689,38.89704,-77.03655,us,9675434
+Oval Office,Coercion,3609,3620,38.89704,-77.03655,us,9675434
+Florida,Literal_Modifier,3709,3716,28.75054,-82.5001,us,4155751
+West Wing,Coercion,4492,4501,38.89704,-77.03655,us,9675434
+White House,Coercion,4359,4370,38.89704,-77.03655,us,9675434
+Trump Tower,Literal,2796,2807,40.7625,-73.97444,us,6342812
+Trump Tower,Literal_Modifier,4801,4812,40.7625,-73.97444,us,6342812
+White House,Coercion,2761,2772,38.89704,-77.03655,us,9675434

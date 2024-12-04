@@ -1,0 +1,11 @@
+location,class,start,end,lat,long,country,geo_id
+Northwest Cancer Centre,Literal,767,790,54.986415,-7.291856,gb,
+Northern Trust,Literal_Modifier,725,739,54.890467,-7.882604,ie,
+Western Trust,Coercion,670,683,54.848586,-7.084168,gb,
+Republic,Literal,712,720,53.0,-8.0,ie,2963597
+Macmillan Support Centre,Literal,520,544,54.986415,-7.291856,gb,
+Agnes Jones House,Coercion,574,591,54.986415,-7.291856,gb,
+Northern Ireland,Literal,266,282,54.5,-6.5,gb,2641364
+Altnagelvin Hospital,Literal,213,233,54.986415,-7.291856,gb,
+Health and Wellbeing Campus,Literal,163,190,54.986415,-7.291856,gb,
+Derry,Literal_Modifier,205,210,54.9981,-7.30934,gb,2643736

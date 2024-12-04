@@ -1,0 +1,8 @@
+location,class,start,end,lat,long,country,geo_id
+Karnataka,Embedded_Literal,877,886,14.66667,75.83333,in,1267701
+Kerala,Mixed,678,684,10.41667,76.5,in,1267254
+Puducherry,Mixed,689,699,11.93333,79.81667,in,1259424
+Cauvery,Mixed,385,392,11.13659,79.85782,in,1267384
+Tamil Nadu,Literal_Modifier,3961,3971,11.0,78.33333,in,1255053
+Karnataka,Mixed,667,676,14.66667,75.83333,in,1267701
+Tamil Nadu,Mixed,655,665,11.0,78.33333,in,1255053

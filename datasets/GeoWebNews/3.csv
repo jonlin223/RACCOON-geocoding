@@ -1,0 +1,6 @@
+location,class,start,end,lat,long,country,geo_id
+Illinois Capitol Complex,Literal_Modifier,285,309,39.79755,-89.6576,us,4235185
+Illinois State Armory,Literal,704,725,39.800128,-89.653965,us,
+Illinois,Literal_Modifier,1016,1024,40.00032,-89.25037,us,4896861
+Ill.,Mixed,177,181,40.00032,-89.25037,us,4896861
+SPRINGFIELD,Mixed,164,175,39.80172,-89.64371,us,4250542

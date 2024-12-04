@@ -1,0 +1,22 @@
+location,start,end,lat,long,country
+Wisconsin,118,127,44.5,-89.5,us
+Michigan,228,236,44.0,-85.0,us
+Oregon,238,244,44.0,-120.5,us
+New Mexico,246,256,34.0,-106.0,us
+New York,258,266,43.0,-75.0,us
+Indiana,268,275,40.0,-86.0,us
+Ohio,277,281,40.5,-82.5,us
+Wisconsin,283,292,44.5,-89.5,us
+Idaho,294,299,45.0,-114.0,us
+Connecticut,301,312,41.6,-72.7,us
+Kentucky,314,322,37.5,-85.0,us
+Utah,327,331,39.0,-111.0,us
+Washington,533,543,47.5,-120.5,us
+Pennsylvania,545,557,41.0,-77.5,us
+California,562,572,37.0,-120.0,us
+U.S.,1415,1419,40.0,-100.0,us
+Wisconsin,1902,1911,44.5,-89.5,us
+Wisconsin,1932,1941,44.5,-89.5,us
+California,2632,2642,37.0,-120.0,us
+San Juan Bautista,2729,2746,36.84,-121.53,us
+California,2748,2758,37.0,-120.0,us

@@ -1,0 +1,13 @@
+location,class,start,end,lat,long,country,geo_id
+Holy See,Literal,1507,1515,41.90225,12.4533,va,3164670
+Holy See,Literal,1658,1666,41.90225,12.4533,va,3164670
+Holy See,Literal,463,471,41.90225,12.4533,va,3164670
+Holy See,Literal,1940,1948,41.90225,12.4533,va,3164670
+Embassy of the Republic of Armenia,Coercion,1465,1499,41.904079,12.494358,it,
+Holy See,Literal,991,999,41.90225,12.4533,va,3164670
+Vatican Gardens,Literal,1191,1206,41.9031,12.4506,va,
+Vatican,Literal,348,355,41.90225,12.4533,va,3164670
+Vatican,Literal,1054,1061,41.90225,12.4533,va,3164670
+Holy See,Literal,219,227,41.90225,12.4533,va,3164670
+Czech Republic,Literal,611,625,49.75,15.0,cz,3077311
+Echmiadzin,Literal,1099,1109,40.16557,44.29462,am,616062

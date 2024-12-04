@@ -1,0 +1,16 @@
+location,class,start,end,lat,long,country,geo_id
+Iraqi,Literal_Modifier,578,583,33.0,44.0,iq,99237
+Damascus,Literal_Modifier,1025,1033,33.5102,36.29128,sy,170654
+Douma,Literal,695,700,33.57175,36.4027,sy,170592
+Ghouta,Literal,774,780,33.527,36.389,sy,173866
+Douma,Mixed,808,813,33.57175,36.4027,sy,170592
+Syrian,Literal_Modifier,451,457,35.0,38.0,sy,163843
+Idlib,Literal_Modifier,3009,3014,35.93062,36.63393,sy,169389
+Syria,Literal,2911,2916,35.0,38.0,sy,163843
+Ghouta,Literal,2945,2951,33.527,36.389,sy,173866
+Damascus,Mixed,466,474,33.5102,36.29128,sy,170654
+Douma,Literal,309,314,33.57175,36.4027,sy,170592
+Ghouta,Literal,233,239,33.527,36.389,sy,173866
+Ghouta,Literal,2641,2647,33.527,36.389,sy,173866
+Ghouta,Literal,2090,2096,33.527,36.389,sy,173866
+Douma,Literal,2313,2318,33.57175,36.4027,sy,170592

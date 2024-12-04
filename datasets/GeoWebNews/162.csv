@@ -1,0 +1,9 @@
+location,class,start,end,lat,long,country,geo_id
+New Quay,Literal,744,752,52.21515,-4.35887,gb,2641588
+New Quay,Literal,1017,1025,52.21515,-4.35887,gb,2641588
+St Athan,Literal,709,717,51.40278,-3.41389,gb,2638854
+Ceredigion,Literal,303,313,52.25,-4.0,gb,2653814
+West Wales,Literal,223,233,52.434,-3.83,gb,7302124
+New Quay,Literal,293,301,52.21515,-4.35887,gb,2641588
+New Quay RNLI,Coercion,785,798,52.213502,-4.357330,gb,
+Gwbert,Literal,757,763,52.1166,-4.68599,gb,2635582

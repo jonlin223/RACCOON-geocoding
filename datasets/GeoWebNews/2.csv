@@ -1,0 +1,7 @@
+location,class,start,end,lat,long,country,geo_id
+British,Literal_Modifier,1377,1384,54.75844,-2.69531,gb,2635167
+Britain,Literal,536,543,54.75844,-2.69531,gb,2635167
+UK,Literal,1773,1775,54.75844,-2.69531,gb,2635167
+UK,Literal,329,331,54.75844,-2.69531,gb,2635167
+Britain,Literal_Modifier,395,402,54.75844,-2.69531,gb,2635167
+British Embassy Tokyo,Coercion,886,907,35.686843,139.744320,jp,

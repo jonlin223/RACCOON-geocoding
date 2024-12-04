@@ -1,0 +1,3 @@
+location,class,start,end,lat,long,country,geo_id
+Burton,Literal,588,594,52.80728,-1.64263,gb,2654200
+Birmingham City,Coercion,238,253,52.475373,-1.869036,gb,
